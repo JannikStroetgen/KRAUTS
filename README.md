@@ -6,8 +6,7 @@ KRAUTS (Korpus of newspapeR Articles with Underlinded Temporal expressionS) is a
 The corpus is available under [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/) and is described in:
 * Jannik Strötgen, Anne-Lyse Minard, Lukas Lange, Manuela Speranza, Bernardo Magnini:  
    **KRAUTS: A German Temporally Annotated News Corpus**,
-   11th International Conference on Language Resources and Evaluation,
-   LREC, 2018. (to appear).
+   *11th International Conference on Language Resources and Evaluation (LREC'18), 2018. (to appear).*
 
 KRAUTS contains articles from the daily newspaper *Dolimiten* and from the weekly newspaper *Die Zeit*.
 
