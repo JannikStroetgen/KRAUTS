@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1051488_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-03-05" temporalFunction="false" functionInDocument="CREATION_TIME">2014-03-05</TIMEX3></DCT>
+<TEXT>
+RATSCHINGS (mf). Auch heuer organisiert die Gemeinde Ratschings wieder ein Projekt zur Betreuung von Grundund Mittelschulkindern während der Sommerferien, das den Namen "Sommer unter Freunden aktiv-kreativ-gemeinsam" trägt. Der Gemeindeausschuss hat diese Initiative vor kurzem genehmigt. Die Gemeindeverwaltung stellt dafür die nötigen Räume in der Grundschule Stange und der Sportzone zur Verfügung. Vorgesehen sind heuer vier Turnusse von je zwei Wochen. Die voraussichüichen Kosten für das Projekt belaufen sich auf 45.000 Euro. Der Gemeindeausschuss hat außerdem die Teilnahmegebühr für das Sommercamp festgelegt: Sie beträgt 70 Euro pro Kind, ab dem zweiten Kind 50 Euro und für Kinder anderer Gemeinden 100 Euro. ©
+</TEXT>
+</TimeML>

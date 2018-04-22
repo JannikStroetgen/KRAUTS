@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>55944_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2010-10-28" temporalFunction="false" functionInDocument="CREATION_TIME">2010-10-28</TIMEX3></DCT>
+<TEXT>
+BOZEN. Egal ob Erdbeben, Überschwemmungen, Dürre, Vulkanausbrüche oder Tsunami – in Katastrophenfällen startet die Südtiroler Caritas stets Hilfs- und Spendenaktionen. Bereits des Öfteren hat der Südtiroler Raiffeisenverband diese Hilfsprojekte mitgetragen. Es sei Auftrag und Anliegen des Caritas- Netzwerkes, in das auch die Caritas der Diözese Bozen- Brixen eingebunden ist, schnell und unbürokratisch Hilfe in die Wege zu leiten, so Caritas-Direktor Heiner Schweigkofler (links). Nun haben er und Paul Gasser, Generaldirektor des Raiffeisenverbandes (rechts), eine Vereinbarung für eineweitere Zusammenarbeit in Katastrophenfällen unterzeichnet.
+
+</TEXT>
+</TimeML>

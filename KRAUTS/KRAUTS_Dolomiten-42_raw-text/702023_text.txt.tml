@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>702023_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-11-08" temporalFunction="false" functionInDocument="CREATION_TIME">2013-11-08</TIMEX3></DCT>
+<TEXT>
+BOZEN (uli). Wegen Vortäuschung einer Straftat hat Richter Stefan Tappeiner den 55-jährigen Luigi Gastrini aus Bergamo gestern zu einer bedingten Haftstrafe von acht Monaten verurteilt. Der Vorwurf, sich unberechtigterweise als Geheimagent ausgegeben zu haben, wurde fallen gelassen. Er hatte nämlich erklärt, Ex-Carabiniere und Ex-Spion zu sein, der unter dem Decknamen "Lupo" arbeite. Gastrini war im Herbst 2011 aufgetaucht und hatte den Ermitüern erklärt, er habe neue Informationen zum Entführungsfall Manuela Orlandi im lahr 1983 aus dem Vatikan: Die Banda della Magliana stecke dahinter. Gastrinis Anwalt Mauro De Pascalis erklärte, er sehe keine Straftat darin: Alle Zeitungen hätten das in jener Zeit geschrieben, dass diese Bande mit dem Fall zu tun haben könnte. De Pascalis hat Berufung angekündigt. ©Alle Rechte vorbehalten 
+</TEXT>
+<TIMEX3 tid="t6" type="DATE" value="2014-07" temporalFunction="false" />
+</TimeML>

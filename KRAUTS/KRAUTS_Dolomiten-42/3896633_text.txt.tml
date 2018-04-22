@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>3896633_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2016-01-05" temporalFunction="false" functionInDocument="CREATION_TIME">2016-01-05</TIMEX3></DCT>
+<TEXT>
+Bozen  (hof). Ginge es nach Brigitte Foppa (Grüne), so sollte man die Ressortdirektionen abschaffen. Zusammen mit den persönlichen Referenten der Landesräte kosten die Ressortdirektoren den Steuerzahler <TIMEX3 tid="t2" type="SET" value="P1Y" functionInDocument="NONE">jährlich</TIMEX3> über 2 Millionen Euro, kritisiert Foppa. Diese 2 Millionen Euro würden für 23 Personen ausgegeben.  "Das ist ein Zehntel dessen, was die gesamten Landesangestellten mit dem letzten Haushaltsgesetz an Gehaltsaufstockung erhalten werden", meinen Foppa, Hans Heiss und Riccardo Dello Sbarba.  Beim Land hält man prinzipiell an den Ressortdirektoren fest - auch wenn <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF" functionInDocument="NONE">jetzt</TIMEX3> über eine Reform der Führungsstrukturen diskutiert wird. Laut Landesrätin Waltraud Deeg ist über die künftige Rolle der Ressortdirektionen zwar noch keine definitive Entscheidung gefallen. Laut Generaldirektor Hanspeter Staffler ist man aber intern zur Auffassung gelangt, dass die Ressortchefs  zur Unterstützung des Landesrates eine wertvolle Ressource seien.  
+</TEXT>
+</TimeML>

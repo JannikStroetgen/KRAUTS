@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>66448_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2011-02-01" temporalFunction="false" functionInDocument="CREATION_TIME">2011-02-01</TIMEX3></DCT>
+<TEXT>
+BOZEN(pir). „Es geht nicht mehr um die Frage, ob das Relief bleiben soll oder nicht,wenn <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF" functionInDocument="NONE">jetzt</TIMEX3> Gespräche mit den anderen Parteien aufgenommenwerden“, betont Vizebürgermeister Klaus Ladinser (im Bild). Diese Entscheidung sei bereits gefallen, stärkt Ladinser Landeshauptmann Luis Durnwalder den Rücken. „Parteien, die sich für einen Beibehalt des Mussolini auf einem öffentlichen Gebäude, wie es das Finanzamt ist, aussprechen, finden beimir sicher kein Verständnis“, fährt Ladinser fort. Ein Denkmal mit diesem Inhalt seiauf einem öffentlichen Gebäude nicht tragbar, „auchweil es einen historischen Abschnitt darstellt, der für unser Land eine äußerst schmerzhafte Zeitwar, in der sogar versuchtworden ist, unsere Volksgruppe auszulöschen.“Der Vizebürgermeister hofft nun, dass die italienischsprachigen Bürger Bozens an einer vernünftigen Lösungmitarbeiten. Grundsätzlich gehe es jedoch nurmehr darum zu entscheiden,wasmit dem Relief nach seiner Entfernung geschehen soll. „Mir persönlich schwebt eine museale Lösung vor“, verweist Ladinser auf eine Unterbringung in einer Museumsstruktur. Für all jene, die die Entfernung des Mussolini kritisch sehen, findet Vizebürgermeister Ladinser klare Worte: „Wer diesen Mussolini nicht gerne vom Finanzamt holt, der hat ein Problem mit seiner eigenen ethischen und demokratiepolitischen Einstellung.“
+
+</TEXT>
+</TimeML>

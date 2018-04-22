@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>203863_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2012-08-24" temporalFunction="false" functionInDocument="CREATION_TIME">2012-08-24</TIMEX3></DCT>
+<TEXT>
+Vals.   Auf der Fane Alm  dreht sich <TIMEX3 tid="t2" type="DATE" value="2012-08-25" anchorTimeID="t0" functionInDocument="NONE">morgen</TIMEX3> und <TIMEX3 tid="t3" type="DATE" value="2012-08-26" anchorTimeID="t0" functionInDocument="NONE">übermorgen</TIMEX3>  alles um die Milch.  Die Südtiroler Milchwirtschaft lädt zum Entdecken der Milch in allen Facetten ein: eine Milchspielwiese für die Kleinen, Milchgeschichten, eine Milcholympiade für alle Sportlichen, ein Milchkino, sowie kulinarische Milchspezialitäten. Das Highlight des Südtiroler Milchfestes ist:  "Herbert Pixner Projekt" <TIMEX3 tid="t4" type="DATE" value="2012-08-25" anchorTimeID="t0" functionInDocument="NONE">morgen</TIMEX3> ab <TIMEX3 tid="t5" type="TIME" value="2012-08-25T12:00" anchorTimeID="t4" functionInDocument="NONE">12 Uhr</TIMEX3>. Termin: <TIMEX3 tid="t6" type="DATE" value="2012-08-25" anchorTimeID="t0" functionInDocument="NONE">25</TIMEX3>. und <TIMEX3 tid="t7" type="DATE" value="2012-08-26" anchorTimeID="t0" functionInDocument="NONE">26. August</TIMEX3>  von <TIMEX3 tid="t8" type="TIME" value="T10:00" functionInDocument="NONE">10</TIMEX3>-<TIMEX3 tid="t9" type="TIME" value="T18:00" functionInDocument="NONE">18 Uhr</TIMEX3>. Infos: www.milchfest.it.
+
+</TEXT>
+<TIMEX3 tid="t10" type="DURATION" value="PT8H" temporalFunction="false" />
+</TimeML>

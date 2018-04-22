@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>383197_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-06-05" temporalFunction="false" functionInDocument="CREATION_TIME">2013-06-05</TIMEX3></DCT>
+<TEXT>
+Bozen . Im Bereich „Euregio Minibond“ ist die  PensPlan Invest SpA ein starker Partner der  PRADER BANK. Die Privatbank organisiert Investoren, betreut und berät Emittenten, und PensPlan Invest managt  den  regionalen Fond. Im Bild: Josef Prader , Gründer der PRADER BANK, und  Florian Schwienbacher , Generaldirektor der PensPlan Invest SpA (rechts).   ©
+</TEXT>
+</TimeML>
+

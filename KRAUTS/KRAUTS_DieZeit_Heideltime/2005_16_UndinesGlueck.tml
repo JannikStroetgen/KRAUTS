@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2005_16_UndinesGlueck</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-04-14">2005-04-14</TIMEX3></DCT>
+<TEXT>
+WAS IST WEIBLICH?
+
+Undines Glück
+
+Die Schriftstellerin ELKE DOMHARDT erzählt Hans Christian Andersens Märchen »Die kleine Meerjungfrau« noch einmal - die Geschichte einer Nixe, die für einen Mann ihre Natur aufgibt
+
+<TIMEX3 tid="t1" type="DATE" value="2005-W16">Kommende Woche</TIMEX3> setzen wir die Serie »Was ist weiblich?« fort: Elisabeth von Thadden und Liane von Billerbeck über den frauenlosen Osten
+
+Autor: Domhardt, Elke
+
+Sie geht! Auf zwei Beinen! Triumph der plastischen Chirurgie! Das Unmögliche ist uns geglückt! Sie läuft! Nicht ohne ihre Krücken, und die wird sie auch niemals gänzlich ablegen können, nicht ohne Schmerzmittel, doch das haben wir ihr prophezeit. Es gibt Tonbandprotokolle. Wir haben sie nicht hierher gelockt mit falschen Versprechungen. Wir haben ihr im Gegenteil ihre Chancen eher zu schwarz gemalt als zu rosig. Sogar das gänzliche Misslingen des Unterfangens haben wir ihr vor Augen geführt. Es hat sie nicht abgebracht von ihrem Entschluss. Sie war fest entschlossen, als sie hier ankam. Vor fast genau <TIMEX3 tid="t2" type="DURATION" value="P3Y">drei Jahren</TIMEX3>. In einem Rollstuhl. Den Unterkörper in eine Decke gewickelt. Abgesehen von den Einzelheiten, Mund, Augen und so weiter, die makellos waren, lag ein unbeschreiblicher Schimmer auf ihrer ganzen Erscheinung, eine unbeschreibliche Lieblichkeit. Und dann dieser Fischschwanz. Wir trauten unseren Augen nicht, als sie ihn aus der Decke wickelte. Kräftig. Schwarzblau. Schuppig. Ich glaube, er hat sogar ein wenig gestunken.
+
+Ein Unding nannte sie ihn. Sich selbst einen Antagonismus. Durch die Liebe zu einem Mann nicht bestätigt, sondern ad absurdum geführt in ihrer ganzen Existenz. Ihr Unterteil des Oberteils Feind. Und umgekehrt. Liebe und Selbsthass zwei Seiten ein und derselben Sache. Vielleicht wäre es besser gewesen, hat sie gesagt, wenn ich diesem Mann nie begegnet wäre. Doch das konnte sie nun auch nicht mehr wünschen.
+
+Hätten wir sie wegschicken, irgendwelchen Stümpern in die Hände treiben sollen? Das wäre die eigentliche Unmoral gewesen. Ganz abgesehen davon, dass es auch unmoralisch gewesen wäre, ein Honorar auszuschlagen, das schon als Gerücht die Börsenkurse ins Wanken brachte. Fünfundfünfzig kirschgroße Perlen! In Zeiten der Stagnation, wo alles am Mangel krankt, der gesamte Fortschritt! Wer sind wir denn, dass wir zu einem solchen Glücksfall nein danke sagen dürften. Wir sind Diener der Wissenschaft, nicht ihre Herren.
+
+Demut ist unser Gebot, nicht Größenwahn. Tatsächlich hat ja unsere Initiative, indem wir Aufträge vergaben in alle Welt, auch einen Sprung bewirkt in der Stammzellforschung, der Entwicklung von künstlichen Gelenken und so weiter, wie er in <TIMEX3 tid="t4" type="DURATION" value="PXY">den letzten Jahren</TIMEX3> überhaupt nicht denkbar war.
+
+Wir haben die Herausforderung angenommen. Wir haben Undine dabehalten, und zwar nicht, wie es <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">jetzt</TIMEX3> heißt, als Aushängeschild. Wir hätten sie im Gegenteil gar nicht hier haben wollen. Erstens untergrub ihre Schönheit das Selbstwertgefühl der übrigen Patienten. Jedes Mal, wenn sie in ihrem Rollstuhl durch die Klinik geschoben worden war, mussten wir ihnen erklären, dass Schimmer und Lieblichkeit inoperable Größen sind. Zweitens mochte sie es nicht, angestarrt zu werden. Sie legte es falsch aus und war tagelang verzweifelt. Drittens war uns sehr daran gelegen, in Ruhe zu arbeiten und zu entscheiden, ohne jedes Mal beim Frühstück in irgendeinem Wurstblatt einen hämischen Kommentar zu lesen. Vor allem aber hätten wir sie am liebsten zurück in ihr natürliches Element geschickt, weil ein Rollstuhl der denkbar schlechteste Aufenthalt ist für so ein Wasserwesen. Wir mussten sie aber dabehalten, um sie zu studieren. Wir betraten ja absolutes Neuland, auf allen Gebieten. Nicht einmal ihr Blut war identisch mit menschlichem Blut.
+
+Wir haben es ihr hier so artgerecht wie möglich gemacht, sie den <TIMEX3 tid="t6" type="DATE" value="2005-SU">Sommer</TIMEX3> über nachts an einen See gefahren, von wo aus sie Ausflüge bis ins Meer unternehmen konnte, ihr im <TIMEX3 tid="t7" type="DATE" value="2005-FA">Herbst</TIMEX3> ein Schwimmbad gebaut, direkt neben ihrem Zimmer und nur für sie zugänglich, eine spezielle Aufbaudiät entwickelt und so weiter. Leider litt sie an Stimmungsschwankungen, die allmählich manisch-depressive Ausmaße annahmen. Den <TIMEX3 tid="t8" type="DURATION" value="P1D">einen Tag</TIMEX3> konnte sie sich überhaupt nicht vorstellen, dass ihre Verwandlung zu etwas gut sei, den anderen steigerte sie sich in übertriebene Hoffnungen hinein. So sahen wir uns schließlich gezwungen, den Schiffbrüchigen ausfindig machen zu lassen, in den sie so unsterblich verliebt war, als die einzige Möglichkeit, Realität in ihre Gefühlswelt zu bringen. Und durch ihn, durch diesen Gilbert von Aspensen, wurde dann alles an die große Glocke gehängt. Er ist ja so ein Berufsabenteurer, der von seinem Leichtsinn lebt, den er inszeniert. Unser Privatdetektiv hat auch gar nicht lange nach ihm fahnden müssen, von Aspensen hatte die Geschichte seiner wundersamen Rettung bereits medienwirksam vermarktet. Sie hatte wochenlang die Schlagzeilen Neuseelands bestimmt.
+
+Packen von Artikeln handelten ausschließlich davon. Zig Aufnahmen zeigten das Felsenriff, auf dem er vollkommen unversehrt erwacht war, unweit von Wellington und Hunderte Kilometer vom Unglücksort entfernt. Den Fetzen seines Segels, mit dem er zugedeckt war, sodass er sich nicht einmal einen Sonnenbrand geholt hatte. Ihn selbst: wettergegerbte Haut, wehendes Blondhaar, strahlendes Gebiss. Allerdings ging aus den Interviews hervor, dass er seine Rettung für eine Sache von Meeresströmungen, seine Retterin für die Halluzination eines Ertrinkenden hielt.
+
+Undine war überglücklich, als wir ihr diese Zeitungsausschnitte gaben. Und wir sagten einander: <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Jetzt</TIMEX3> ist es mit unserer Ruhe vorbei. Wir hatten aber keine Ahnung, was für ein Orkan tatsächlich losbrechen sollte. Es war, als ob es überhaupt kein anderes Thema mehr gäbe. Wann immer man eine Zeitung aufschlug, sahen einem Gilberts und Undines Gesichter entgegen. Eine Zeitung ernannte sie zum Liebespaar des Jahres. Ein Privatsender erbot sich, eine erste Begegnung zu organisieren. Ein anderer die Hochzeit. Je näher sich Undine und von Aspensen kamen, je längere Telefonate sie führten, desto mehr Journalisten zogen vor unseren Mauern auf, mit immer schwererem Gerät. Es war eine Belagerung.
+
+Undine selbst bemerkte wenig davon. Ihr Leben bestand aus seinen Anrufen, Schwimmen und Schlafen. Für uns nahm der Erfolgsdruck durch den Rummel kaum erträgliche Ausmaße an. Wir mussten einander ständig bremsen, uns trotz der allgemeinen Nervosität zur Langsamkeit zwingen. Dass uns das gelang, grenzte an Selbstverleugnung. Von einem bestimmten Zeitpunkt an fanden wir dann Halt in der Arbeit selbst. Alles gelang uns. Plötzlich war eine Lösung für die Befestigung der Titangelenke im Hüftbereich gefunden, die zugleich Leib und Wirbelsäule trug. Plötzlich hatte die Wisconsin Alumni Research Foundation so viel Haut- und Muskelgewebe herangezogen, dass es für drei Undines gereicht hätte. Im <TIMEX3 tid="t10" type="DATE" value="2008-09">September 2008</TIMEX3> waren die Vorbereitungen abgeschlossen. Undine war in der besten Verfassung, noch strahlender, noch märchenhafter als bei ihrer Ankunft, wenn das überhaupt möglich war. Am <TIMEX3 tid="t16" type="DATE" value="2008-09-14">14. September 2008</TIMEX3> machten wir uns an die erste Operation.
+
+In der ersten Phase wurde die Schuppenhaut entfernt und durch die Haut aus dem Labor ersetzt. In der nächsten Phase wurde der Schwanz zweigeteilt.
+
+Danach wurde die Hüftvorrichtung schrittweise eingesetzt. Dann die Knochen und Gelenke im linken Bein. Muskelgewebe wurde angesiedelt. Im rechten Bein, es ging nicht anders, blieb die Wirbelsäule als Kern erhalten. Sie erhielt nur eine stützende Schienung. Schließlich kümmerte sich Prof. Dr. Männchen, eine Kapazität auf dem Gebiet der Geschlechtsumwandlung, um die Genitalien.
+
+Ein halbes Jahr brauchten wir alles in allem. Am <TIMEX3 tid="t21" type="DATE" value="2009-03-02">2. März 2009</TIMEX3> stand Undine zum ersten Mal aufrecht neben ihrem Bett. Bei einem Glas Sekt gab der Verwaltungsdirektor seiner Hoffnung Ausdruck, dass sie in Liebesdingen nun ähnlich erfolgreich sein möge wie das Operationsteam bei ihrer Verwandlung.
+
+Wir hatten noch eine Überraschung für sie. Von Aspensen war angereist und wartete auf seinen Auftritt. Sie war von den Strapazen etwas grau und mager geworden und wollte ihn gar nicht sehen. Doch wir versprachen uns gerade von seinem Besuch einen positiven Impuls für ihre Genesung. Die Visagistin richtete sie ein bisschen her, dann ließen wir von Aspensen bitten. Mit einem gewaltigen Strauß weißer Rosen stand er in der Tür. Wir gingen auf Zehenspitzen hinaus.
+
+Ihre erste Begegnung war kurz. Nach <TIMEX3 tid="t23" type="DURATION" value="PT15M">fünfzehn Minuten</TIMEX3> schickte sie ihn wieder fort. Ich weiß nicht, sagte sie zu uns, ich bin so alt. So kalt. Wie ein Fisch. Ja, was hatte sie denn gedacht! Schmerzmittel haben ihre Nebenwirkungen! Wir beschlossen, sie am <TIMEX3 tid="t24" type="DATE" value="2005-04-15">nächsten Tag</TIMEX3> wegzulassen.
+
+Die folgende Begegnung verlief dadurch auch nicht glücklicher. Nach <TIMEX3 tid="t25" type="DURATION" value="PT10M">zehn Minuten</TIMEX3> verabschiedete sich von Aspensen. Ich weiß nicht, sagte er, ich kenne sie gar nicht mehr. Sie ist so schweigsam. So ernst. Ja, was hatte er denn gedacht! Wie sollte sie denn reden, da sie die Zähne zusammenbeißen musste!
+
+Wie lieblich lächeln! Kalt oder stumm. Alles im Leben kann man nicht haben.
+
+Entweder - oder. Man muss sich entscheiden.
+
+Er ist dann immer seltener gekommen und immer kürzer geblieben, bis der Kontakt ganz abbrach. Wahrscheinlich hat einfach die Chemie nicht gestimmt.
+
+Das kommt vor. Es ist ein Unterschied, ob man nur miteinander telefoniert oder sich tatsächlich gegenübersteht. Offenbar war sie enttäuscht von ihm.
+
+Oder er von ihr. Oder beide voneinander. Es ist eben kein Funke übergesprungen, dafür kann man das Ärzteteam nicht verantwortlich machen. Von Aspensen soll sich vor kurzem in Oslo verlobt haben. Es hat in den Illustrierten gestanden. Sie hat mit einer Zeitung auf ihrem Schoß lange im Aufenthaltsraum gesessen und vor sich hin gestarrt.
+
+Sie wirft es uns vor. Nicht verbal. Durch Blicke. Gesten. Sie hält uns für Betrüger. Was haben wir falsch gemacht? Es sind uns Grenzen gesetzt. Wir haben es ihr gesagt. Es hat alles seinen Preis. Wir haben es ihr gesagt. Es wird auf andere Weise dieselbe Schwere sein. Wir haben es ihr gesagt. Sie hat unsere Warnungen in den Wind geschlagen. Sich in Gefahr begeben.
+
+Um der Wahrheit die Ehre zu geben: Sie lässt sich gehen. Manchmal, nachts, weil wir das Schwimmbad neuerdings verschlossen halten, bricht sie in irgendwelche Gärten ein und stürzt sich in fremde Pools, obwohl sie gar nicht mehr schwimmen kann. Zum Glück hat man sie jedes Mal rechtzeitig herausgefischt.
+
+Von Aspensen war natürlich auch nicht würdig, das kommt erschwerend hinzu.
+
+Ich frage mich, wer würdig wäre. Ich?
+
+Sie war tatsächlich von einer märchenhaften Schönheit. Ihre Augen hatten eine Tiefe wie nichts sonst auf der Welt. Ich habe einmal gesehen, wie elegant sie sich im Wasser bewegte.
+
+Wir sollten zufrieden sein mit dem Erreichten. Mehr war nicht drin. Beim besten Willen nicht. Sie geht doch. Ein Triumph.
+
+Von Elke Domhardt liegen bisher zwei Erzählbände vor, »Pech« (<TIMEX3 tid="t26" type="DATE" value="1997">1997</TIMEX3>) und »Die schwankende Frau« (<TIMEX3 tid="t27" type="DATE" value="2001">2001</TIMEX3>), außerdem die Erzählung »Glückliche Kindheit« (<TIMEX3 tid="t28" type="DATE" value="1993">1993</TIMEX3>). Die Autorin wurde <TIMEX3 tid="t29" type="DATE" value="1950">1950</TIMEX3> in Ottendorf-Okrilla nahe Dresden geboren und lebt in Halle an der Saale. Die Geschichte von der »kleinen Meerjungfrau« stammt ursprünglich von Friedrich de la Motte Fouqué, der <TIMEX3 tid="t30" type="DATE" value="1811">1811</TIMEX3> seine Erzählung »Undine« veröffentlichte   
+</TEXT>
+</TimeML>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>294331_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-05" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-05</TIMEX3></DCT>
+<TEXT>
+Bozen.  In  ihrer konstituierenden Ausschusssitzung wählten die Delegierten der Unistädte Bozen, Trient, Padua, Bologna, Innsbruck, Graz, Salzburg und Wien unlängst den neuen Vorstand der Südtiroler Hochschüler Innenschaft (sh.asus). An der Spitze des Vereins steht nunmehr der Barbianer Thomas Hofer  (Lehramt Biologie und Geographie, Uni Innsbruck), der anstelle des bisherigen Vorsitzenden, Stephan Kerschbaumer,  gewählt wurde. Ihm zur Seite stehen Marita Gasteiger  (Slawistik, Uni Wien) sowie Maximilian Schnabel  (Wirtschaft, Uni Bozen). Wichtigstes Anliegen des neuen sh-Vorstandes ist die Verbesserung der Kriterien für die Studienbeihilfenvergabe. Außerdem soll besondere Priorität auf die Mobilität der Studierenden gesetzt werden, speziell zum Abo+ hat die Führung einige Verbesserungsvorschläge parat. Im <TIMEX3 tid="t1" type="DATE" value="XXXX-XX-XX" functionInDocument="NONE">Wahljahr</TIMEX3> sollen die Kontakte zur Politik verstärkt werden, „damit die Hochschulbildung im Wahlkampf einen angemessenen Stellenwert erhält“, heißt es in der sh-Aussendung. Weiterhin großgeschrieben werden soll die Beratungstätigkeit rund ums Studium sowie die  verstärkte Beratung der Maturanten.  Durch eine Reform der Geschäftsordnung möchte der neue Vorstand mehr Basisdemokratie innerhalb des Vereins gewährleisten, um der großen Anzahl der Mitglieder  – mittlerweile sind es 1600 –  mehr Mitsprache einzuräumen. 
+
+</TEXT>
+</TimeML>

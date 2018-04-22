@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2001_13_Ermitteln</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2001-03-22">2001-03-22</TIMEX3></DCT>
+<TEXT>
+Ermitteln!
+
+In der Spendenaffäre versagen Deutschlands Staatsanwälte
+
+Autor: Klingst, Martin
+
+Warum weigert sich Helmut Kohl so beharrlich, die Namen seiner Spender zu nennen? Sind beim Verkauf von Waffen an Saudi-Arabien und bei der Privatisierung der ostdeutschen Leuna-Raffinerie Schmiergelder in Unions-Kassen geflossen? War die Millionenspende des Unternehmers Karl Ehlerding an die CDU im Wahlkampf <TIMEX3 tid="t1" type="DATE" value="1998">1998</TIMEX3> das Dankeschön für ein lukratives Immobiliengeschäft? War die Regierung Kohl bestechlich? Haben deshalb Mitarbeiter des Kanzleramts wichtige Akten vernichtet oder beiseite geschafft?
+
+Es geht um Untreue, Vorteilsannahme, Verwahrungsbruch - schwere Verdachtsmomente. Sie zu bestätigen oder zu entkräften müsste für jeden Staatsanwalt eine Herausforderung sein. Aber nicht in Deutschland. Die Vorgänge um Leuna &amp; Co. lassen die Strafverfolger in kollektive Ermittlungsstarre verfallen. Entweder erklären sie sich für unzuständig oder verneinen jeglichen Anfangsverdacht. Ermitteln sie dennoch, prüfen sie nur lustlos. Helmut Kohl und sein Kanzleramtschef Bohl wurden noch nie zu den verschwundenen Akten befragt.
+
+Kein Wunder, dass die Regierung versucht, die Wahrheit anders ans Licht zu bringen: etwa durch den Sonderermittler Burkhard Hirsch, der jedoch zu wenige Befugnisse besaß. Oder durch die beim Finanzministerium angesiedelte "Sondertaskforce". Sollte sie auf Beweise für Schmiergeldzahlungen stoßen, kann die Regierung staatsanwaltliche Ermittlungen erzwingen.
+
+Nach dem Lehrbuch ist die Staatsanwaltschaft neutral. In politischen Fällen indes sieht die Wirklichkeit oft anders aus. Das liegt auch an der Zwitterstellung der Staatsanwälte. Inhaltlich gehören sie zur dritten Gewalt, also zur Justiz, und müssten unabhängig sein. Organisatorisch aber sind sie Teil der Exekutive und damit weisungsgebunden - sowohl gegenüber dem Justizminister als auch gegenüber dem Behördenchef. Diesen Missstand meinte wohl das Bundesverfassungsgericht, als es <TIMEX3 tid="t2" type="DATE" value="PAST_REF">kürzlich</TIMEX3> jenen denkwürdigen Satz in sein Urteil zu Hausdurchsuchungen schrieb: "Polizei und Staatsanwaltschaft genießen keine Unabhängigkeit, und von ihnen kann - im Hinblick auf ihre Aufgabe, beim Verdacht von Straftaten den Sachverhalt zu erforschen - auch nicht, wie vom Richter, strikte Neutralität erwartet werden."
+
+Doch gerade wenn es um politischen Filz geht, braucht es weisungsfreie Ermittler. Zwei Wege sind denkbar: Entweder werden die Staatsanwälte unabhängig wie die Richter. Oder man überträgt die Ermittlungen einem unabhängigen Richter. Für die angekündigte Reform des Strafprozesses wäre das ein dringendes Thema.
+</TEXT>
+</TimeML>
+

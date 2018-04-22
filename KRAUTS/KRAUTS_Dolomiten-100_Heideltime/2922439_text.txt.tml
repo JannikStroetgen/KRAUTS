@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2922439_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-08-28" temporalFunction="false" functionInDocument="CREATION_TIME">2015-08-28</TIMEX3></DCT>
+<TEXT>
+Bozen.  Teile der Opposition im Bozner Rathaus konnten sich nun offensichtlich doch einigen und wollen nun gemeinsam versuchen Bürgermeister Luigi Spagnolli vom Sessel zu stoßen. <TIMEX3 tid="t1" type="DATE" value="2015-08-27">Gestern</TIMEX3> wurde ein Misstrauensantrag gegen den Bürgermeister eingereicht. Die Lega Nord hat das Dokument hinterlegt. 13 Unterschriften sind für einen derartigen Antrag notwendig. Unterstützung kommt daher auch von den Vertretern der Bewegung Fünf Sterne, der Liste Benussi, "Casapound" und der Liste "Fratelli d' Italia". Innerhalb von <TIMEX3 tid="t4" type="DURATION" value="P30D">30 Tagen</TIMEX3> muss der Antrag behandelt werden. Dann wird sich entscheiden wie es mit Spagnolli und seiner Mannschaft weitergehen soll.   Bekanntlich verfügt  er  <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">derzeit</TIMEX3>   über keine Mehrheit im Gemeinderat.   
+</TEXT>
+</TimeML>
+

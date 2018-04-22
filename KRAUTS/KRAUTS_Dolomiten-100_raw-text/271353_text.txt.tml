@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>271353_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">2013-02-05</TIMEX3></DCT>
+<TEXT>
+Bozen  (fin). SASA-Direktor Felix Rampelotto rechnet damit, dass innerhalb der kommenden Jahre der SASA-Fuhrpark total erneuert wird. Damit wird der öffentliche Verkehr zwischen Bozen, Leifers und Meran nicht nur umweltfreundlicher, sondern auch bequemer, da die neuen Busse weitaus mehr Komfort bieten. 
+</TEXT>
+</TimeML>

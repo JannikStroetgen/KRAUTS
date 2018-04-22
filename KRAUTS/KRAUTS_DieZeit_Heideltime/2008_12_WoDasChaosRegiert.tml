@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2008_12_WoDasChaosRegiert</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2008-03-13">2008-03-13</TIMEX3></DCT>
+<TEXT>
+Wo das Chaos regiert
+
+
+Als wahre Schmuckstücke erscheinen diese Planktonarten unter dem Mikroskop. Kostbar sind die frei im Wasser schwebenden Lebewesen allerdings nur für die ökologische Forschung. <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Jetzt</TIMEX3> konnte an ihrem Beispiel gezeigt werden, dass die Vorstellung vom allgegenwärtigen Gleichgewicht in der Natur ein Mythos ist. Der Rostocker Biologe Reinhard Heerkloss isolierte aus Ostseewasser eine Planktongemeinschaft und untersuchte, wie sich die Häufigkeiten der einzelnen Arten unter konstanten Bedingungen entwickelten. <TIMEX3 tid="t3" type="DURATION" value="P7Y">Sieben Jahre</TIMEX3> lang wurden die Arten zweimal <TIMEX3 tid="t2" type="SET" value="P1W">wöchentlich</TIMEX3> gezählt.
+
+Niederländische Forscher analysierten die dabei gewonnenen Daten mit überraschendem Ergebnis: Die Häufigkeit der Organismen im Laborbehälter schwankte chaotisch. Wegen der Konkurrenz unter den Arten und infolge der Fressfeinde stellte sich auch ohne äußere Störungen kein Gleichgewicht ein. Damit wurde zum ersten Mal an einem realen Ökosystem nachgewiesen, dass die langfristige Vorhersage über die Häufigkeit von Arten in einem Ökosystem prinzipiell unmöglich sein kann (»Nature«, Bd. 451, S. 822). Ob diese Chaosdynamik in der Natur weit verbreitet ist, muss an weiteren Tier- und Pflanzenarten gezeigt werden.
+</TEXT>
+</TimeML>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1404563_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-07-12" temporalFunction="false" functionInDocument="CREATION_TIME">2014-07-12</TIMEX3></DCT>
+<TEXT>
+Erl . Am <TIMEX3 tid="t2" type="TIME" value="2014-07-10TEV" anchorTimeID="t0" functionInDocument="NONE">Donnerstagabend</TIMEX3> wurden die Festspiele in Erl  feierlich eröffnet: Von Webers Ouvertüre zu "Euryanthe", Rossinis "Il barbiere di Siviglia", Schostakowitschs festlicher Ouvertüre op. 96 bis hin zu Bruckners "Helgoland" und "Te Deum" - ein Highlight folgte in der insgesamt rund einstündigen Musik-Darbietung dem nächsten. Neben Maestro Gustav Kuhn  (im Bild), der Bruckners Werke dirigierte, wurde vor allem "Rossini"-Dirigent Mauro Fabbri mit vehementem Applaus bedacht. Die Sängerinnen und Sänger der Accademia di Montegral und das Orchester der Tiroler Festspiele überzeugten traditionell auf ganzer Linie. 
+</TEXT>
+</TimeML>

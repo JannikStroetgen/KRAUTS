@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>1997_41_DAADSuchtAlumniStudierenInAmerika</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1997-10-02">1997-10-02</TIMEX3></DCT>
+<TEXT>
+DAAD sucht Alumni Studieren in Amerika  
+
+Rund 250 000 hiesige Studenten und Wissenschaftlern hat der Deutsche Akademische Austauschdienst (DAAD) in den letzten <TIMEX3 tid="t1" type="DURATION" value="P5DE">fünf Jahrzehnten</TIMEX3> einen Studien- oder Forschungsaufenthalt im Ausland ermöglicht. Doch die meisten Absolventen hat man danach, wie bei derlei akademischen Großfamilien üblich, aus den Augen verloren. Nun will die Organisation ihre Alumni stärker in die aktuelle Arbeit einbeziehen: Sie sollen helfen, ausländische Stipendiaten zu betreuen oder deutsche Bewerber auf ihren Auslandsaufenthalt vorzubereiten.
+
+Wer die alten Kontakte wieder aufnehmen möchte, wende sich an den DAAD, Referat 216, Frau Silvia Schmid, Kennedyallee 50, 53175 Bonn.
+
+Wer der Studienmisere an deutschen Hochschulen entfliehen möchte, kann professionelle Hilfe erhalten. Die Agentur College Contact vermittelt Abiturienten und Studenten an ihre amerikanischen Traumuniversitäten. Anders als bei den universitären Austauschprogrammen orientiert sich die Vermittlungsagentur ganz an den Wünschen der Studenten und versucht das spätere Leben am Hochschulort zu erleichtern. Ausgewählt werden nicht nur das Studienfach, der Studienort und die Größe der Hochschule. Auch die religiöse Zugehörigkeit, das Niveau der Universität und die Sportmöglichkeiten werden berücksichtigt. Die Agentur kann bei Einreise- und Einschreibeformalitäten helfen und Lernmaterial für die Eingangstests zur Verfügung stellen.
+
+Interessenten können sich wenden an: College Contact, Vermittlungsagentur, Hinter der Saline 4, Apt. 175, 21339 Lüneburg, Tel./Fax 04131/40 77 97.
+</TEXT>
+</TimeML>
+

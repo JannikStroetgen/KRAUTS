@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>769449_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-12-06" temporalFunction="false" functionInDocument="CREATION_TIME">2013-12-06</TIMEX3></DCT>
+<TEXT>
+BOZEN. Auch dieses Jahr vergibt das Amt für Sozialpolitik und Jugend den Preis für junge Ehrenamtliche. Evelyn Mugnano und Matteo Graziosi (im Bild) sind die beiden Preisträger der vierten Ausgabe. Mugnano arbeitet seit Jahren freiwillig beim Verein für Kinderspielplätze und Erholung VKE mit; Graziosi hingegen ist im Jugendzentrum "Vintola 18" tätig. Vor kurzem fand die Verleihung im Gemeinderatssaal statt. Die Würdigung hebt die Wichtigkeit des Ehrenamtes hervor und vermittelt die Anerkennung, wenn sich junge Menschen unentgeltlich für andere einsetzen. © 
+</TEXT>
+</TimeML>

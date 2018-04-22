@@ -1,0 +1,44 @@
+<?xml version="1.0" ?><TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>1997_10_DasErinnertAnVichy</DOCID>
+
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1997-02-28">28.02.1997</TIMEX3></DCT>
+
+<TITLE>"Das erinnert an Vichy"</TITLE>
+
+
+
+<TEXT>
+"Das erinnert an Vichy"  
+
+DIE REPRESSIVE AUSLÄNDERPOLITIK UMWIRBT EINE MINDERHEIT, SO DER PHILOSOPH ANDRÉ GLUCKSMANN: "DAS ERINNERT AN VICHY"    
+
+André Glucksmann, geboren <TIMEX3 tid="t1" type="DATE" value="1937" temporalFunction="false">1937</TIMEX3>, demonstrierte gegen die Loi Debré und ist einer der Unterzeichner des "Aufrufs zum Widerstand".
+
+Er war einer der Protagonisten der Pariser Studentenrevolte <TIMEX3 tid="t2" type="DATE" value="1968" temporalFunction="false">1968</TIMEX3> und wandte sich dann als Kopf der "Neuen Philosophen" mit "Köchin und Menschenfresser" (deutsch <TIMEX3 tid="t3" type="DATE" value="1976" temporalFunction="false">1976</TIMEX3>) und "Die Meisterdenker" in Auseinandersetzung mit der kommunistischen Wirklichkeit einer radikalen Totalitarismus- und Utopiekritik zu. In "Die Macht der Dummheit" (deutsch <TIMEX3 tid="t4" type="DATE" value="1985" temporalFunction="false">1985</TIMEX3>) polemisierte er gegen die sozialistische Führung in Frankreich. Zuletzt erschien "Krieg um den Frieden", in dem sich Glucksmann mit dem Versagen der Demokratien vor dem Krieg im ehemaligen Jugoslawien befaßt.
+
+Wie kommt es, daß sich der Widerstand gegen den Gesetzentwurf des Innenministers Debré zur Ausländerpolitik so schnell und umfassend formierte?
+
+Der Artikel 1 des Gesetzes hätte bedeutet, daß ich im Paß meines Gastes nachsehen muß, ob er ein Visum hat und wie lange er bleiben darf. Das aber ist erstens in einer demokratischen Republik Sache der Polizei und bedeutet einen schweren Eingriff in die Privatsphäre.
+
+Aus diesem Grund vor allem hat sich die Bewegung so rasch entwickelt.
+
+Zweitens wird dadurch jeder Ausländer zum Verdächtigen gemacht - besonders in einer Zeit des islamistischen Terrorismus. Das erinnert an Vichy, aber auch an den Terror der Jakobiner. Die Denunziation wird wieder möglich. Meine Schwester wurde zur Zeit der deutschen Besatzungszeit von der Mutter ihres Freundes denunziert, weil der das Mädchen nicht gefiel. Zum Glück hat der Polizist den Brief weggeworfen. <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF" temporalFunction="false">Heute</TIMEX3> wird zwar niemand in ein Konzentrationslager gesteckt. Aber die Ausweisung etwa nach Algerien kann tödlich sein.
+
+Den Anfang haben Künstler und Intellektuelle gemacht. Die Regierung wirft ihnen vor, eine von der Wirklichkeit weit entfernte Minderheit zu sein.
+
+Es ist eine französische Tradition, daß eine Minderheit, die Intellektuellen, zuerst das Wort ergreift. Diese Tradition reicht weit vor die Affäre Dreyfus zurück. Voltaire wäre wegen der Affäre Calas auf die Straße gegangen. Simone Signoret und Yves Montand waren <TIMEX3 tid="t6" type="DATE" value="1981" temporalFunction="false">1981</TIMEX3> die Mitbegründer von SOS Rassisme - als Le Pen schon in Dreux einen Sieg errungen hatte. Aber der Ruf dieser Minderheit findet oft großen Widerhall: Als ich bei den Europawahlen eine Liste gegen den Krieg in Bosnien aufstellte, hatten wir in den Meinungsumfragen auf Anhieb 12 Prozent Zustimmung.
+
+Woher rührt der Aufstieg des Rechtsextremismus in Frankreich?
+
+Ein Bürgermeister mit blau-weiß-roter Schärpe, der rassistische Kommentare abgibt, der setzt die Aggressionen bei den Feierabendtotschlägern frei. Es gab Morde, wie zuletzt nach dem Aufmarsch des Front National beim Jeanne-d'Arc-Denkmal, wo sie einen Nordafrikaner in die Seine warfen. Ganz allgemein ist Frankreich <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF" temporalFunction="false">heute</TIMEX3> weniger fremdenfeindlich als etwa <TIMEX3 tid="t8" type="DATE" value="1930" temporalFunction="false">1930</TIMEX3> gegenüber den italienischen oder polnischen Einwanderern.
+
+Seit <TIMEX3 tid="t9" type="DURATION" value="P10Y" beginPoint="t10" endPoint="t0" temporalFunction="false">zehn Jahren</TIMEX3><TIMEX3 tid="t10" type="DATE" value="1987-02-28" anchorTimeID="t0" temporalFunction="true"/> stimmen die Franzosen beharrlich zu 85 Prozent gegen Le Pen. Das übersehen die Politiker, die den 15 Prozent hinterherlaufen, von denen ihre Wahlchancen abhängen.
+
+Wie stehen die Intellektuellen <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF" temporalFunction="false">heute</TIMEX3> zu den linken Parteien?
+
+Bis <TIMEX3 tid="t12" type="DATE" value="1970" temporalFunction="false">1970</TIMEX3> dienten die Intellektuellen als Dekoration der Parteien.
+
+Die Parteien waren der Transmissionsriemen zur Bevölkerung. <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF" temporalFunction="false">Heute</TIMEX3> schließen sich die Parteien umgekehrt den Bewegungen an, die die Intellektuellen in die Bevölkerung tragen. Aber die Lösung der Probleme muß von den Parteien kommen. Simone Signoret sagte immer: "Ich weiß nicht besser als andere, was man tun soll. Aber ich weiß, was man nicht tun darf."
+</TEXT>
+</TimeML>

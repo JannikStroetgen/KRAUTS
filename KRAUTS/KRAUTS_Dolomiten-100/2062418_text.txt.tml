@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2062418_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-12-15" temporalFunction="false" functionInDocument="CREATION_TIME">2014-12-15</TIMEX3></DCT>
+<TEXT>
+Mals/Oberland  (lie). Dem Thema  Ehrenamt im Rettungswesen widmet sich der Jahreskalender <TIMEX3 tid="t3" type="DATE" value="2015" functionInDocument="NONE">2015</TIMEX3> der Raiffeisenkasse Obervinschgau. Vor <TIMEX3 tid="t2" type="DURATION" value="PXD" functionInDocument="NONE">wenigen Tagen</TIMEX3> wurde der Kalender offiziell vorgestellt und - wie der Malser Sektionsleiter des Weißen Kreuzes, Luca Marcona, sagt - sei der Kalender "eine flotte  Sache". Jedes Monatsblatt behandelt ein eigenes Thema. Diese reichen von Jugend, Krankentransport und Freizeit bis hin zur Aus- und Weiterbildung sowie Notfallseelsorge bzw. Rettungsdienst. Man sei mit Begeisterung dabei gewesen, denn der Kalender bietet eine gute Möglichkeit, die Bürger über die vielfältige Arbeit des Weißen Kreuzes zu informieren, darunter im speziellen Fall   vor allem  auch über die Ehrenamtlichen im Verein. Der Kalender ist in den Zweigstellen der Raiffeisenkasse Obervinschgau  erhältlich bzw. wird intern über das Weiße Kreuz verteilt.  Fotograf Roman Gröbmer hat im übrigen auf sein Honorar verzichtet - als Zeichen der Wertschätzung. 
+
+</TEXT>
+</TimeML>

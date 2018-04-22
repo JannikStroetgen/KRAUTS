@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>54204_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2010-10-12" temporalFunction="false" functionInDocument="CREATION_TIME">2010-10-12</TIMEX3></DCT>
+<TEXT>
+BOZEN. Für die Fachgewerkschaft Gesundheitsdienst im ASGB ist „die 14-Tage-Frist für eventuelle Stellungnahmen und Änderungsvorschläge zum Papier des Südtiroler Sanitätsbetriebes zur Gesundheitsreformvöllig inakzeptabel“. Im Interesse der Landbevölkerung und des Gesundheitspersonals sollten Lokalverwaltungen eingebunden werden. Aber dafür brauche esmehr Zeit, so die ASGB-Fachgewerkschaft in einemoffenen Brief an Gesundheitslandesrat Richard Theiner. „Sollte Personal und Bevölkerung hingegen nicht gehört und berücksichtigt werden, ziehen wir Protestaktionen in Erwägung, umzu verhindern, dass die klinische Reformüber die Köpfe der Südtiroler hinweg gemacht wird“, so der ASGB.
+
+</TEXT>
+</TimeML>
+

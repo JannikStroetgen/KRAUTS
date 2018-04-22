@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1946030_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-11-12" temporalFunction="false" functionInDocument="CREATION_TIME">2014-11-12</TIMEX3></DCT>
+<TEXT>
+Mailand  (APA). Die größte italienische Bank Unicredit  profitiert von einem Rückgang an faulen Krediten. Im <TIMEX3 tid="t2" type="DATE" value="2014-Q3">dritten Quartal</TIMEX3> steigerte sie - ebenso wie die Intesa Sanpoalo (siehe Bericht oben) -  ihren Gewinn kräftig: um 80 Prozent auf 722 Millionen Euro, wie die Bank <TIMEX3 tid="t3" type="DATE" value="2014-11-11">gestern</TIMEX3> mitteilte. Dazu trug auch bei, dass das Institut die Risikovorsorge für Problem-Darlehen um 50 Prozent auf 754 Millionen Euro senkte. 
+</TEXT>
+</TimeML>
+

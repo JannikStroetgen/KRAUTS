@@ -1,0 +1,20 @@
+<?xml version="1.0" ?><TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>2010_46_SieNicht</DOCID>
+
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2010-11-11">11.11.2010</TIMEX3></DCT>
+
+<TITLE>Sie nicht</TITLE>
+
+
+
+<TEXT>
+Sie nicht
+
+MEINUNG DAMALS: <TIMEX3 tid="t1" type="DATE" value="1987-03-23" temporalFunction="false">23.3.1987</TIMEX3>
+
+Autor: Wefing, Heinrich
+
+Da strahlen sie wieder, Willy Brandt und Margarita Mathiopoulos. Er ist, wie er ihr in der Bonner Baracke so väterlich-freundschaftlich die Wange tätschelt, nicht mehr SPD-Vorsitzender, und sie ist nicht seine Sprecherin geworden. Die beiden sind ins Gerede gekommen, <TIMEX3 tid="t2" type="DATE" value="PAST_REF" temporalFunction="false">damals</TIMEX3> am Ende der langen Amtszeit des Vorsitzenden. Der parteilosen jungen Frau, die für Brandt hätte sprechen sollen, fehle die Nähe zur Sozialdemokratie, so ging die Rede, mehr noch, sie stehe den Konservativen nahe, und vielleicht sogar der FDP. Was deren damaligen Vorsitzenden Genscher zu der Formulierung anregte, Frau Mathiopoulos stehe »über den Parteien«. Hübsch gesagt und vernichtend. Brandt, erst zornig, dann trotzig, trat zurück, und seine Beinahe-Sprecherin nicht viel später in die FDP ein. Sie hat nie ein offizielles Wort für ihn gesprochen. Aber schon das war zu viel. wfg
+</TEXT>
+</TimeML>

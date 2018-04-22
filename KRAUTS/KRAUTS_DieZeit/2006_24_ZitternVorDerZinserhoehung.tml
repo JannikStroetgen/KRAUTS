@@ -1,0 +1,22 @@
+<?xml version="1.0" ?><TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>2006_24_ZitternVorDerZinserhoehung</DOCID>
+
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2006-06-08">08.06.2006</TIMEX3></DCT>
+
+<TITLE>Zittern vor der Zinserhöhung</TITLE>
+
+
+
+<TEXT>
+Zittern vor der Zinserhöhung
+
+Der erste Test für den neuen Chefvolkswirt der EZB
+
+Autor: Brost, Marc
+
+Es sind nicht nur die Iraner. Zwar hat die Drohung des Ajatollah Chamenei, sein Land könne dem Westen das Öl verweigern, die Aktien weltweit auf Talfahrt geschickt. Aber so oder so geben sich die Börsianer rund um den Globus extrem nervös. Sie haben dazu auch ausreichend Gründe: In den USA halten sich die Konsumenten zurück, die Unternehmen stellen weniger Personal ein, und die private Sparquote ist sogar ins Minus gerutscht. Weil die Inflation steigt, denkt die US-Notenbank über höhere Zinsen nach. So etwas mag die Börse gar nicht. Und in Europa? Trotz des starken Euro zeigt sich vor allem die deutsche Wirtschaft robust, die Binnennachfrage steigt, und viele angelsächsische Investoren malen <TIMEX3 tid="t1" type="DATE" value="FUTURE_REF" temporalFunction="false">die Zukunft</TIMEX3> rosig. Angeführt von Deutschland, werde Europa <TIMEX3 tid="t2" type="DATE" value="FUTURE_REF" temporalFunction="false">bald</TIMEX3> das Wirtschaftswachstum der USA überflügeln, erwartet etwa die Investmentbank JP Morgan. Allerdings: Auch in Euroland steigen die Preise, das ist typisch für einen Aufschwung. Ob er anhält, hängt nun von der Europäischen Zentralbank ab und von einem neuen Mann in ihrem Führungsgremium: Jürgen Stark.
+
+Der neue Chefvolkswirt der EZB wird <TIMEX3 tid="t3" type="DATE" value="2006-06-08" anchorTimeID="t0" temporalFunction="true">diesen Donnerstag</TIMEX3> erstmals mitentscheiden, ob und wie sehr die Zinsen steigen. Stark (Eigenwerbung: »Stark wie die Mark«) gilt als strikter Inflationsbekämpfer auch auf Kosten der Konjunktur. Bloß: Mehr als eine Mini-Zinserhöhung um einen Viertelprozentpunkt würde der zarte Aufschwung kaum verkraften. So hat der Neue die Wahl. Er kann seinen Ruf als Fundamentalist bewahren. Oder Reputation als Realo gewinnen.
+</TEXT>
+</TimeML>

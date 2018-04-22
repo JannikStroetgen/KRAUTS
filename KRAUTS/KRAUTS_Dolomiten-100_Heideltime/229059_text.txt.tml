@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>229059_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2012-11-08" temporalFunction="false" functionInDocument="CREATION_TIME">2012-11-08</TIMEX3></DCT>
+<TEXT>
+Bozen . Die Zusammenarbeit zwischen der Stadt Bozen und der Freien Universität Bozen wird fortgesetzt. <TIMEX3 tid="t1" type="DATE" value="2009">2009</TIMEX3> hatte diese Zusammenarbeit für die Ausarbeitung des Sozialplans für die Lebensqualität in der Stadt Bozen <TIMEX3 tid="t2" type="DATE" value="2009">2009</TIMEX3>-<TIMEX3 tid="t3" type="DATE" value="2011">2011</TIMEX3> begonnen. <TIMEX3 tid="t6" type="DATE" value="2012-11-07">Gestern</TIMEX3> wurde im Rathaus ein Einvernehmensprotokoll unterzeichnet, in welchem die Universität damit beauftragt wird, der Stadt Bozen ein technisches Gutachten über den Stand der Dinge bei der Umsetzung der "Leitlinien <TIMEX3 tid="t4" type="DATE" value="2011">2011</TIMEX3>-<TIMEX3 tid="t5" type="DATE" value="2015">2015</TIMEX3>" des Sozialplans zu liefern. Unterzeichnet wurde das Einvernehmensprotokoll von Stadtrat Mauro Randi und Rektor Walter Lorenz. In <TIMEX3 tid="t14" type="DURATION" value="PXM">den letzten Monaten</TIMEX3> hat das Amt für Sozialplanung eine Datenbank erstellt, in welche das Monitoring zu allen Initiativen eingeflossen ist, welche zwischen <TIMEX3 tid="t7" type="DATE" value="2011-06">Juni 2011</TIMEX3> und <TIMEX3 tid="t8" type="DATE" value="2012-09">September 2012</TIMEX3> durchgeführt wurden.
+</TEXT>
+</TimeML>
+

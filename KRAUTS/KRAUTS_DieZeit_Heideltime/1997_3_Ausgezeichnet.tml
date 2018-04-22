@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>1997_3_Ausgezeichnet</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1997-01-10">1997-01-10</TIMEX3></DCT>
+<TEXT>
+Ausgezeichnet
+
+ZEITSPIEGEL
+   
+ZEIT-Redakteur Gero von Randow erhält den Robert-Mayer-Preis <TIMEX3 tid="t1" type="DATE" value="1997">1997</TIMEX3> der VDI-Gesellschaft Energietechnik. Damit sollen "Beiträge gewürdigt werden, die in hervorragender Weise allgemein verständlich, lebendig und interesseweckend in der breiten Öffentlichkeit eine engagierte Beschäftigung mit Energiefragen gefördert haben".
+</TEXT>
+</TimeML>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>308578_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2013-03-21</TIMEX3></DCT>
+<TEXT>
+Bozen  (swa). Die Referenten des Abends waren  Kunsthistorikerin Paola Bassetti (von links), Simona Kettmeir, die Präsidentin der Landesvereinigung FAI Trentino-Südtirol, Historiker Hannes Obermair vom Stadtarchiv sowie der Amtsdirektor des Forstinspektorats Bozen I, Martin Schöpf.
+</TEXT>
+</TimeML>

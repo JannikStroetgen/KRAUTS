@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2121648_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-01-13" temporalFunction="false" functionInDocument="CREATION_TIME">2015-01-13</TIMEX3></DCT>
+<TEXT>
+St. Michael/Eppan . Mehr als hundert Senioren sind der Einladung des Seniorentreffs St. Michael  zur Neujahrsfeier  gefolgt. Anwesend war u.a. Pfarrer  Josef Stampfl, Bürgermeister   Wilfried Trettl, Vizebürgermeisterin Monika Hofer-Larcher und Gemeindereferent Philipp Waldthaler.  Die Feier wurde  musikalisch umrahmt von  Stefan Perktoll auf seiner Ziehharmonika. Dabei wurde die  Seniorenzeitung  "Wiederhall" verteilt. Auch in <TIMEX3 tid="t2" type="DATE" value="2015" anchorTimeID="t0" functionInDocument="NONE">diesem Jahr</TIMEX3>  konnte die Zeitung größtenteils wieder durch die  Spende der Raiffeisenkasse Überetsch finanziert werden. Mit Applaus bedankten sich der Verein und seine Mitglieder dafür.  Anschließend  gab es im festlich geschmückten Saal eine gute Gulaschsuppe. Im Bild (von links)  Monika Hofer-Larcher, Philipp Waldthaler,  Josef Stampfl und    Wilfried Trettl. 
+</TEXT>
+</TimeML>

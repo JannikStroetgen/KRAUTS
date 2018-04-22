@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2391920_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-04-29" temporalFunction="false" functionInDocument="CREATION_TIME">2015-04-29</TIMEX3></DCT>
+<TEXT>
+Bozen . Der Alpenverein Südtirol  begrüßt die Absicht des Verwaltungsrats der Stiftung Dolomiten Unesco, noch heuer den Verkehr auf den Dolomitenpässen zu regeln. Seit gut 15 Jahren setze sich der AVS  für die Verkehrsberuhigung auf den Passstraßen ein, schreibt der AVS in einer Presseaussendung. "Insbesondere die Dolomitenpässen werden während der Sommermonate von regelrechten Blechlawinen überrollt, davon rund ein Drittel Motorradfahrer. Entsprechend beeindruckend ist die Lärmkulisse - und dies in unmittelbarer Nähe des Unesco-Weltnaturerbes Dolomiten. Die Beeinträchtigung betrifft die ansässige Bevölkerung ebenso wie die Erholungssuchenden", schreibt der AVS.  Er befürwortet wie CAI und SAT eine zeitlich befristete Sperrung der Dolomiten-Passstraßen für den Individualverkehr (beispielsweise von 10 bis 15 Uhr) und den gleichzeitigen Einsatz eines effizienten, eng getakteten Shuttlebussystems. 
+</TEXT>
+<TIMEX3 tid="t8" type="DATE" value="2000" temporalFunction="false" />
+<TIMEX3 tid="t7" type="DURATION" value="P5H" temporalFunction="false" />
+</TimeML>

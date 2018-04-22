@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>52009_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2010-09-18" temporalFunction="false" functionInDocument="CREATION_TIME">2010-09-18</TIMEX3></DCT>
+<TEXT>
+SÜDTIROL. In einemganz speziellen Fahrzeug waren die beiden Landesräte Thomas Widmann und Michl Laimer unterwegs. Mit einem Elektro- Leihauto haben sie in Bozen eine Testrunde gedreht - selbstverständlich geräuschlos und emissionsfrei. Auf Einladung von Josef Unterholzner (im Bild, vorne), Geschäftsführer der in Lana und Franzensfeste angesiedelten „Autotest AG“, konnten sich die Landesräte ein Bild von den Vor- und Nachteilen eines E-Mobils verschaffen.
+
+</TEXT>
+</TimeML>

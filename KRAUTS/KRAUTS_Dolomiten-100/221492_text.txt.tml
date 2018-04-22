@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>221492_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2012-10-20" temporalFunction="false" functionInDocument="CREATION_TIME">2012-10-20</TIMEX3></DCT>
+<TEXT>
+Martina Jaider ist <TIMEX3 tid="t1" type="DATE" value="1977" functionInDocument="NONE">1977</TIMEX3> in Bozen geboren und wohnt in Seis.  <TIMEX3 tid="t2" type="DATE" value="1996" functionInDocument="NONE">1996</TIMEX3> schloss sie in Brixen die Oberschule für Werbegrafik ab und  erwarb  am "Istituto Europeo di Design" in Mailand das  Fachdiplom in Fotografie. <TIMEX3 tid="t3" type="DATE" value="XXXX-XX-XX" functionInDocument="NONE">Ein Erasmusjahr</TIMEX3> absolvierte sie an der  Universität von  Canberra in  Australien. Jaider arbeitete in Mailand, Barcelona, Genf, London, Hamburg, Salzburg, Montreal,  Neuseeland und  in Bozen. Sie assistierte   u. a. den Starfotografen  Fabrizio Ferri, David LaChapelle, Patrick Demarchelier, Tommaso Sartori und  Satoshi Saikusa. Jaiders Arbeiten  erschienen   in  Magazinen und Zeitschriften wie "Gulliver", "Rolling Stone", "Top Girl" oder "Elle" Russland.
+</TEXT>
+</TimeML>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1783923_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-11-05" temporalFunction="false" functionInDocument="CREATION_TIME">2014-11-05</TIMEX3></DCT>
+<TEXT>
+Las Palmas  (sp). Italienmeister Futura Rom hat bei der ersten Auflage des EHF-Champions-Cup im Beach-Handball Bronze geholt. Zwei Südtirolerinnen, die maßgeblich am Erfolg auf Gran Canaria beteiligt waren, wurden in das All-Star-Team gewählt. Monika Prünster (30) aus Schenna wurde zur  besten Torhüterin des Turniers gewählt.  Die Brixnerin Anika Niederwieser war sogar die wertvollste Spielerin (MVP) der gesamten  Veranstaltung. Die 22-Jährige war schon bei der Weltmeisterschaft im <TIMEX3 tid="t2" type="DATE" value="2014_07" anchorTimeID="t0" functionInDocument="NONE">Juli</TIMEX3> in Brasilien zur besten Abwehrspielerin gekürt worden. Auf der spanischen Ferieninsel hat der europäische Verband erstmals ein Turnier mit acht Landesmeistern im Beach-Handball ausgerichtet. Die Veranstaltung soll einen festen Platz im EHF-Kalender erhalten. Für Italien stehen <TIMEX3 tid="t3" type="DATE" value="2015" functionInDocument="NONE">2015</TIMEX3>  die EM in Lloret del Mar und die Mittelmeermeisterschaft in Pescara an.  
+
+</TEXT>
+</TimeML>

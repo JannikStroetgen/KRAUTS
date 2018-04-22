@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2960530_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-09-04" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-04</TIMEX3></DCT>
+<TEXT>
+St. Lorenzen  (mt). "Jeder von uns muss angesichts dieser Tragödie solidarisch sein und einen Beitrag leisten", sagt St. Lorenzens Bürgermeister  Martin Ausserdorfer. Gemeinsam mit  Pfarrer Franz Künig rufen Pfarrei und Gemeindeverwaltung Bürger zu einer Hilfsaktion für Flüchtlinge auf. Konkret sollen die Bewohner der Flüchtlingsunterkünfte in Vintl und Wiesen-Pfitsch unterstützt werden. In St. Lorenzen wird im Bauhof ein eigener, kostenlos vom Unternehmen BWR zur Verfügung gestellter  Sammelcontainer aufgestellt werden.  Darin können warme Winterbekleidung, Sportsachen, Jacken, Hosen, lange/kurze Unterhosen, Socken, Mützen, Handschuhe, Schals, dicke Pullover, Fleecejacken usw. abgegeben werden. Die Sammlung findet am <TIMEX3 tid="t2" type="DATE" value="2015-09-09" anchorTimeID="t0" functionInDocument="NONE">9. September</TIMEX3> in der Zeit von  <TIMEX3 tid="t3" type="TIME" value="2015-09-09T16:00" anchorTimeID="t2" functionInDocument="NONE">16</TIMEX3> bis <TIMEX3 tid="t4" type="TIME" value="2015-09-09T17:30" anchorTimeID="t2" functionInDocument="NONE">17.30 Uhr</TIMEX3> und am  <TIMEX3 tid="t6" type="DATE" value="2015-09-11" anchorTimeID="t0" functionInDocument="NONE">11. September</TIMEX3> in der Zeit von  <TIMEX3 tid="t7" type="TIME" value="2015-09-11T10:30" anchorTimeID="t6" functionInDocument="NONE">10.30</TIMEX3> bis <TIMEX3 tid="t8" type="TIME" value="2015-09-11T12:00" anchorTimeID="t6" functionInDocument="NONE">12 Uhr</TIMEX3> statt. Die Initiative von Gemeindeverwaltung und Pfarrei wurde  mit der Caritas abgestimmt.  
+</TEXT>
+<TIMEX3 tid="t9" type="DURATION" value="PT1.5H" temporalFunction="false" />
+<TIMEX3 tid="t5" type="DURATION" value="PT1.5H" temporalFunction="false" />
+</TimeML>

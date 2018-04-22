@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>325381_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-04-09" temporalFunction="false" functionInDocument="CREATION_TIME">2013-04-09</TIMEX3></DCT>
+<TEXT>
+Bozen . Die Süd-Tiroler Freiheit setzt sich mittels  Beschlussantrag  im Landtag für den Aufbau eines eigenen Südtiroler Renteninstituts ein. Aus Daten der Landesregierung  werde ersichtlich, dass die Südtiroler jährlich mehr in die italienischen Rentenkassen einzahlen, als die heimischen Pensionisten   ausbezahlt bekommen. Allein in den vergangenen fünf Jahren   seien den Südtiroler Pensionisten dadurch 1,4 Mrd. Euro vorenthalten worden. Durch die Abkopplung Südtirols vom italienischen Rentensystem sollen die Renten gesichert werden schreibt die Süd-Tiroler Freiheit.
+</TEXT>
+<TIMEX3 tid="t4" type="DATE" value="2008" temporalFunction="false" />
+</TimeML>

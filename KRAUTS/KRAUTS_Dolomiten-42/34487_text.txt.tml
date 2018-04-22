@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>34487_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2010-02-20" temporalFunction="false" functionInDocument="CREATION_TIME">2010-02-20</TIMEX3></DCT>
+<TEXT>
+BOZEN. Raiffeisen Ethical Banking und der Verein „La Vispa Teresa" laden am <TIMEX3 tid="t2" type="DATE" value="2010-02-25" anchorTimeID="t0" functionInDocument="NONE">Donnerstag, 25. Februar</TIMEX3> um <TIMEX3 tid="t4" type="TIME" value="2010-02-25T20.30" anchorTimeID="t0" functionInDocument="NONE">20.30 Uhr</TIMEX3> in die Aula Magna des italienischen Wissenschaftlichen Lyzeums „Torricelli" (Rovigostraße 42) nach Bozen. Dort wird zurückgeblickt auf die Reise am Jakobsweg und die neue Reise entlang des Pilgerwegs Via Franchigena über Rom nach Jerusalem <TIMEX3 tid="t3" type="DATE" value="2011" anchorTimeID="t0" functionInDocument="NONE">nächstes Jahr</TIMEX3> vorgestellt.
+</TEXT>
+</TimeML>

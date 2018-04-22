@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>1998_5_SollIchIhnNehmen</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-01-23">1998-01-23</TIMEX3></DCT>
+<TEXT>
+Soll ich ihn nehmen?
+
+Autor: Sichtermann, Barbara
+
+ZDF, <TIMEX3 tid="t3" type="DATE" value="1998-01-17">Samstag, 17. Januar</TIMEX3>: "Frau zu sein bedarf es wenig"
+
+ibt es diese Welt wirklich? Die Welt der Frauen, bevölkert von Männern mit Rosen im Arm, Schwüren auf den Lippen und Sehnsucht im Herzen, und frau weiß nicht recht: Ist das echt oder Spiel? Ihr Leben ist ein einziges beschwingtes Rätselraten: Will er mich, nimmt er mich, meint er es ernst? Zwischendurch wird ein Kind geboren, eine Karriere beendet, ein Herz gebrochen, ein Haus gebaut, und dann geht es weiter entlang der einzigen Grundfrage, die in einem Frauenleben zählt: Wird er mich heiraten?
+
+Diese Welt ist eine Fiktion. Warum sie, entworfen in Büchern oder Filmen, Frauen so viel Freude macht, ist eine interessante Frage. Aber vielleicht ist die Antwort simpler, als man meint, und liegt bloß darin, daß jede Frau die Vorstellung genießt, im Leben nicht nur eines Mannes, sondern der Männer überhaupt als Mittelpunkt zu glänzen. Wird wenigstens im Fernsehen diese Illusion inszeniert, läßt sich die harte Wirklichkeit, in der nur wenig glänzt, am wenigsten man selber, gleich besser ertragen.
+
+Nun gab es ja eine Frauenbewegung - und mit ihr ein neues Selbstbewußtsein des weiblichen Geschlechts. Die Powerfrau trat ins Leben und auf den Bildschirm sie hat sich durchgesetzt und viele Hauptrollen in den vergangenen <TIMEX3 tid="t5" type="DURATION" value="P2DE">zwei Jahrzehnten</TIMEX3> übernommen. Seit Hera Linds "Superweib" aber ist sonnenklar, daß das Idyll mit dem "richtigen Mann" die Emanze aufgeschluckt hat. Sie ist als Figur in die von Rosenkavalieren und Schwerenötern bevölkerte Frauenwelt eingemeindet worden, mal als bizarre Außenseiterin, mal als Heldin mit all ihren Konflikten.
+
+Seit "Sense and Sensibility" sind ein paar zusätzliche Variablen ins Spielfeld eingetragen worden: Die Frau hat <TIMEX3 tid="t6" type="DATE" value="1998-01-23">heute</TIMEX3> Ehrgeiz, sogar Erfolg, sie hat ein Kind ohne Mann und keine praktischen Talente, aber am Ende geht es wieder nur um die eine Frage: Wird er mich heiraten? Beziehungsweise: Soll ich ihn nehmen?
+
+Mit dieser Frage schlägt sich Pauline Frohmut (Anica Dobra) herum, junge Mutter, Sängerin, eigensinnig und selbstbewußt und Heldin des TV-Films "Frau zu sein bedarf es wenig" nach Hera Lind. Paulines Gegenspielerin ist ihre verstorbene Tante Lilly, mit der sie einen ständigen inneren Dialog pflegt.
+
+Die Tante vertritt die Werte des Herkommens: Mutter gehört zum Kind, Karriere kann warten, und Romantik muß nicht sein. Natürlich sieht Pauline das alles ganz anders, doch kommt sie, durch Enttäuschungen gereift, schon <TIMEX3 tid="t7" type="DATE" value="FUTURE_REF">bald</TIMEX3> zur Vernunft. Tante Lilly siegt auf der ganzen Linie: Der langweilige Kindsvater kriegt Pauline, denn "Frauen bewundern die kühnen Eroberer, aber sie heiraten die zähen Belagerer", und der Traumtyp erweist sich als taube Nuß. Seit <TIMEX3 tid="t9" type="DURATION" value="PXY">den fünfziger Jahren</TIMEX3> ist nicht mehr so unverhohlen vor der Leidenschaft gewarnt und der ehelichen Konvention das Wort geredet worden.
+
+Ach, wenn Tante Lillys Glück hielte, was es verspricht ... Aber es ist brüchig, denn seine Kosten sind hoch. Dies wegzumogeln, darin besteht die ewige Verlogenheit des Frauenwelt-Idylls. "Frau zu sein..." bedarf es glücklicherweise mehr und mehr, und irgendwann wird dieses Mehr ausreichen, um mit dem alten Kitsch für immer aufzuräumen.
+</TEXT>
+</TimeML>
+

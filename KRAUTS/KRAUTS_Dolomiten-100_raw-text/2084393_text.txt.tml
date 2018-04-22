@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2084393_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2014-12-23</TIMEX3></DCT>
+<TEXT>
+Brixen  (mpi). Der Stadtrat hat in seiner jüngsten Sitzung eine Reihe von Beiträgen und Finanzierungen über den Rotationsfonds angenommen und deren Zweckbestimmung zugewiesen. So wurden 1,16 Millionen Euro vom Land der Sanierung am Studienkonvikt Vinzentinum zugeteilt, 1,06 Millionen Euro an die Sanierung der Mensa der Mittelschule Michael Pacher, 350.000 Euro an den Bau der Feuerwehrhalle Afers, 300.000 Euro an die Restaurierung der Pfarrkirche St. Michael in Brixen und 500.000 Euro an die Sanierung des Hofburggartens. 
+</TEXT>
+</TimeML>

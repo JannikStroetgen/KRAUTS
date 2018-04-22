@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>49691_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2010-08-14" temporalFunction="false" functionInDocument="CREATION_TIME">2010-08-14</TIMEX3></DCT>
+<TEXT>
+Der Vorfall liegt inzwischen rund <TIMEX3 tid="t1" type="DURATION" value="P3W">drei Wochen</TIMEX3> zurück. Damals wurde ein ordnungsgemäßer Geldtransport in Richtung Sparkassen- Zentrale durchgeführt. Insgesamt soll der Werttransporter 500.000 Euro in Richtung Haupttresor gebracht haben. Wie ermittelt werden konnte, kam auch die vollständige Summe dort an. Das konnte anhand der entsprechenden Dokumente nachvollzogen worden. Am <TIMEX3 tid="t2" type="DATE" value="2010-08-15">nächsten Tag</TIMEX3> allerdings wurde das Geld für die Tätigkeit der Bank wieder aus dem Tresor geholt und vorschriftsmäßig gezählt. 450.000 Euro waren es. Über Nacht, so scheint es, sind 50.000 Euro verschwunden. Die Polizei wurde eingeschaltet und leitete Ermittlungen ein. Die Sparkasse selbst will zu dem Fall keine Stellungnahme abgeben. „Während laufender Ermittlungen geben wir nie eine Stellungnahme ab. Auch, um die Ermittlungen nicht zu beeinträchtigen“, erklärte <TIMEX3 tid="t3" type="DATE" value="2010-08-13">gestern</TIMEX3> dazu Pressesprecher Hugo Daniel Stoffella. Routinemäßig hat die Polizei alle Mitarbeiter, die auf irgendeine Art mit dem Geld in Kontakt gekommen sein könnten, befragt. Auch wurden zahlreiche Konten überprüft, Überwachungsvideos, sofern vorhanden, immer wieder angesehen. Bis <TIMEX3 tid="t4" type="DATE" value="2010-08-13">gestern</TIMEX3> allerdings gab es noch keinen konkreten Hinweis auf den Verbleib der nicht unerheblichen Summe. Die Ermittlungen laufen weiter, möglicherweise werden sie auch auf Länder außerhalb Italiens ausgeweitet – es kann nämlich nicht ausgeschlossen werden, dass das Geld auf ein Konto ins Ausland gebracht wurde.
+
+</TEXT>
+</TimeML>
+

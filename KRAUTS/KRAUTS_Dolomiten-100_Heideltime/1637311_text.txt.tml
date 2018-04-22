@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1637311_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-10-08" temporalFunction="false" functionInDocument="CREATION_TIME">2014-10-08</TIMEX3></DCT>
+<TEXT>
+Meran  (lub). Bereits zum dritten Mal hat vor kurzem die Veranstaltungsreihe Stadtlesen in Meran gastiert  und  den Sandplatz in eine  Bibliothek unter freiem Himmel verwandelt. Auf gemütlichen Sitzsäcken konnten sich Interessierte niederlassen und in einem guten Buch schmökern.  Die von Kulturamt und Stadtbibliothek gemeinsam mit der Innovationswerkstatt Salzburg organisierte Veranstaltung erfreute sich regen Zuspruchs. Die von der Stadtbibliothek organisierten Lesungen für Kinder waren gut besucht. Höhepunkt von "Stadtlesen in Meran  war die  Autorenlesung mit der  Krimiautorin Eva Rossmann. Die  Trägerin des Wiener-Krimi-Preises <TIMEX3 tid="t1" type="DATE" value="2014">2014</TIMEX3> stellte dabei ihren neuesten Roman "Alles Rot" vor.  Es herrschte knisternde Spannung auf dem Sandplatz.  Moderatorin Kathrin Klotz stellte Rossmann einige Fragen zum Roman. Anwesend war auch Stadtrat Stefan Frötscher. 
+
+</TEXT>
+</TimeML>
+

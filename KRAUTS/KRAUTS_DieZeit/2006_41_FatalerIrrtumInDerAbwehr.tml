@@ -1,0 +1,108 @@
+<?xml version="1.0" ?><TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>2006_41_FatalerIrrtumInDerAbwehr</DOCID>
+
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2006-10-05">05.10.2006</TIMEX3></DCT>
+
+<TITLE>Fataler Irrtum in der Abwehr</TITLE>
+
+
+
+<TEXT>
+Fataler Irrtum in der Abwehr
+
+Neue Therapien sollen Allergien bekämpfen. Die Ärzte träumen von einer wirksamen Prävention
+
+Folge 1: Medikamente Therapie im Blindflug
+
+Folge 2: PsychologieDepressionen und Angststörungen
+
+Folge 3: Orthopädie Fortschritte gegen Haltungsschäden
+
+Folge 4: Impfen Der Streit um die Risiken
+
+Folge 5: Ernährung Übergewicht und Diabetes
+
+Folge 6: Allergien Der Terror des Immunsystems
+
+Folge 7: Pubertät Das Ende der Kindheit
+
+Folge 8: Kleine Patienten Wie Kinder über Krankheit reden
+
+Autor: Eberle, Ute
+
+Konservierungsmittel und Kakerlaken. Oder Kamillentee. Manchmal Latexhandschuhe, Penizillin, Seidenblusen, Sellerie. Das Reinigungsmittel für Kontaktlinsen. Dann die Klassiker: Katze, Hund und Schimmelpilze, Modeschmuck, Hausstaub, Bienengift, Nüsse, Milch, Soja, Pollen, Weizen. Die Liste der Stoffe, auf die ein Mensch allergisch reagieren kann, scheint endlos.
+
+Und wen es trifft, für den kann das Leben zur Hölle werden. Wie für Melina Athanassiou aus Gießen. Mit elf Wochen begann das Baby, sich zu kratzen. Kratzte, statt zu schlafen, kratzte, bis sie blutverschmiert war. "<TIMEX3 tid="t1" type="SET" value="PT1DT" temporalFunction="false">Tage</TIMEX3> und <TIMEX3 tid="t2" type="SET" value="PT1NI" temporalFunction="false">Nächte</TIMEX3> sind gleich schwer zu überstehen", schrieb ihre Mutter Nikoleta damals ins Tagebuch. Stufe eins der Erschöpfung ist erreicht, wenn sie <TIMEX3 tid="t3" type="SET" value="PT1NI" temporalFunction="false">nachts</TIMEX3> dreimal aufsteht, um Melina daran zu hindern, sich völlig aufzukratzen. Stufe zwei, wenn das Baby ab <TIMEX3 tid="t4" type="SET" value="XXXX-XX-XXT05:00" temporalFunction="false">fünf Uhr</TIMEX3> gar nicht mehr schlafen will. Oft herrscht Stufe drei wenn es überhaupt keine Ruhephase mehr gibt. Der Grund für die nächtliche Tortur ist eine Neurodermitis, ausgelöst durch Nahrungsmittelüberempfindlichkeiten. Anders gesagt: "nur" eine Allergie.
+
+"Nur" eine Allergie haben in Deutschland Millionen, vor allem Kinder.
+
+Nahrungsmittelallergien erreichen ihren Höhepunkt statistisch im Vorschulalter, bei Asthma liegt er in den Teenagerjahren. Ungefähr dann setzt auch der Heuschnupfen ein.
+
+Exakte Zahlen lassen sich schwer ermitteln. Je nachdem, was die Forscher abfragen Symptome oder Arztdiagnose, schwanken sie beträchtlich. <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF" temporalFunction="false">Nun</TIMEX3> hat der Kinder- und Jugendgesundheitssurvey (Kiggs) des Robert Koch-Instituts (RKI) erstmals repräsentative Zahlen für Deutschland erfasst. Bei jedem sechsten der 17641 bis zu 17-jährigen Probanden wurde bereits eine Allergie diagnostiziert.
+
+Eine Langzeitstudie des Allergologen Ulrich Wahn von der Berliner Charité unter 1314 Kindern setzt die Häufigkeit noch höher an. Demnach entwickelt eins von zehn Babys Neurodermitis, leidet jeder vierte Teenager an Heuschnupfen und bekommen acht Prozent Asthma. "In jeder Schulklasse etwa zwei", sagt Wahn. Testet man, ob Kinder Antikörper gegen Allergene im Blut haben, also gegen bestimmte Alltagsstoffe sensibilisiert sind, schnellt der Anteil laut Kiggs auf 40,8 Prozent.
+
+Erschreckende Zahlen. Und Zahlen, die es <TIMEX3 tid="t6" type="DATE" value="PAST_REF" temporalFunction="false">früher</TIMEX3> so nicht gab. Zwischen <TIMEX3 tid="t7" type="DATE" value="1973" temporalFunction="false">1973</TIMEX3> und <TIMEX3 tid="t8" type="DATE" value="1988" temporalFunction="false">1988</TIMEX3> verdoppelten sich nach einer britischen Studie die Asthmafälle bei Schulkindern. Gleichzeitig legten Ekzeme um 150 Prozent zu. Von <TIMEX3 tid="t9" type="DATE" value="1926" temporalFunction="false">1926</TIMEX3> bis <TIMEX3 tid="t10" type="DATE" value="1995" temporalFunction="false">1995</TIMEX3> stieg die Zahl der Heuschnupfenfälle in der Schweiz um das 17fache. Ähnliches gilt wohl für ganz Westeuropa.
+
+Immerhin scheint die Kurve <TIMEX3 tid="t11" type="DATE" value="PAST_REF" temporalFunction="false">in letzter Zeit</TIMEX3> abzuflachen. Allerdings sind die Indizien dafür weniger eindeutig als für das explosive Wachstum zuvor. Warum der Anstieg? Warum sein Ende? Und weshalb werden Menschen überhaupt allergisch? Über all das rätseln die Forscher. Wie verwirrend die Befunde sind, zeigt die International Study of Asthma and Allergies in Childhood (Isaac). Sie wurde <TIMEX3 tid="t12" type="DATE" value="1991" temporalFunction="false">1991</TIMEX3> begonnen, um erstmals einheitlich das Auftreten dieser Leiden in der Welt festzustellen. Insgesamt befragten Forscher 463801 Jugendliche in 56 Ländern nach allergischen Symptomen. Sie fanden Krankheitsraten, die bis um das 60fache auseinander klafften. Die niedrigsten Raten für Asthma fanden die Isaac-Forscher in Indien, Albanien, Indonesien und Rumänien, wo teilweise nur 1,6 Prozent der Jugendlichen unter chronisch entzündeten Atemwegen litten. Die meisten Asthmakinder fanden sie in Australien und Neuseeland, wo gut jeder Dritte betroffen war. Bei Heuschnupfen führten Nigeria und Paraguay die Liste an, bei allergischen Ekzemen lagen die Skandinavier mit Finnland und Schweden in der Topgruppe. Die geografische Verteilung sei "etwas unerwartet", sagt diplomatisch Stephan Weiland, ein an Isaac beteiligter Epidemiologe der Universität Ulm.
+
+Wenn aber schon Fachleute verwirrt sind, wie soll der Laie sich zurechtfinden? <TIMEX3 tid="t13" type="DURATION" value="PXY" temporalFunction="false">Die vergangenen Jahre</TIMEX3> brachten eine Flut von Studien mit teils konträren Ergebnissen. Demnach:
+
+schützt Stillen vor Allergien, möglicherweise aber nur vorübergehend,
+
+machen Katzen im Haus Kinder anfälliger für Überempfindlichkeiten, außer es leben dort gleich ganz viele Katzen,
+
+beugt eine staubarme Wohnung Allergien vor, nach anderen Befunden könnte das die Krankheit auch begünstigen.
+
+Entsprechend widersprüchlich fallen die Ratschläge der Allergologen aus: Da werden staubmilbenabhaltende Bettüberzüge empfohlen oder verworfen, Haustiere geduldet oder verdammt. "<TIMEX3 tid="t14" type="DATE" value="PAST_REF" temporalFunction="false">Früher</TIMEX3> war alles klar", sagt Ursula Krämer vom Institut für Umweltmedizinische Forschung in Düsseldorf. "Alles möglichst sauber und keine Tiere. <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF" temporalFunction="false">Heute</TIMEX3> ist es ganz, ganz kompliziert."
+
+Doch es gibt auch gute Nachrichten. Im Wust der Daten beginnen sich Gewissheiten zu kristallisieren, die bei Medizinern Hoffnung wecken vielleicht können sie Allergien bald verhindern.
+
+Sie wissen schon seit langem, dass eine Allergie durch eine fehlgeleitete Abwehrreaktion des Körpers entsteht. Das menschliche Immunsystem wird <TIMEX3 tid="t16" type="SET" value="P1D" temporalFunction="false">täglich</TIMEX3> mit Millionen von Fremdstoffen bombardiert, von harmlosen Duftmolekülen bis zu todbringenden Viren. Aus bisher unerfindlichen Gründen zählt das Immunsystem von Allergikern dabei eigentlich unschädliche Alltagsstoffe zu den Feinden und beginnt sie zu bekämpfen.
+
+Dafür bilden Immunzellen Antikörper vom Typ des so genannten Immunglobulins E. Kommt das Allergen in den Körper, heften sich die Antikörper erst an den Eindringling und dann an bestimmte Abwehrzellen (Mastzellen), welche in ihrem Inneren den Botenstoff Histamin bilden.
+
+Aktiviert von allergenbeladenen Antikörpern, überfluten die Mastzellen das umliegende Gewebe mit Histamin, was eine entzündliche Reaktion auslöst. Je nachdem, wo der Kontakt mit dem Allergen stattfindet, führt das zu Hautausschlägen, Übelkeit, Durchfall, Juckreiz oder Schwellung der Bronchien.
+
+Für die Betroffenen ist das mehr als nur unangenehm. Kinder mit Asthma wachsen häufig schlechter und fehlen mehr in der Schule. Auch Heuschnupfenkinder haben überdurchschnittlich oft Schulprobleme.
+
+Selbst die Berufswahl ist manchmal eingeschränkt. Der Ärzteverband Deutscher Allergologen hat beobachtet, dass <TIMEX3 tid="t17" type="SET" value="P1Y" temporalFunction="false">jedes Jahr</TIMEX3> rund 30000 Jugendliche ihre Ausbildung aus Gesundheitsgründen abbrechen, und vermutet, dass häufig Allergien dahinterstecken, zumal es vorwiegend angehende Bäcker, Konditoren, Maler, Friseure, Metallarbeiter, Floristen oder Schreiner trifft traditionell allergenintensive Branchen. Noch nicht mitgezählt sind Jugendliche, die einen Traumberuf wegen einer bekannten Überempfindlichkeit gar nicht erst antreten. So dürften etwa Asthmatiker in vielen Bundesländern nicht Polizist werden.
+
+Im schlimmsten Fall reagiert der Körper auf ein Allergen mit einem Schock, an dem die Patienten sterben können. Etwa 2,4 Millionen Deutsche müssen fürchten, dass <TIMEX3 tid="t18" type="DURATION" value="PT1AF" temporalFunction="false">ein Nachmittag</TIMEX3> im Garten mit einem Kreislaufkollaps oder Ersticken endet, weil sie auf Insektengift allergisch reagieren. Auch kann es passieren, dass ein Betroffener von einer Allergieform zu einer anderen wechselt, ein Phänomen, das Ärzte als "allergologische Karriere" bezeichnen. So entwickelt etwa jeder dritte Heuschnupfenkranke später auch Asthma. Die damit einhergehende Atemnot tötete laut einer Statistik allein <TIMEX3 tid="t19" type="DATE" value="1996" temporalFunction="false">1996</TIMEX3> insgesamt 5348 Menschen in Deutschland, gut 14 <TIMEX3 tid="t20" type="SET" value="P1D" temporalFunction="false">pro Tag</TIMEX3>.
+
+Trotz hoher Umweltverschmutzung hatten DDR-Kinder weniger Allergien
+
+Die Veranlagung zur Allergie ist zweifellos genetisch bedingt. "Jedes Kind hat <TIMEX3 tid="t21" type="DATE" value="PRESENT_REF" temporalFunction="false">heute</TIMEX3> ein etwa 20-prozentiges Risiko, Allergiker zu werden", sagt Eckhard Hamelmann von der Charité. "Ist aber bereits ein Elternteil allergisch, steigt sie auf 40 Prozent. Sind es beide: 80 Prozent."
+
+Doch die Gene allein erklären die rapide Zunahme der Allergien nicht.
+
+Lange vermuteten Forscher, dass die Umweltverschmutzung schuld sei.
+
+Die Wiedervereinigung bot die Chance, diese These zu testen. Man untersuchte Kinder in mit Schadstoffen belasteten ostdeutschen Regionen wie Halle und Leipzig und verglich sie mit Jugendlichen aus dem Westen. Immer wieder kam das Gleiche heraus. Die Kinder im Osten hatten durchaus Gesundheitsprobleme durch die "Dreckschleuderfabriken", wie es Frank Friedrichs, kinderallergologischer Experte der European Academy of Allergology and Clinical Immunology (EAACI), ausdrückt. "Aber sie hatten kaum Asthma und Heuschnupfen."
+
+Konsterniert suchten die Forscher nach Unterschieden in der Umwelt.
+
+Und fanden sie auch. So leiden Heranwachsende, die einmal Würmer hatten, früh in Kindertagesstätten kamen, in großen Familien leben oder auf Bauernhöfen wohnen und oft in den Stall gehen, statistisch seltener an Allergien als andere Kinder. Diesen Faktoren ist eines gemeinsam, erkannten die Forscher: Sie konfrontieren das kindliche Immunsystem mit einer Fülle schädlicher Keime.
+
+Darauf stützt sich die "Hygiene-Hypothese": Vereinfacht besagt sie, dass ein Baby mit einem unfertigen Immunsystem geboren wird, das trainiert werden muss. Fehlen die dafür nötigen Gegner wie Krankheitskeime oder Parasiten, gerät es leicht außer Tritt und attackiert harmlose Alltagsstoffe. "Mit den ganzen Desinfektionssprays und der Hygiene überall scheint vielen Kindern etwas abhanden gekommen zu sein", sagt Friedrichs.
+
+Das bedeutet nicht, dass Schmutz automatisch gut ist. Oder gar, dass Eltern auf Impfungen verzichten sollten. Infektionskrankheiten wie Masern sind statistisch tödlicher als jede Allergie. "Die Art des Drecks ist entscheidend", so Friedrichs. Nachgewiesen wurde eine allergiehemmende Wirkung bisher bei Tuberkulosebakterien, dem Darmspulwurm Ascaris und den so genannten Endotoxinen Komponenten aus der Zellwand von Bakterien wie E.coli oder Salmonellen, die besonders in Kindergärten und Ställen üppig zirkulieren. Manche Forscher bezeichnen diese Keime als "alte Freunde", Mikroorganismen, mit denen sich das menschliche Immunsystem seit <TIMEX3 tid="t22" type="DURATION" value="PXL" temporalFunction="false">Jahrtausenden</TIMEX3> auseinander setzt. Vermutlich ist auch wichtig, wann das Kind diesen Keimen begegnet. Das erste Lebensjahr scheint zentral zu sein.
+
+Aufbauend auf der Hygiene-Hypothese, vermuten viele Forscher <TIMEX3 tid="t23" type="DATE" value="PRESENT_REF" temporalFunction="false">heute</TIMEX3>, dass eine ganze Reihe von Charakteristika des modernen, westlichen Lebens die Explosion an Allergien bewirkt haben, indem sie den Menschen "alte Freunde" rauben, aber sie gleichzeitig mehr exotischen Stoffen aussetzen. Dazu zählen Fernreisen, Fertiggerichte mit vielen Zusatzstoffen und gut isolierte Häuser, in denen Milben und Schimmel ein ideales Klima finden, ebenso wie pasteurisierte Milch, Antibiotika, wenig Geschwister und (keimreduzierte) Kaiserschnitte.
+
+Selbst die Fettsäuren der Margarine sind in Verdacht geraten, und möglicherweise spielen Schadstoffe wie Feinstaub, Stickoxide und Ozon eine zumindest unterstützende Rolle. "Die Zunahme an Allergien ist offenbar der Preis, den wir für unseren Lebensstil zahlen", sagt Friedrichs.
+
+Eindrucksvoll zeigte sich dies erneut in Ostdeutschland. Die aktuelle Kiggs-Studie zum Beispiel ergab, dass ältere Kinder, die dort vor dem Mauerfall geboren wurden, gegen die Erkrankung weitgehend gefeit sind. Bei jüngerem Nachwuchs dagegen konnten die Epidemiologen keinen Unterschied zu Kindern im Westen mehr feststellen. Wohl aber fanden die Forscher Differenzen zwischen anderen Bevölkerungsgruppen. So leiden Migrantenkinder seltener an Allergien als Kinder aus der Oberschicht. "Das hat sicher mit unterschiedlichen Lebensweisen zu tun", so Martin Schlaud vom RKI.
+
+Wurmeier und Bakterien helfen gegen Asthma und Neurodermitis
+
+Daraus ergeben sich Ansatzpunkte, um Allergien wirkungsvoller zu bekämpfen. Bisher ist es nur möglich, allergische Symptome durch Medikamente wie Antihistamika oder Kortison zu unterdrücken oder den Körper durch die <TIMEX3 tid="t24" type="DURATION" value="PXY" temporalFunction="false">jahrelange</TIMEX3> Spritzkur, eine Hyposensibilisierung gegen ein Allergen "abzuhärten". Doch an der Charité läuft <TIMEX3 tid="t25" type="DATE" value="PRESENT_REF" temporalFunction="false">derzeit</TIMEX3> eine Studie, bei der bisher 500 genetisch vorbelastete Babys <TIMEX3 tid="t26" type="DURATION" value="P6M" temporalFunction="false">sechs Monate</TIMEX3> lang <TIMEX3 tid="t27" type="SET" value="P1D" quant="3" temporalFunction="false">dreimal täglich</TIMEX3> Endotoxin-angereicherte Tropfen bekommen eine Art Impfung, die eine Fehlreaktion des Immunsystems von vornherein verhindern soll. Die Studie wird erst in <TIMEX3 tid="t28" type="DATE" value="2007" anchorTimeID="t0" temporalFunction="true">einem Jahr</TIMEX3> ausgewertet, doch "die Gesamtinzidenz scheint bereits geringer als erwartet", sagt Studienbetreuer Hamelmann.
+
+Von <TIMEX3 tid="t29" type="DATE" value="2007" mod="START" temporalFunction="false">Anfang 2007</TIMEX3> an möchte er zudem Personen mit bereits etablierten Nahrungsmittelallergien oder Heuschnupfen Eier des (für Menschen harmlosen) Schweineparasiten Trichuris schlucken lassen, um zu testen, ob das die Immunreaktion reguliert. "Es gibt bereits gute Erfahrungen mit chronischen Darmentzündungen wie Colitis ulcerosa. "Und in <TIMEX3 tid="t30" type="DATE" value="2006-W39" anchorTimeID="t0" temporalFunction="true">der vergangenen Woche</TIMEX3> berichteten Schweizer Forscher, dass zehn Heuschnupfenpatienten nach einer Spritzkur mit Erbgutschnipseln aus Mykobakterien <TIMEX3 tid="t31" type="DURATION" value="P8M" temporalFunction="false">acht Monate</TIMEX3> lang symptomfrei geblieben sind.
+
+Bereits erprobt ist ein Medikament, das die Allergie-Antikörper IgE blockiert. Das "Anti-IgE", das regelmäßig unter die Haut gespritzt werden muss, ist in Deutschland bisher allerdings nur für schweres Asthma bei über Zwölfjährigen zugelassen.
+
+Solche Entwicklungen stimmen viele Ärzte optimistisch. "Wenn die Allergologen es in <TIMEX3 tid="t32" type="DURATION" beginPoint="t0" endPoint="t33" value="P10Y">den nächsten zehn Jahren</TIMEX3><TIMEX3 tid="t33" type="DATE" value="2016-10-05" anchorTimeID="t0" temporalFunction="true"/> nicht schaffen, eine Prävention zu finden und diese Epidemie <TIMEX3 tid="t34" type="DATE" value="20" temporalFunction="false">des 21. Jahrhunderts</TIMEX3> umzukehren, dann haben sie versagt!", sagt Wahn.
+</TEXT>
+</TimeML>

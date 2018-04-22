@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2002_29_MinusBeiTuiUndCo</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2002-07-11">2002-07-11</TIMEX3></DCT>
+<TEXT>
+Minus bei TUI und Co. - Plus für Bayern
+
+Gebeutelte Konzerne: Zu Hause lässt sich angstfrei und günstig Urlaub machen - davon gehen in <TIMEX3 tid="t2" type="DATE" value="0021">diesem Jahr 21</TIMEX3> Millionen deutsche Touristen aus.
+
+Neben der schwachen Konjunktur und höheren Preisen für Auslandsreisen sind es die Erinnerungen an Terroranschläge wie auf Djerba, die ihnen die Lust auf Palmen und Sonne im Süden vermiesen. 22 Prozent der Bundesbürger verzichten laut Forschungsgemeinschaft Urlaub und Reisen (FUR) in <TIMEX3 tid="t6" type="DATE" value="2002-SU">diesem Sommer</TIMEX3> auf Flugreisen. Bei den Veranstaltern profitieren davon neben der Bundesbahntochter Ameropa und den Anbietern von Deutschlandferien auch die Firmen, die Ferienhäuser und Hotels in Skandinavien und Osteuropa im Programm haben.
+
+Dagegen verzeichnen Ägypten und Tunesien einen Buchungseinbruch von 40 Prozent. Das trifft die an satte Zuwachsraten gewöhnten Branchenführer wie etwa den weltgrößten Tourismuskonzern TUI, der in Deutschland bisher 12,4 Prozent weniger Reisen verkaufte als im Vorjahr. Ähnliches vermeldet der britische Reisekonzern Thomas Cook: Die Umsätze und Buchungen gingen um 11,1 Prozent gegenüber dem <TIMEX3 tid="t8" type="DATE" value="2002-06">Juni</TIMEX3> des vergangenen Jahres zurück. Trotzdem kein Grund, auf Last-Minute-Schnäppchen zu setzen, denn die Konzerne haben ihre Kontingente in Hotels und Fliegern stark verringert.
+
+Geliebtes Bayern: Tourismusverbände erwarten bis zu drei Millionen Reisende mehr als sonst in deutschen Landen. Dabei zieht es Arme und Reiche, Junge und Alte, Beamte und Landwirte in ganz unterschiedliche Regionen, hat die Allensbacher Markt- und Werbeträgeranalyse (AWA) herausgefunden. Verreisen Jugendliche unter <TIMEX3 tid="t10" type="DURATION" value="P20Y">20 Jahren</TIMEX3> in Deutschland, fahren sie ans Meer - und dort eher an die Ost- als an die Nordsee. Mit jedem Lebensjahr mehr wächst allerdings die Wahrscheinlichkeit, dass sie die Nordsee wählen. Sind die Touristen leitende Angestellte und Beamte, bevorzugen sie Bayern - und auch wohlhabendere Urlauber machen lieber im deutschen Süden Ferien. Landwirte fahren selten an die mecklenburgischen Seen, dafür tun dies Selbstständige umso öfter (am liebsten fahren aber auch sie nach Bayern). Ostdeutsche lieben die Ostsee (vor Bayern) und den Thüringer Wald (nach Bayern).
+
+Westdeutsche ziehen die Nordsee eindeutig der Ostsee vor (nach Bayern).
+
+Eines ist in jedem Fall klar: Bayern wird in <TIMEX3 tid="t12" type="DATE" value="2002-SU">diesem Sommer</TIMEX3> mehr Touristen zählen als im Vorjahr. Fast 23 Prozent aller Übernachtungen entfallen auf das Alpenland. Das sind fünf Prozent mehr, als alle neuen Bundesländer zusammen erreichen - obwohl Mecklenburg-Vorpommern in <TIMEX3 tid="t15" type="DURATION" value="PXY">den vergangenen Jahren</TIMEX3> aufgeholt hat.
+
+Gefällige Statistik: Schon im <TIMEX3 tid="t17" type="DATE" value="2001">Jahr 2001</TIMEX3> habe es 17 Prozent mehr Urlaubsreisen nach Deutschland gegeben als zuvor, sagt Ursula Schörcher, Chefin der Deutschen Zentrale für Tourismus (DTZ). Dagegen weist das Statistische Bundesamt nur ein Plus von 0,1 Prozent aus. Beide haben Recht, weil sie unterschiedlich zählen. In Wiesbaden werden einzelne Übernachtungen registriert. Schörcher dagegen meint Reisen mit mehr als vier Übernachtungen.
+
+Die teilweise widersprüchlichen Werte machen es möglich, dass für jeden Akteur im Tourismus eine passende Zahl dabei ist. Ein Beispiel: Der Anteil der Deutschlandreisen an den gesamten Urlaubsreisen betrug <TIMEX3 tid="t19" type="DATE" value="2001">2001</TIMEX3> laut FUR 26 Prozent - ein unschöner Rückgang um ein Prozent gegenüber <TIMEX3 tid="t20" type="DATE" value="2000">2000</TIMEX3>. Wer einen Zuwachs melden möchte, kann alle Reisen mit mindestens einer Übernachtung zählen. Die führen zu 72 Prozent nach Deutschland und sind gegenüber dem Vorjahr um ein Prozent gestiegen. Und noch ein Beispiel: Laut Deutschem Hotel und Gaststättenverband (Dehoga) beträgt die Auslastung der Hotels hierzulande kaum 40 Prozent. Der Hotelverband Deutschland geht dagegen von mehr als 60 Prozent aus. Die Ersten zählen Betten und die anderen Zimmer. Bei der Interpretation sind sich jedoch beide einig: Es könnte besser sein.
+</TEXT>
+</TimeML>
+

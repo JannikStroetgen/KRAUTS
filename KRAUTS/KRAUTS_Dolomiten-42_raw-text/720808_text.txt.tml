@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>720808_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-11-14" temporalFunction="false" functionInDocument="CREATION_TIME">2013-11-14</TIMEX3></DCT>
+<TEXT>
+BRÜSSEL (dpa). Angesichts der anhaltend hoher Arbeitslosigkeit in Europa warnt die EU-Kommission vor überzogenem Optimismus. "Die Arbeitslosigkeit in der EU der 28 (Staaten) ist so hoch wie nie" schreibt die Brüsseler Behörde in einem Beschäftigungsbericht, den EU-Arbeitskommissar Laszlo Andor gestern vorstellte. Der EU-Statistikbehörde Eurostat zufolge waren im September knapp 26,9 Millionen Menschen in Europa ohne Arbeit. Zwar sei der Anteil der Menschen ohne Job seit Mitte des laufenden Jahres nicht gestiegen. Es sei aber noch zu früh, um von einer Trendwende zu sprechen. Die Langzeitarbeitslosigkeit habe sich seit 2008 verdoppelt - bei der Wachstumslokomotive Deutschland sank sie allerdings. © 
+</TEXT>
+</TimeML>

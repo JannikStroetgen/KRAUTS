@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2301578_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-03-24" temporalFunction="false" functionInDocument="CREATION_TIME">2015-03-24</TIMEX3></DCT>
+<TEXT>
+Bozen.  Seit gestern haben alle im Jahr 2014 geborenen Bozner Kinder einen gemeinsamen Baum. Die  Weiß-Esche wurde    auf der Höhe des Petrarcaparks bei den Talferwiesen (im Bild) in Anwesenheit vieler Kinder   und  von  Vizebürgermeister Klaus Ladinser gepflanzt. Für gewöhnlich wird der Tag des Baumes   im November begangen, für Berggebiete sieht das Gesetz  den Sondertermin   21. März vor.   Gemeinsam mit der Leiterin der Stadtgärtnerei, Ulrike Buratti,  wies  Ladinser    auch darauf hin, dass   der Baumkataster nunmehr aktualisiert   im Internet einsehbar  ist.  Informationen über alle öffentlichen Bäume können abgerufen werden, soweit diese  erfasst sind.  Weitere Informationen unter www.gemeinde.bz.it  
+</TEXT>
+</TimeML>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2191479_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-02-10" temporalFunction="false" functionInDocument="CREATION_TIME">2015-02-10</TIMEX3></DCT>
+<TEXT>
+Bozen .  100 Zeugen der Verteidigung: Wer  im Sonderfonds-Prozess gegen Luis Durnwalder  berufen wird, weiß man am <TIMEX3 tid="t2" type="DATE" value="2015-02-25">25. Februar</TIMEX3>.
+</TEXT>
+</TimeML>
+

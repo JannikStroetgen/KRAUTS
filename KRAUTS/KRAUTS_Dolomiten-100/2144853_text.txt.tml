@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2144853_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-01-22" temporalFunction="false" functionInDocument="CREATION_TIME">2015-01-22</TIMEX3></DCT>
+<TEXT>
+Meran  (ehr). Die nächsten Gemeinderatssitzungen in Meran finden am <TIMEX3 tid="t1" type="DATE" value="2015-01-29" anchorTimeID="t0" functionInDocument="NONE">29. Jänner</TIMEX3>, am <TIMEX3 tid="t2" type="DATE" value="2015-02-10" anchorTimeID="t0" functionInDocument="NONE">10</TIMEX3>. und <TIMEX3 tid="t3" type="DATE" value="2015-02-11" anchorTimeID="t0" functionInDocument="NONE">11. Februar</TIMEX3> und am <TIMEX3 tid="t4" type="DATE" value="2015-03-11" anchorTimeID="t0" functionInDocument="NONE">11</TIMEX3>., <TIMEX3 tid="t5" type="DATE" value="2015-03-18" anchorTimeID="t0" functionInDocument="NONE">18</TIMEX3>., und <TIMEX3 tid="t6" type="DATE" value="2015-03-25" anchorTimeID="t0" functionInDocument="NONE">25. März</TIMEX3> statt. Dies berichtete Bürgermeister Günther Januth <TIMEX3 tid="t7" type="DATE" value="2015-01-21" anchorTimeID="t0" functionInDocument="NONE">gestern</TIMEX3>. Im Bild: der Ratssaal. 
+</TEXT>
+</TimeML>

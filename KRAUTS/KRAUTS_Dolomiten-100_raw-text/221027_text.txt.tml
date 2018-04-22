@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>221027_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2012-10-19" temporalFunction="false" functionInDocument="CREATION_TIME">2012-10-19</TIMEX3></DCT>
+<TEXT>
+Kennen Sie das Problem auch? Sie lesen Schlagzeilen von astronomischen Geldsummen, können sich aber mit Ihrem bescheidenen Gehalt kein richtiges Bild davon machen, wie viel eigentlich genau gemeint ist, weil Ihnen Zahlen oberhalb von einer Million nicht so vertraut sind?  "Monti will 26 Mrd. Euro sparen" oder "SEL muss 200 Mio. Euro zahlen". Hier ist die Lösung: Rechnen Sie sich aus, wie viele Paare ihr Leben lang arbeiten müssen, um das jeweilige Sümmchen zu erreichen - und schon haben Sie eine einfache Formel! Und so wird?s gemacht: Angenommen Sie verdienen 1400 Euro und arbeiten 40 - Pardon,  jetzt 42 -  Jahre   lang. Weil das Geld für die Familie nicht reicht, geht Ihr Partner flugs sein Leben lang putzen und verdient weitere 400 Euro im Monat dazu. So kommt im Laufe Ihres Lebens - wenn Sie das Pensionsalter ohne Zwischenfälle und Ausgaben erreichen - knapp eine Million zusammen (... oder umgerechnet ein SEL-Berater-Honorar). Und nun der Clou: Blockiert Rom also 350 Mio., dann ist das so viel, wie 350 Paare (oder etwa das gesamte Schnalstal) ihr Leben lang verdienen können. Will Monti 26 Mrd. sparen, dann entspricht das 26.000 lebenslangen Familieneinkommen. Einfach, nicht?
+</TEXT>
+</TimeML>

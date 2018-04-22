@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1462816_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-08-06" temporalFunction="false" functionInDocument="CREATION_TIME">2014-08-06</TIMEX3></DCT>
+<TEXT>
+Graun  (lie). Immer wieder ergibt sich im Oberland dasselbe Problem: Mit dem Steigen des Stauseepegels nimmt auch der Wasserdruck am Stauseerand zu - die Folge sind z. B. überflutete Kellerräume in einem Grauner Hotel. Auch die Pumpen der Abwasserleitung Reschen-Graun-St. Valentin werden davon negativ beeinflusst, erklärt Bürgermeister Heinrich Noggler. Obwohl die Betreibergesellschaft Seledison rein rechtlich korrekt vorgehe, hoffe man dennoch auf  ein Einsehen, sagt Noggler.  Dies bedeutet konkret, die gesetzlich zulässige Maximalhöhe des  Stausee-Pegelstandes nicht voll auszureizen. 
+</TEXT>
+</TimeML>
+

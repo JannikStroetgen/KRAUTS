@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2001_35_ErbarmenHerrPraesident</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2001-08-23">2001-08-23</TIMEX3></DCT>
+<TEXT>
+Erbarmen, Herr Präsident!
+
+Eine Million Russen im Gefängnis - ein Appell an Putin
+
+Autor: Pristawkin, Anatolij
+
+Moskau
+
+Den ersten Tag habe ich noch lebhaft vor Augen. Im <TIMEX3 tid="t1" type="DATE" value="1992-03">März 1992</TIMEX3> betrat ich dieses Amtszimmer: einen riesigen Raum mit einem überlangen Sitzungstisch und einem kolossalen, auf den Etagen der Macht üblichen Schreibtisch für den Hausherrn. Nun stand das alles für mich da. Auch die traditionelle grüne Tischlampe nach Kreml-Art und etwa ein Dutzend Telefone. Wie sollte ich mich je daran gewöhnen? Lange wollte ich in diesem Büro nicht ausharren. "Wir bauen die für uns ganz neue und ungewöhnliche Begnadigungskommission auf und gehen wieder", dachte ich damals. Ein nicht vollendeter Roman, meine Frau und meine Tochter warteten auf mich.
+
+<TIMEX3 tid="t4" type="DATE" value="2001-08-23">Heute</TIMEX3>, da ich mich nach <TIMEX3 tid="t5" type="DURATION" value="P10Y">fast zehn Jahren</TIMEX3> Arbeit endlich von diesem Posten verabschiede, sitze ich noch einmal am Kopf des langen Tisches und blicke zurück. Die erste Sitzung der Kommission fiel zufällig auf Stalins Todestag am <TIMEX3 tid="t7" type="DATE" value="2001-03-05">5. März</TIMEX3>. Darin sahen wir ein gutes Zeichen. Die Runde sprach die obligaten Worte über den Dienst an der Gesellschaft und unserem Land, das an Brutalität unheilbar erkrankt ist. Dann machten wir uns sofort ans Lesen der Strafsachen, die uns, ich will das nicht verbergen, einen Schock versetzten: Gewalttäter, Mörder, Räuber - wie konnten wir mit ihnen überhaupt Mitleid haben?
+
+Langsam haben wir gelernt mitzufühlen. Und sind dabei vielleicht selbst bessere Menschen geworden. Natürlich konnten wir uns an Blut nicht gewöhnen, nicht an grausame Gewalttaten, besonders gegen Frauen und Kinder. Aber wir haben gelernt, uns der Wehrlosen und Ausgestoßenen zu erbarmen, die vom Staat, der Miliz und den Gerichten für einen gestohlenen Sack Kartoffeln eingesperrt wurden. Diese Maschinerie, die noch mit den repressiven Gulag-Methoden arbeitet, bringt <TIMEX3 tid="t8" type="SET" value="P1Y">jährlich</TIMEX3> fünf Millionen Menschen hinter Gitter, in U-Haft oder ins Zuchthaus. Wir lasen ihre Dokumente auf grauem Papier aufmerksam durch und erkannten allmählich dahinter das unglückliche Russland - dem Trunk verfallen, ausgeplündert, belogen, durch den Gulag getrieben und unter die Räder der Geschichte geraten.
+
+Nach den offiziellen Statistiken haben 95 Prozent der Bevölkerung gestohlen, aber die meisten von ihnen für das nackte Überleben, um sich selbst und die Kinder zu ernähren. Ich erinnere mich an eine Frau im Rentenalter, die ein paar Dutzend Mal im Gefängnis saß, weil sie immer etwas klaute: hier eine Handtasche, da ein Portemonnaie - das war ihr Leben. Unter den Stapeln von Strafsachen stießen wir auf einen Mann, der insgesamt <TIMEX3 tid="t11" type="DURATION" value="P45Y">45 Jahre</TIMEX3> in Straflagern verbracht hatte. Seine Geschichte begann im Zweiten Weltkrieg mit einem gestohlenen Laib Brot. Er wurde zu <TIMEX3 tid="t13" type="DURATION" value="P14Y">14 Jahren</TIMEX3> Haft verurteilt. Nach der Entlassung ging der Kreislauf so weiter. Das hätte um ein Haar auch mein Schicksal sein können. Auch ich habe im Krieg geklaut, einfach um vor Hunger nicht zu sterben. Wie hätte ich diesem Menschen gegenüber gleichgültig bleiben können!
+
+Natürlich gab es brutale Mörder in den Strafakten auf unseren Schreibtischen.
+
+Ihnen drohte die Todesstrafe. Aber seltsamerweise kamen diese Menschen stets aus den untersten sozialen Schichten: Traktoristen, Viehhirten, Heizer, Lastenträger. Kein einziger Mafioso, kein einziger Bandenchef war darunter!
+
+Denn die kauften sich rechtzeitig von aller Strafe los. Für sie gingen Leute aufs Schafott, deren Schuld die Behörden nicht beweisen konnten. Aber es stand in ihrer Macht, ein Geständnis zu erzwingen. So konnten die Rechtsschutzorgane gewissenhafte Arbeit demonstrieren und die Öffentlichkeit beruhigen: Seht her, wir suchen, finden und bestrafen sie. Hingerichtet wurden oft Unschuldige.
+
+So haben sie am <TIMEX3 tid="t18" type="DATE" value="1993-07-05">5. Juli 1993</TIMEX3> einen jungen Mann namens Alexander Krawtschenko von knapp <TIMEX3 tid="t20" type="DURATION" value="P20Y">über 20 Jahren</TIMEX3> hingerichtet. Nach seiner Erschießung stellte sich heraus, dass "sein" Verbrechen auf das Konto eines berüchtigten Serienmörders ging: Tschekatilo. Wie viele nicht wieder gutzumachende Fehlurteile wurden so gefällt? Wir in der Kommission konnten es ahnen, weil die Strafsachen über unseren Tisch gingen. Aber die Macht hüllte sich in Schweigen.
+
+Jelzin war menschlicher
+
+Angesichts der Zustände in Russland ist es schon merkwürdig, dass die Kommission <TIMEX3 tid="t21" type="DATE" value="2001-08-23">heute</TIMEX3> ausgetauscht werden soll. Aber der ehemalige Präsident Jelzin war menschlicher als die heutigen Allgewaltigen. Jelzin duldete unsere Kommission trotz vieler Denunziationen und schmutziger Beschwerdebriefe aus dem Innenministerium, der Generalstaatsanwaltschaft und dem Justizministerium. Deren Erregung durfte niemanden erstaunen. Schließlich hatten wir an den Europarat, in dem Russland seit 1996 Mitglied ist, ein Telegramm geschickt. Darin stand, dass die statistischen Daten über die Zahl der Hinrichtungen von unseren Behörden absichtlich heruntergerechnet wurden und dass die Todesstrafe weiter vollstreckt wurde - obwohl Russland sich verpflichtet hatte, niemanden mehr hinzurichten. Einmal habe ich einen Abgeordneten des Europarats in meinem Büro dringend gebeten, Russland zu verwarnen, damit es die Hinrichtungen stoppe. Der Europarat verwarnte unser Land - und das hatte Folgen. Jelzin erließ im <TIMEX3 tid="t24" type="DATE" value="1996-08">August 1996</TIMEX3> einen Ukas über das vorläufige Aussetzen der Todesstrafe. Unsere Gegner haben das nicht vergessen.
+
+Aber wenn wir es wenigstens nur mit den Machthabern zu tun hätten, mit der Nomenklatura, die nach dem Ende des kommunistischen Regimes noch stärker geworden ist! Leider verfluchte uns auch das so genannte Volk für den fast vollständigen Stopp der Todesstrafe unter Jelzin: Nachdem vor <TIMEX3 tid="t27" type="DATE" value="1992">1992</TIMEX3> etwa 500 Menschen im Jahr hingerichtet worden waren, gab es im ersten Arbeitsjahr der Kommission nur noch eine Hinrichtung. Da bekamen wir einen Brief aus der Provinzstadt Nowotscherkassk: "Ihr sitzt da in warmen Kabinetten hinter den Kreml-Mauern und lasst euch von Leibwächtern beschützen. Ihr solltet mal zu uns auf den Marktplatz kommen! Da werden euch unsere Leute schon zeigen, wie man begnadigt! Ihr werdet nicht geschont!"
+
+Doch von Schonung konnte ohnehin nicht die Rede sein: In zwei Fällen haben Schläger Mitglieder unserer Kommission verprügelt. Andere wurden durch Zeitungsartikel bedroht oder per Telefon erpresst, natürlich immer mit vieldeutigen Anspielungen auf unsere Familien und vor allem die Kinder. Über mich sind zwei Romane verfasst worden, mit hohen Auflagen. Die Geschichte handelte davon, wie ich einen Mörder begnadige und er danach meine minderjährige Tochter vergewaltigt und umbringt. Es fehlten nicht genaue Angaben über meine Privatanschrift und die Schule meiner Tochter.
+
+Hinter den zahlreichen Vorwürfen gegen unsere Kommission lauerte stets die Mutmaßung, wir nähmen Geld für unsere Empfehlungen. Die Nomenklatura begründete ihren Verdacht so: "Alle lassen sich bestechen und die Kommission nicht? Unmöglich!" Ein Mitglied unserer Kommission war Bulat Okudschawa, der berühmte Liedermacher, der <TIMEX3 tid="t28" type="DATE" value="1997">1997</TIMEX3> gestorben ist. Zur Finanzierung seines Lebensunterhalts musste er noch als kranker Mann auf anstrengende Konzerttourneen gehen. Und der soll korrupt gewesen sein? Ein anderes Mitglied unserer Kommission, Lew Rasgon, hatte 17 lange Jahre in Stalins Lagern verbracht. Er musste für sein Auskommen als 85-jähriger Mann Bücher aus seiner privaten Bibliothek verkaufen. Die Strafakten las er noch auf dem Sterbebett <TIMEX3 tid="t29" type="DURATION" value="P3D">drei Tage</TIMEX3> vor seinem Tod. Auch er korrupt? Wir haben all <TIMEX3 tid="t30" type="DATE" value="2001">diese Jahre</TIMEX3> gearbeitet, ohne je eine Belohnung oder ein Gehalt zu erwarten. Es gab eine andere Auszeichnung, wie Lew Rasgon bemerkt hat: Indem wir dem Präsidenten und der Gesellschaft halfen, die grausamen Sitten zu mildern, fühlten wir uns als Bürger unseres Landes, dem wir unsere Pflicht leisteten.
+
+Das kann uns niemand mehr nehmen.
+
+Es ist genau <TIMEX3 tid="t31" type="DURATION" value="P1Y">ein Jahr</TIMEX3> vergangen, seitdem Präsident Putin aufgehört hat, Begnadigungserlasse zu unterschreiben. Beamte umringen den Präsidenten wie eine Mauer, unüberwindbarer als der Festungsgürtel des Kreml. Sie haben Wladimir Putin überzeugt, dass die meisten Inhaftierten gefährliche Verbrecher sind. Aber wer ist dieses Volk von Gefangenen, das fast eine Million zählt - die Hälfte der Gefängnisinsassen ganz Europas? Wer sind diejenigen, die der Präsident nach dem Willen der Nomenklatura nicht begnadigte? Ein paar Strafsachen aus der jüngsten Zeit, die zu besonders "schweren Verbrechen" zählen (die Namen habe ich geändert): Jekaterina Nossowa ist Mutter von drei Kindern. Sie hat eine Ziege gestohlen, der Schaden betrug umgerechnet 46 Mark. Sie wurde zu <TIMEX3 tid="t33" type="DURATION" value="P5Y">fünf Jahren</TIMEX3> Haft verurteilt, wovon sie <TIMEX3 tid="t34" type="DURATION" value="P3Y">drei Jahre</TIMEX3> und <TIMEX3 tid="t35" type="DURATION" value="P4M">vier Monate</TIMEX3> abgesessen hat.
+
+Natalja Morosowa hat ihren Ehemann und einen Sohn bei einem Autounfall verloren. Danach musste sie ihren vierjährigen behinderten Sohn allein versorgen. Für den Diebstahl einer Handtasche im Werte von 70 Mark hat sie <TIMEX3 tid="t37" type="DURATION" value="P5Y">fünf Jahre</TIMEX3> Haft bekommen. Davon liegen <TIMEX3 tid="t38" type="DURATION" value="P2Y">zwei Jahre</TIMEX3> und <TIMEX3 tid="t39" type="DURATION" value="P9M">neun Monate</TIMEX3> hinter ihr.
+
+Drogenbosse bleiben frei
+
+Sergej Petrow, Rentner und Invalide, leidet an Asthma und anderen Krankheiten. Er hat zwei Stromzähler gestohlen. Das Gericht verurteilte ihn zu <TIMEX3 tid="t40" type="DURATION" value="P5Y">fünf Jahren</TIMEX3> Haft. Abgebüßt hat er <TIMEX3 tid="t41" type="DURATION" value="P3Y">drei Jahre</TIMEX3> und <TIMEX3 tid="t42" type="DURATION" value="P2M">zwei Monate</TIMEX3>.
+
+Wiktor Schadrin hat ein minderjähriges Kind und seine behinderten Eltern zu versorgen. Als er bei jemandem zu Besuch war, ließ er ein Tablett im Wert von 38 Mark mitgehen. Verurteilt wurde er zu <TIMEX3 tid="t44" type="DURATION" value="P2Y">zwei Jahren</TIMEX3> und <TIMEX3 tid="t45" type="DURATION" value="P2M">zwei Monaten</TIMEX3>.
+
+Diese Liste lässt sich schier unendlich fortsetzen. Unter den nicht Begnadigten sind junge Leute, die in Afghanistan und Tschetschenien gekämpft hatten und sich im neuen Leben nicht zurechtfinden konnten
+
+es sind Soldaten, welche die Quälereien in der Armee nicht aushalten konnten und ihre Peiniger erschossen
+
+zu ihnen zählen Teenager, bei denen Krümel von Marihuana gefunden wurden, während kein einziger richtiger Drogenhändler erwischt wurde
+
+darunter sind auch ältere Frauen, die von ihren trinkenden Ehemännern misshandelt wurden. In einem der letzten Fälle vergewaltigte solch ein "Vater" seine minderjährige Tochter. Aus Verzweiflung oder um die Familie zu retten, erschlugen diese Frauen ihre Unterdrücker und wurden dafür zu hohen Strafen verurteilt.
+
+Die Begnadigungskommission stellt ihre Arbeit aller Voraussicht nach ein.
+
+Damit beginnt eine neue Phase des Abbruchs jener demokratischen Institutionen, die unter Boris Jelzin entstanden sind. Eine Atmosphäre herzloser Strenge macht sich in einer trägen Gesellschaft breit, die den Glauben an ihre Kräfte verloren hat. Man hat schon mit den unabhängigen Medien kurzen Prozess gemacht, nun mit der Kommission. Wer ist als Nächster dran?
+
+Was mich betrifft, so werde ich viel Zeit haben, um meine Familie zu sehen, zu schreiben, um die Gurken im Gemüsegarten zu gießen. Offen gesagt, gebe ich die schwere Verantwortung nicht ohne Erleichterung ab. Aber diese Frau mit ihren drei Kindern, die eine Ziege gestohlen hat und bis <TIMEX3 tid="t46" type="DATE" value="2001-08-23">heute</TIMEX3> auf das Erbarmen des Präsidenten wartet, lässt mir irgendwie keine Ruhe. Am liebsten würde ich ihr die Ziege kaufen, damit sie ihren Kinderchen endlich genug zu essen geben kann. Wir bitten um nichts, nur erbarmen Sie sich wenigstens dieser Frau, Herr Präsident!
+</TEXT>
+</TimeML>
+

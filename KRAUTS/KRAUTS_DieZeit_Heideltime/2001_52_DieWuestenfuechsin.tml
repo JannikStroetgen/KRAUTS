@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2001_52_DieWuestenfuechsin</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2001-12-19">2001-12-19</TIMEX3></DCT>
+<TEXT>
+Die Wüstenfüchsin
+
+Jutta Kleinschmidt hat die Rallye Paris-Dakar gewonnen und eine der letzten Männerdomänen erobert. <TIMEX3 tid="t1" type="DATE" value="2001-W52">Nächste Woche</TIMEX3> tritt sie wieder an
+
+Autor: Herold, Thea
+
+Wie ist es, wenn die Abendsonne das Sandmeer der Sahara rot leuchten lässt? Wenn der Wind, der über die Zelte des Biwaks fegte, sich endlich legt?
+
+Woran denkt sie nachts, wenn die Luft sich abkühlt, unter den Sternen der Wüste? Und warum werden ihr diese Fragen nie gestellt?
+
+Jutta Kleinschmidt, Rallye-Fahrerin von Weltrang, bekommt seit <TIMEX3 tid="t2" type="DURATION" value="P1Y">einem Jahr</TIMEX3> nur eine einzige Frage gestellt. Wie konnte sie, eine Frau, die berüchtigte Paris-Dakar gewinnen? Die härteste, längste Wüstenrallye der Welt. Favoriten wie Jean-Louis Schlesser aus Frankreich und Hiroshi Masuoka aus Japan standen neben ihr auf dem Podest. Gemeinsam mit ihren Kopiloten waren sie die Zweiten und Dritten. Aber ganz oben auf dem Treppchen standen Jutta Kleinschmidt und ihr Kopilot Andreas Schulz.
+
+Ein knappes Jahr und zehn Dutzend Interviews später, nach den festlichen Ehrungen als Motorsportlerin und als Sportlerin des Jahres, nach dem Händeschütteln und den Glückwünschen und den Schlagzeilen und dem Champagner, wartet sie beim Zwischenstopp in Frankfurt auf ihr letztes Flugzeug nach Nizza.
+
+»Fearless fraulein« in der Wüste
+
+Eine schlanke Frau, Ende 30, beim Italiener. Eine blonde Frau, die lange zwischen Nudeln und Lasagne schwankt, die nach dem Essen Cappuccino bestellen wird und auf den Nachtisch verzichtet wie jede andere auch. Eine außergewöhnliche Frau, mit ungewöhnlichen Augen. Hellwach, lebendig, lichtblau. Und ihre Ohren hören eine weitere Version ihrer Lieblingsfrage.
+
+»Immer wieder dasselbe ... FrauunterMännern. Also ehrlich - dass ich gerade diese Rallye wirklich gewinnen kann, haben am Anfang nicht mal wir selber geglaubt. Da fährst du ein <TIMEX3 tid="t3" type="DURATION" value="P3Y">drei Jahre</TIMEX3> altes Auto, einen Gebrauchtwagen sozusagen. Und du weißt, wenn alles gut läuft und wenn nur wenige Fehler passieren, schaffst du es unter die ersten fünf. An Sieg war nicht zu denken.
+
+Nicht mit diesem Auto.«
+
+Dabei hat sie natürlich an nichts anderes gedacht. Nur so zum Spaß fährt eine wie sie nicht Jahr um Jahr mit. Das mit dem »sensationellen fünften Platz« hatte sie schon <TIMEX3 tid="t4" type="DATE" value="1997">1997</TIMEX3> erlebt. Sie wusste auch längst, wie es ist, wenn sie plötzlich eine Rallye-Tagesetappe gewinnt. Dann steht das Wort »Hochachtung« in L'Equipe, und eine englische Motorzeitschrift bejubelt das »fearless fraulein«. Staunende Aufmerksamkeit der Medien begleitet sie über die ganzen <TIMEX3 tid="t5" type="DURATION" value="P10Y">zehn Jahre</TIMEX3>, in denen sie als Profifahrerin die Dakar mitfährt. Zuerst auf dem Motorrad, dann im Buggy von Jean-Louis Schlesser, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">jetzt</TIMEX3> in einem Pajero aus dem Hause Mitsubishi. Sie ist nun mal die erfolgreichste von den ganz wenigen Frauen im Offroad-Fahrerlager. Aber spätestens seit <TIMEX3 tid="t7" type="DATE" value="2001">diesem Jahr</TIMEX3> ist ihr nicht nur die Exotinnen-Rolle sicher. Blonde Frau im roten Renner. Sie hat sich Jahr um Jahr mehr in die Position der ernsthaften Favoritin gekämpft.
+
+Und <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">jetzt</TIMEX3>, nachdem sie die Schnellste war, ist Dakar nicht mehr der Marathon der Machos. Ob die Männer die neue Konstellation schon verkraften? Und wie wird der interne Zweikampf aussehen zwischen der deutschen Fahrerin und der französischen Rallye-Legende Jean-Louis Schlesser? Immerhin waren beide in <TIMEX3 tid="t10" type="DURATION" value="PXY">den neunziger Jahren</TIMEX3> einmal ein Paar.
+
+»Ich bin <TIMEX3 tid="t11" type="DATE" value="2001-12-19">heute</TIMEX3> einfach eine Konkurrentin, und er ist ein Konkurrent, den ich übrigens noch immer bewundere. Klar. Wir sehen uns zwar nur noch bei den Rennen. Dann grüße ich Jean-Louis. Und mittlerweile grüßt er auch wieder zurück. Erst einmal war es für ihn ein Schock, dass ich tatsächlich schneller war. Daran ließ sich nichts ändern. Es war bitterster Ernst. Es war für ihn ganz schwer, dass er das einsehen musste.«
+
+Die eloquente Fahrerin will aber zu dem Thema nicht mehr sagen. Erzählt lieber, dass für sie ein Rennen noch etwas Spielerisches hat. Ein Abenteuer, bei dem sie gern ab und an gewinnt. Natürlich weiß sie, wie fest die Klischees kleben: Jaja - Männer können besser Auto fahren. Klarklar - Männer gewinnen, Frauen fahren bestenfalls mit. Immerschonso - Männer kriegen die beste Technik, Frauen haben den Lack zu schonen.
+
+Hinter dem Lenkrad findet noch immer ein Geschlechterkampf statt, der den Männern bis ins Innerste dringt. Und selbst Motorsportenthusiasten wie Schlesser, der höchstselbst Jutta Kleinschmidt seinerzeit in sein Buggy-Team holte, ist nicht von den Macho-Ticks frei. Er liebte ihr Talent, aber nie ihren Ehrgeiz. Als sie in seinem Auto ihren ersten Etappensieg errang, spendierte er eine Runde fürs ganze Biwak. Aber als sie begann, kontinuierlich vorne mitzufahren und dabei auch nicht vor le patron Halt machte, maulte er: Sie möge doch bitte schonender fahren, die Achsen, die Felgen, die Reifen... Jutta Kleinschmidt nahm für einen Moment wirklich den Fuß vom Gas und passte auf »sein Auto« auf. Dann reichte es ihr. Seitdem kämpft sie in »ihrem« Pajero.
+
+Gekämpft hat sie immer. Dafür, dass sie in der Schule ihrer Technikbegabung nachgehen durfte. Dass sie zum Physikstudium kam. Das sie als Entwicklungingenieurin bei BMW respektiert wurde. Anfang 30 die Entscheidung ihres Lebens: Ich fahre Rennen. Seitdem läuft der Kampf gegen die Männer, gegen die Uhr, gegen die eigene Schwäche.
+
+»Das alles sieht natürlich niemand. Kämpfe finden hinter den Kulissen statt.
+
+Aber ich will zeigen, dass eine Frau auch in diesen technischen Extremdisziplinen gewinnen kann.«
+
+Zehntausend Kilometer Piste
+
+Gleich nach <TIMEX3 tid="t12" type="DATE" value="2001-12-24">Weihnachten</TIMEX3> geht es wieder an den Start. Über 14 Etappen rast dann die Dakar durch fünf Länder. Über Atlaspässe, über die Dünenfelder in der Sahelzone, an Felsplateaus vorbei, durch den großen Erg, durch Savannen und über endlose Steinpisten - alles in allem über zehntausend Kilometer.
+
+Die Regeln sind klar: Der Kopilot navigiert und folgt mit seinen Ansagen penibel dem Road-Book. Die Fahrerin hat mit allen fünf Sinnen die Strecke im Blick. Den sechsten Sinn braucht sie außerdem. Dies intuitive Gefühl für die Technik, die Route, das Gelände, die Dünen. Und noch auf eine besondere Regel haben sich Jutta Kleinschmidt und Andreas Schulz geeinigt. Diskutiert wird nicht beim Fahren. Gibt es Streit, klären sie das beim Biwak am <TIMEX3 tid="t14" type="TIME" value="2001-12-19TEV">Abend</TIMEX3>. Ganz in Ruhe. Unter den Sternen der Wüste.
+</TEXT>
+</TimeML>
+

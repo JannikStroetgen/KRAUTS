@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2084378_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2014-12-23</TIMEX3></DCT>
+<TEXT>
+Schlanders  (lie). Wer das Krankenhaus Schlanders zum Fressen gern hat, konnte dies am <TIMEX3 tid="t1" type="DATE" value="2014-W52-WE" functionInDocument="NONE">Wochenende</TIMEX3> tun. Im Rahmen der Goldenen-<TIMEX3 tid="t2" type="DATE" value="2014-12-21" anchorTimeID="t0" functionInDocument="NONE">Sonntag</TIMEX3>-Veranstaltungen in Schlanders hatten Spitalsmitarbeiter einen Stand eingerichtet, um die Forderung nach dem Erhalt der Einrichtung zu unterstreichen. Der Stand war sehr gut besucht, unter den aufliegenden Produkten gab es auch Blechkuchen (im Bild). 
+</TEXT>
+</TimeML>

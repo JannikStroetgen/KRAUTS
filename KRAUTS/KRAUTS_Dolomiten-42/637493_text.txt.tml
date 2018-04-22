@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>637493_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-09-23" temporalFunction="false" functionInDocument="CREATION_TIME">2013-09-23</TIMEX3></DCT>
+<TEXT>
+FELDTHURNS. <TIMEX3 tid="t2" type="DATE" value="2013-09-23" functionInDocument="NONE">Heute</TIMEX3> um <TIMEX3 tid="t3" type="TIME" value="2013-09-23T19.30" anchorTimeID="t2" functionInDocument="NONE">19.30 Uhr</TIMEX3> trifft sich der Gemeinderat Feldthurns. Er diskutiert unter anderem das Ausführungsprojekt zur Errichtung der Infrastrukturen in der Wohnbauzone C2 "Weiher II - Michael Gamper". © 
+</TEXT>
+</TimeML>

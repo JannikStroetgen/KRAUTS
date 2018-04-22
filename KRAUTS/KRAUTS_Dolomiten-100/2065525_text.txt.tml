@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2065525_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-12-16" temporalFunction="false" functionInDocument="CREATION_TIME">2014-12-16</TIMEX3></DCT>
+<TEXT>
+Carezza  (av). Nach dem Snowboard-Weltcup ist vor dem Ski-Europacup: Weil in Pozza di Fassa zu wenig Schnee liegt, wurden die zwei Europacup-Rennen der Herren vom <TIMEX3 tid="t2" type="DATE" value="2014-12-18" anchorTimeID="t0" functionInDocument="NONE">18.</TIMEX3> und <TIMEX3 tid="t3" type="DATE" value="2014-12-19" anchorTimeID="t0" functionInDocument="NONE">19. Dezember</TIMEX3> - Riesentorlauf und Slalom - kurzfristig ins zehn Kilometer entfernte Skigebiet von Carezza/Karerpass verlegt. Am <TIMEX3 tid="t4" type="DATE" value="2014-12-18" anchorTimeID="t0" functionInDocument="NONE">Donnerstag, 18. Dezember</TIMEX3> wird auf der Pra-di-Tori-Piste ein Riesentorlauf ausgetragen (<TIMEX3 tid="t5" type="TIME" value="2014-12-18T09:30" functionInDocument="NONE">9.30</TIMEX3>/<TIMEX3 tid="t6" type="TIME" value="2014-12-18T12:30" anchorTimeID="t4" functionInDocument="NONE">12.30 Uhr</TIMEX3>), am <TIMEX3 tid="t9" type="DATE" value="2014-12-12" anchorTimeID="t0" functionInDocument="NONE">Freitag</TIMEX3> kommt erstmals als Test-Event ein Sprint-Slalom in drei Durchgängen zur Austragung. Um <TIMEX3 tid="t8" type="TIME" value="2014-12-12T09:00" anchorTimeID="t9" functionInDocument="NONE">9 Uhr</TIMEX3> startet die Qualifikation, um <TIMEX3 tid="t10" type="TIME" value="2014-12-12T12:15" anchorTimeID="t9" functionInDocument="NONE">12.15</TIMEX3> bestreiten die 30 Schnellsten einen zweiten Lauf auf verkürzter Strecke, ehe anschließend die 15 Schnellsten auf dem gleichen Kurs den Tagessieger ermitteln. 
+</TEXT>
+<TIMEX3 tid="t7" type="DURATION" value="PT3H" temporalFunction="false" />
+</TimeML>

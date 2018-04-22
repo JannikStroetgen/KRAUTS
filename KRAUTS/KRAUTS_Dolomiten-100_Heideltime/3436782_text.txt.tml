@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>3436782_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-11-21" temporalFunction="false" functionInDocument="CREATION_TIME">2015-11-21</TIMEX3></DCT>
+<TEXT>
+Bozen . Verwundert darüber, dass nach langjährigen Ermittlungen die Haftbefehle der 7 mutmaßlichen Islamisten aus Südtirol von der Trienter Staatsanwaltschaft aufgehoben wurden, zeigt sich der Freiheitliche Sigmar Stocker. "Man muss sich angesichts der Haftentlassung der mutmaßlichen Islamisten schon die Frage stellen, ob die italienischen Geheimdienste und Sicherheitskräfte <TIMEX3 tid="t1" type="DURATION" value="P4Y">4 Jahre</TIMEX3> lang umsonst gearbeitet haben", schreibt er. Gegenüber islamistischem Gedankengut dürfe es, genauso wie gegenüber links- oder rechtsextremen Ideologien, keine Tolleranz geben, so Stocker. Er fordert die Politik auf, "schleunigst die Gesetze zu verschärfen". 
+</TEXT>
+</TimeML>
+

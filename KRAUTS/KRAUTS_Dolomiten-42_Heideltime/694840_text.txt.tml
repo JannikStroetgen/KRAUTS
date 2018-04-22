@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>694840_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-11-04" temporalFunction="false" functionInDocument="CREATION_TIME">2013-11-04</TIMEX3></DCT>
+<TEXT>
+BRIXEN (d). Zum fünften Mal hat der EV Stegen <TIMEX3 tid="t1" type="DATE" value="2013-11-03">gestern</TIMEX3> in der Brixner Eishalle den Eisstock Italienpokal im Damen-Mannschaftsspiel gewonnen. Die Pustererinnen haben nur ein einziges Spiel verloren. Zweiter wurde der EV Eppan-Berg. Die zwei Europacup-Tickets gehen an den EV Moritzing und ESC Luttach. Nachstehend die Wertung: Damen, Endstand: 1. Stegen (Katharina Kirchler, Maria Mair am Tinkhof, Marion Huber, Annelies Huber) 14 Punkte; 2. Eppan-Berg (Maria Romen, Amalia Meraner, Patrizia Meraner, Sophia Enderle, Eva Walcher); 12; 3. Moritzing (Sonja Mulser, Waltraud Mulser, Frieda Nocker, Margarete Albrecht) 8; 4. Luttach 6; 5. Pichl-Gsies 0. ©Alle Rechte vorbehalten 
+
+</TEXT>
+</TimeML>
+

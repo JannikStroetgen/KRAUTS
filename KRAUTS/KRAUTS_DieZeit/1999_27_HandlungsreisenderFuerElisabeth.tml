@@ -1,0 +1,64 @@
+<?xml version="1.0" ?><TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>1999_27_HandlungsreisenderFuerElisabeth</DOCID>
+
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1999-07-01">01.07.1999</TIMEX3></DCT>
+
+<TITLE>Handlungsreisender für Elisabeth</TITLE>
+
+
+
+<TEXT>
+REISE
+
+HANDLUNGSREISENDER FÜR ELISABETH
+
+Autor: Mayer, Susanne
+
+Er sei, flüsterte man am Hofe zu London, weit mehr als nur der Günstling der Königin. Ein junger Adliger aus Devon, erzogen in Oxford. In Frankreich hat er gelebt, <TIMEX3 tid="t1" type="DURATION" value="P6Y" temporalFunction="false">sechs Jahre lang</TIMEX3>, als Soldat. Auch ein Freund des großen Dichters Spenser, ein Freidenker, ein Atheist womöglich. Ein Schönling, der seinen Mantel zu Boden geschleudert haben soll, damit sie die Satinschühchen durch den Dreck der Straße bringen konnte, wobei ihr Herz entflammt sei.
+
+Er schrieb ihr Gedichte. "Now, what is Love, I pray thee, tell?" -"Was Liebe ist? <TIMEX3 tid="t2" type="SET" value="XXXX-12" temporalFunction="false">Dezember</TIMEX3>, mit ein bißchen <TIMEX3 tid="t3" type="SET" value="XXXX-05" temporalFunction="false">Mai</TIMEX3>. Sonnenlicht, und darin Regen.
+
+Zahnschmerzen, oder Leid. Ein Spiel, das niemand gewinnen kann."
+
+Und sie schrieb ihm: "Von Elisabeth, von Gottes Gnaden Königin Englands, Frankreichs und Irlands, Beschützerin des Glaubens, allen zum Gruße, in deren Hände jener Freibrief gelangen sollte. Möget folgendes zu Kenntnis nehmen: Gestützt auf Unser besonderes Wohlwollen... verleihen und gewähren Wir Unserem vertrauenswürdigen und hochgeschätzten Diener Walter Ralegh, Esquire, sowie seinen Erben und Treuhändern die Freiheit und das Recht, von nun an für alle Zeiten diejenigen fernen heidnischen und barbarischen Gebiete und Territorien zu entdecken, aufzusuchen, zu finden und zu besichtigen, die gegenwärtig nicht im Besitze eines christlichen Herrschers sind und auch nicht von Christen bewohnt werden..."
+
+Erobern! Er stach in See am <TIMEX3 tid="t4" type="DATE" value="1595-02-06" temporalFunction="false">6. Februar 1595</TIMEX3>. Von Plymouth nach Fuerteventura.
+
+Dort <TIMEX3 tid="t5" type="DURATION" value="P2D" temporalFunction="false">zwei Sonnentage</TIMEX3> Pause. An der Küste von Gran Canaria entlang nach Teneriffa, weiter nach Trinidad. Und nach Süden. In unbekanntes Land.
+
+Wer Raleighs Bericht über The Discoverie of the Large, Rich and Bewtivl Empire of Gviana zur Hand nimmt, auf Deutsch Gold aus Guyana, blättert nicht in einem persönlichen Tagebuch, auch wenn das Buch auf vielfältige Weise über einen Menschen Auskunft gibt, der von britischen Geschichtsschreibern als der erste Moderne genannt wird - ein ehrgeiziger Mensch, ohne Demut vor der Macht, grenzenlos neugierig, ja ruchlos, gleichzeitig gefühlvoll, wenn nicht sentimental. Aber das Buch ist auch ein Rechenschaftsbericht, ein Geschäftsprotokoll, durchaus gedacht als Werbebroschüre für mögliche Investoren in der Neuen Welt. Für die Königin zum Beispiel.
+
+Denn Expeditionen waren nicht billig. Raleigh selber hatte bittere Erfahrungen gesammelt, als seine erste Kolonie in Roanoke, Virginia, einfach ausradiert wurde, zerstört vom Zwist der Siedler und vom Hass der Indianer.
+
+Die Krone brauchte auch alle Ressourcen, um den Erzfeind Spanien von den eigenen Küsten fern zu halten. Andererseits: Konnte der Feind nicht auch dort getroffen werden, wo er (ähnlich wie man selber, leider) sich aus der Deckung hinausgewagt hatte, fern der Heimat auf unsicherem Terrain umherirrte, bedroht war von unergründlichen Wilden, von heimtückischen Krankheiten und der eigenen Gier? Anders gefragt: Wollte man Spanien die Welt überlassen?
+
+Raleigh geizt nicht mit Schilderungen, wie er, Schwächen der Spanier geschickt ausnutzend - wozu auch ihre Grausamkeit zählt -, die Indianer mit Hilfsangeboten für die eigene Sache ködern kann. So dringt er vor in Gebiete, an deren Grenzen die Widersacher gescheitert sind.
+
+Die Engländer wagen sich vom Schiff und irren <TIMEX3 tid="t6" type="DURATION" value="PXD" temporalFunction="false">tagelang</TIMEX3> in Nussschalen durch das labyrinthische Flussdelta. Auf dem Weg ins Nichts. Oder immer im Kreise herum. Oder doch in jenes sagenhafte Land, wo Gold und Silber locken?
+
+"Auf beiden Seiten des Flusses kamen wir an einer der schönsten Landschaften vorbei, die meine Augen je erblickt haben... Das Gras war kurz und grün, und hier und dort standen einzelne Baumgruppen, als seien sie mit aller erdenklichen Kunst und Mühe dort aufgestellt worden. Und während wir ruderten, kam das Wild zum Grasen ans Ufer herunter..." (Man hört schon den britischen Landschaftsgärtner).
+
+Die Burschen aber motzen. Sie fürchten sich. Sie wollen wissen, wo sie sind.
+
+Während Sir Walter unverdrossen schwierigste Namen notiert im Stile von "ließen sie die Städte Emparepana und Capurepana rechts liegen und marschierten das besagte Tal von Amariocapana entlang", haben sie Angst. Wo sind Menschen, denen die Augen auf den Schultern sitzen und der Mund auf der Brust? Von Amazonen haben sie gehört, die ihre Gefangenen nackt an den Füßen aufhängen, als Zielscheibe. Tatsächlich treffen sie, im Flusse treibend, Leute, mit denen eine Flasche spanischen Weins verköstigt wird. Es gibt süße Früchte. Und einmal an Land, bietet sich der erfreulichste Anblick: "Sie war hochgewachsen, hatte schwarze Augen, eine volle Figur, ein sehr schönes Gesicht, und ihr Haar reichte fast bis zum Boden, war aber in hübschen Knoten aufgebunden." So schreibt Raleigh, der Kenner.
+
+Er kehrt nach England zurück, voller Hoffnung. Aber da hat er schon nicht mehr das Ohr der Königin. Raleighs Augen waren zu viel gewandert. Seine Neider triumphieren. Er wird verspottet. Die Schönheit Guyanas, zischelt man - ein eitles Hirngespinst!
+
+Das Ende ist schrecklich. <TIMEX3 tid="t7" type="DURATION" value="P13Y" temporalFunction="false">Dreizehn Jahre</TIMEX3> im Tower. Im Hof züchtet er Tabak aus Guyana. Am <TIMEX3 tid="t8" type="DATE" value="1618-10-29" temporalFunction="false">29. Oktober 1618</TIMEX3> wird Raleigh geköpft. Aber der Tod war ihm kein fremdes Thema. Er schrieb:
+
+"Wenn das Blatt unseres Lebens gefallen ist, kommt kein Frühling mehr. Weder die Sonne noch der <TIMEX3 tid="t9" type="DATE" value="XXXX-SU" temporalFunction="false">Sommer</TIMEX3> schmücken uns je wieder mit neuem Grün."
+
+* Sir Walter Raleigh:
+
+Gold aus Guyana
+
+Die Suche nach El Dorado <TIMEX3 tid="t10" type="DATE" value="1595" temporalFunction="false">1595</TIMEX3>
+
+aus dem Englischen übertragen und herausgegegen von Egon Larsen
+
+Edition Erdmann in K. Thienemanns Verlag, Stuttgart <TIMEX3 tid="t11" type="DATE" value="1988" temporalFunction="false">1988</TIMEX3>
+
+vergriffen
+</TEXT>
+</TimeML>

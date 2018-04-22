@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2289960_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-03-19" temporalFunction="false" functionInDocument="CREATION_TIME">2015-03-19</TIMEX3></DCT>
+<TEXT>
+Tunis  (APA/dpa/afp/Reuters). Die USA haben den Anschlag in Tunis mit scharfen Worten verurteilt. US-Außenminister John Kerry sprach gestern in einer Erklärung von einer "tödlichen Terrorattacke" und "schamloser Gewalt". Die Vereinigten Staaten "stehen in dieser schwierigen Zeit an der Seite der tunesischen Bevölkerung". Auch UN-Generalsekretär Ban Ki-moon hat den Terroranschlag scharf verurteilt. Die Attacke sei "beklagenswert", sagte Ban. Den Angehörigen der Opfer sprach der UN-Chef sein Beileid aus. EU-Ratspräsident Donald Tusk betonte, er sei schockiert über die Angriffe. Die EU und Tunesien ließen sich jedoch "nicht vom Terrorismus einschüchtern. Wir sind bereit, die tunesische Regierung in ihren Maßnahmen gegen gewalttätigen Extremismus zu unterstützen", unterstrich Tusk.  
+</TEXT>
+</TimeML>

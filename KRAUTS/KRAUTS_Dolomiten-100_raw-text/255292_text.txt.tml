@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>255292_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-01-10" temporalFunction="false" functionInDocument="CREATION_TIME">2013-01-10</TIMEX3></DCT>
+<TEXT>
+Bozen  (pir). Die Urbanistikkommission hat sich gestern unter anderem auch mit dem Projekt für die Zughaltestelle in der Kaiserau befasst. Dabei wurde eine Projektabänderung genehmigt. "Damit kann die Landesverwaltung jetzt mit der Ausschreibung der Arbeiten beginnen", kündigt Urbanistikstadträtin Maria Chiara Pasquali an. Sie geht davon aus, dass die Bauarbeiten bereits im Frühjahr beginnen können. Die neue Zughaltestelle auf der Bahnlinie Meran-Bozen soll vor allem auch als innerstädtische Verbindungsmöglichkeit von der Kaiserau ins Stadtzentrum genutzt werden und wird von den Bewohnern des Viertels schon lange ersehnt.
+</TEXT>
+</TimeML>

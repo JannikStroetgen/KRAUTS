@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1969960_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-11-18" temporalFunction="false" functionInDocument="CREATION_TIME">2014-11-18</TIMEX3></DCT>
+<TEXT>
+Neapel  (APA/dpa).  Die italienische Polizei hat <TIMEX3 tid="t2" type="DATE" value="2014-11-17" anchorTimeID="t0" functionInDocument="NONE">gestern</TIMEX3>  vor einer Filiale der Deutschen Bank in Neapel eine Bombe entschärft.  Der Sprengkörper, der rund ein Kilogramm Sprengstoff enthielt, war   gezündet worden, explodierte aber nicht.   Die Büros der Filiale wurden geräumt. Das Gelände rund um die Bank wurde abgeriegelt.  Mit einem Wasserwerfer sei es den Sicherheitskräften gelungen, die Bombe zu entschärfen. Die Sicherheitskräfte waren durch einen anonymen Telefonanruf alarmiert worden. Die Hintergründe des Vorfalls im Stadtteil Vomero waren zunächst unklar.  Ermittlungen sind im Gange, um zu klären, wer die Bombe hergestellt haben könnte.  
+</TEXT>
+</TimeML>

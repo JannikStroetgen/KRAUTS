@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>225465_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2012-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">2012-10-30</TIMEX3></DCT>
+<TEXT>
+Bozen  (LPA). Das Land hat zwei Rangordnungen zur Auszahlung des Wohngeldes eingeführt: eine für EU- und eine für Nicht-EU-Bürger. Zwei Nicht-EU-Bürger konnten bei der Zuweisung der Mittel nicht mehr berücksichtigt werden, weil die Mittel nicht ausreichten. Dagegen haben sie Rekurs eingelegt. Das Gericht hat das Land nun zur Zahlung des Wohngeldes verurteilt. Dagegen werde man  rekurrieren, kündigte Landeshauptmann Luis Durnwalder an, weil man einen Präzedenzfall vermeiden wolle. "Wenn wir sowieso zahlen müssen, dann brauchen wir keine Ranglisten mehr."
+</TEXT>
+</TimeML>

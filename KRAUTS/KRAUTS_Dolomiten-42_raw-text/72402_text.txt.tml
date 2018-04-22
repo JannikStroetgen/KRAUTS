@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>72402_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2011-03-18" temporalFunction="false" functionInDocument="CREATION_TIME">2011-03-18</TIMEX3></DCT>
+<TEXT>
+BOZEN (lu). Christian Tommasini, italienischer Landeshauptmann- Stellvertreter, war gestern morgen um 8.30 Uhr gemeinsam mit Bozens Bürgermeister Luigi Spagnolli am Bozner Rathausplatz zugegen, als die Trikolore feierlich gehisst wurde. Beide traten dann am Nachmittag die Reise nach Rom an, um an den offiziellen Feierlichkeiten teilnehmen zu können. „Es ist wichtig, in Rom dabei zu sein. Ich fahre nach Rom, um unser Land zu vertreten. Heute (gestern, A.d.R.) ist ein Tag zum Feiern und die Polemiken müssen der Vergangenheit angehören“, sagte Christian Tommasini vor seiner Abreise nach Rom.
+</TEXT>
+</TimeML>

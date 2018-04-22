@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>231498_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2012-11-14" temporalFunction="false" functionInDocument="CREATION_TIME">2012-11-14</TIMEX3></DCT>
+<TEXT>
+Bozen  (pir). <TIMEX3 tid="t2" type="DATE" value="XXXX-XX-XX" functionInDocument="NONE">Die Adventszeit</TIMEX3> naht: In Bozen wird nicht nur bereits die Weihnachtsbeleuchtung angebracht, <TIMEX3 tid="t3" type="DATE" value="2012-11-13" anchorTimeID="t0" functionInDocument="NONE">gestern</TIMEX3> wurde auch  der Weihnachtsbaum auf dem Waltherplatz aufgestellt. Der Christkindlmarkt beginnt am <TIMEX3 tid="t4" type="DATE" value="2012-11-29" anchorTimeID="t0" functionInDocument="NONE">29. November</TIMEX3>.
+</TEXT>
+</TimeML>

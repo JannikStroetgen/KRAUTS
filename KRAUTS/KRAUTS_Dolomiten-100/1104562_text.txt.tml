@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1104562_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-03-25" temporalFunction="false" functionInDocument="CREATION_TIME">2014-03-25</TIMEX3></DCT>
+<TEXT>
+Canazei  (cb). Sehr zufrieden zeigte sich Ski-Koordinator Roland Brenner mit dem Abschneiden der Südtiroler am <TIMEX3 tid="t2" type="DATE" value="XXXX-XX-XX" functionInDocument="NONE">ersten Tag</TIMEX3> der U16- und U14-Italienmeisterschaft in Cana-zei. Im U14-Riesentorlauf  gab es zwei Medaillen, dazu einen vierten Platz. Bei den Mädchen musste sich die aus Rom kommende und für den SC Fana Brixen startende Elena Sandulli nur Ilaria Ghisalberti (Bergamo)  und der Friulanerin Andrea Caraievich geschlagen geben. Elisa Schranzhofer verpasste als Vierte um 42/100 die Bronzemedaille. Im Bubenrennen glänzte der Sextner Moritz Happacher mit Platz zwei. Riesentorlauf U14, Mädchen : 1. Ilaria Ghisalberti 1.01,79; 2. Andrea Craievich 1.02,87; 3. Elena Sandulli (Fana) 1.03,17; 4. Elisa Schranzhofer (Olang) 1.03,59; ... 8. Celina Haller (SC Meran) 1.04,72; 18. Elisa Zardini (St. Lorenzen) 1.05,89; 25. Nina Bachmann (Vinschgau) 1.06,38.  Buben : 1. Francesco Colombi 1.00,65; 2. Moritz Happacher (Drei Zinnen) 1.01,71; 3. Francesco Pezzutti 1.02,14; ... 6. Manuel Ploner (Ladinia) 1.02,31; 19. Aron Lunger (Welschnofen) 1.03,68. 
+
+</TEXT>
+</TimeML>

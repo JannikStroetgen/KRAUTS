@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1434741_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-07-25" temporalFunction="false" functionInDocument="CREATION_TIME">2014-07-25</TIMEX3></DCT>
+<TEXT>
+Sulden.  Bei einem gemütlichen Beisammensein in der Stube des Hotels Eller  in Sulden überreichte Gastgeber Heinrich Gapp dem Ehepaar Josephus und Rosa Marien die Goldmedaille mit Zirkon als Zeichen des Dankes für <TIMEX3 tid="t2" type="DURATION" value="P50Y" endPoint="t0" functionInDocument="NONE">50 Jahre</TIMEX3> Treue zum Hotel Eller. Eine Goldmedaille mit dem dazugehörigen Diplom erhielten auch dessen Kinder  Christiane, Edwina, Miranda und Ronny Marien, die seit  <TIMEX3 tid="t3" type="DURATION" value="P30Y" endPoint="t0" functionInDocument="NONE">30 Jahren</TIMEX3> ebenfalls im Hotel Eller ihren Urlaub verbringen. Inzwischen ist Sulden auch  für deren Familien  wie ein zweites Zuhause. Die Damen wurden zudem mit einer Südtirol-Orchidee überrascht und die Herren freuten sich über eine Magnumflasche Lagrein und das Sulden-Buch von Theodor Christomannos vom <TIMEX3 tid="t4" type="DATE" value="1895" functionInDocument="NONE">Jahr 1895</TIMEX3>.  
+
+</TEXT>
+</TimeML>

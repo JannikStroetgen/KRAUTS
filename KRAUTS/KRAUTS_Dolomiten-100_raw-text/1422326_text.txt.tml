@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1422326_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-07-19" temporalFunction="false" functionInDocument="CREATION_TIME">2014-07-19</TIMEX3></DCT>
+<TEXT>
+ROM (APA). Die italienische Notenbank hat ihre Wachstumsprognose für Italien nach unten revidiert. Das Bruttoinlandsprodukt (BIP) werde 2014 statt der bisher erhofften 0,7 Prozent nur um 0,2 Prozent zulegen, heißt es in dem gestern veröffentlichten Quartalsbericht. 2015 sollte das BIP um 1,3 Prozent steigen. Die Aussichten für einen Wirtschaftsaufschwung würden von  internationalen Spannungen belastet. Wegen der schwierigen Wirtschaftslage bleibt die Inflation in Italien niedrig. Diese dürfte im Gesamtjahr 2014 lediglich 0,4 Prozent betragen, geht aus den Bankitalia-Prognosen hervor. Erst in der zweiten Jahreshälfte werde die italienische Wirtschaft die positive Auswirkung der Steuerentlastungen für Geringverdiener zu spüren bekommen, die die Regierung Renzi im Mai eingeführt habe. Der italienische Industriellenverband Confindustria hatte bereits im Juni seine Wachstumsprognosen für 2014 und 2015 nach unten revidiert. Im laufenden Jahr rechnet Confindustria ebenso wie die Notenbank mit einem Wachstum des Bruttoinlandprodukts  von lediglich 0,2 Prozent. Im Dezember hatten die Confindustria-Experten noch ein Plus von 0,7 Prozent vorausgesagt. 
+
+</TEXT>
+</TimeML>

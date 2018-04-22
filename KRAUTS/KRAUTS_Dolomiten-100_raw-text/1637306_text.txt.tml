@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1637306_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-10-08" temporalFunction="false" functionInDocument="CREATION_TIME">2014-10-08</TIMEX3></DCT>
+<TEXT>
+Meran  (lub). Einheiten zur Verbrechensvorbeugung, die alle Ordnungskräfte einbeziehen, sollen in Meran gebildet werden: Dies ist eines der Ergebnisse des ersten Treffens von örtlichen Spitzenvertretern  der Staatspolizei, der Carabinieri, der Stadtpolizei und der Finanzwache, das am Montag im Polizeikommissariat am Kornplatz stattgefunden hat. Zudem wurde eine  Bilanz der jüngsten außerordentlichen Kontrollaktionen  gezogen (die "Dolomiten" berichteten). Ein derartiger runder Tisch der Meraner Ordnungskräfte  soll ab sofort jeden Montag stattfinden. 
+</TEXT>
+</TimeML>

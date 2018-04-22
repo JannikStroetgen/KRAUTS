@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2000_32_EinChirurgDerAußenpolitik</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2000-08-03">2000-08-03</TIMEX3></DCT>
+<TEXT>
+EIN CHIRURG DER AUßENPOLITIK
+
+Autor: Hénard, Jacqueline
+
+Der französische Außenminister Hubert Védrine ist so, wie die Deutschen sich einen französischen Spitzenpolitiker vorstellen: exzellent ausgebildet, kultiviert und kontrolliert, in seiner Wortwahl und im Denken präzise bis zur Fantasielosigkeit. Ein Aktenverzehrer mit Niveau. Védrine ist ein Sozialist von hohen Gnaden - <TIMEX3 tid="t2" type="DURATION" value="P14Y">14 Jahre</TIMEX3> lang hat er unter François Mitterrand im Elysée gearbeitet. Parteitage und Wahlkampfreden hingegen sind ihm fremdes Terrain, ganz anders als seinem deutschen Amtskollegen Joschka Fischer.
+
+Im <TIMEX3 tid="t3" type="DATE" value="1998-11">November 1998</TIMEX3> hat Védrine zusammen mit Fischer eine deutsch-französische Arbeitsgruppe ins Leben gerufen, die über die "Finalität Europas" nachdenken sollte. Die Gruppe hat gearbeitet. Die Minister haben sich oft getroffen.
+
+Fischer hat im <TIMEX3 tid="t6" type="DATE" value="2000-05">Mai</TIMEX3> mit einer aufsehenerregenden Rede "als Privatmann" öffentlich seine europapolitischen Schlüsse aus dem gemeinsamen Brainstorming gezogen - und Védrine hat zur gleichen Zeit ein Buch über Frankreich, Europa und die Welt veröffentlicht.
+
+Das Buch ist die stark konzentrierte Fassung von mehreren Gesprächen, die Védrine mit dem Pariser Politikberater Dominique Moïsi geführt hat. Am Anfang stehen die Grundzüge seines Weltbilds: Amerika als "Hypermacht" - eine einsame Supermacht mit kulturbestimmender Kraft. Daneben sieben "Mächte mit Welteinfluß" wie Frankreich und eine Reihe "einfacher Mächte" wie Australien, Spanien oder Iran. Schließlich der ganze Rest von mittellosen, Pseudo- und Mikrostaaten. Der französische Außenminister lebt in einer ordentlichen, klar hierarchisierten Gedankenwelt.
+
+Védrines Haltung zu den Wirren der Weltpolitik, zu Kriegen und Konflikten ist die eines Fachmanns. Sein Verhältnis zur Geschichte ist so nüchtern und überlegen wie das eines Chirurgen zum Operationstisch. Außenpolitik ist für Védrine eine Summe von Fällen. Wo es keine Lösung gibt, ist ein Kompromiss zu finden. Sachkenntnis und leidenschaftslose Analyse sind seine Stärke.
+
+Wo ein Mann wie Fischer Gestaltungswillen erkennen lässt, sucht der Technokrat Védrine systematisch nach Effizienz. Immer wieder kommt er darauf zu sprechen, dass Abläufe und Entscheidungen "effizient" sein müssten. Mit neumodischen Zeiterscheinungen wie der "internationalen Zivilgesellschaft" kann er nicht umgehen. Er lässt sich von dem Begriff nicht blenden, versteht aber auch nicht, welche Substanz möglicherweise dahinter steht. Das hat ihm bei einem Teil der französischen Linken den Ruf eingetragen, zynisch zu sein.
+
+Wer in Védrines Worten nach einer Vision für die EU sucht, wird enttäuscht.
+
+Die Frage nach der Kompliziertheit und dem geringen Gefühlswert Europas wischt er knapp beiseite: So sei es eben. Dann schweift er ins Technische ab.
+
+Das ist nicht nur Rücksicht auf die innenpolitischen Umstände oder auf den Zeitpunkt, die französische Ratspräsidentschaft - so ist Hubert Védrine.
+
+Hubert Védrine im Gespräch mit Dominique Moïsi: Les cartes de la France à l'heure de la mondialisation
+
+Fayard, Paris <TIMEX3 tid="t7" type="DATE" value="2000">2000</TIMEX3>
+
+190 S., 95.-Franc
+</TEXT>
+</TimeML>
+

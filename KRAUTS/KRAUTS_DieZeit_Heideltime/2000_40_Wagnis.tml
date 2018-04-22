@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2000_40_Wagnis</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2000-09-28">2000-09-28</TIMEX3></DCT>
+<TEXT>
+Wagnis
+
+Autor: tf
+
+Beim Kauf des Londoner Wasserwerks Thames Water durch den deutschen Energieriesen RWE ist zwar ein neuer Superlativ entstanden - die "drittgrößte Wasserfirma der Welt" - aber kühle Branchenbeobachter in London finden das gar nicht besonders interessant. Sie wollen von RWE-Chef Dietmar Kuhnt nun wissen, wie er mit seinem Neuerwerb künftig Geld erwirtschaften will.
+
+Die Deutschen haben nämlich mit rund 11 Milliarden Euro ungewöhnlich viel Geld bezahlt, nach einigen Schätzungen etwa 40 Prozent mehr als der durchschnittliche Aktienpreis von Thames Water. Und schnelle Kosteneinsparungen durch Büroschließungen und Entlassungen bieten sich nicht an, weil es zwischen den beiden Unternehmen keine Geschäftsüberlappungen gibt.
+
+Am britischen Wassermarkt selber ist <TIMEX3 tid="t3" type="DURATION" value="P1DE">ein Jahrzehnt</TIMEX3> nach der Privatisierung die Zeit der gewaltigen Profite vorbei. Bis zur Mitte der neuziger Jahre waren Wasseraktien quasi eine Lizenz zum Gelddrucken, doch unter Tony Blair wurden die Auflagen verschärft, es gab eine Sondersteuer, die staatliche Marktaufsicht verordnete erst im <TIMEX3 tid="t4" type="DATE" value="2000-04">April</TIMEX3> noch eine deutliche Senkung der Wassergebühren. Zugleich stehen gewaltige Investitionen an, weil die Leitungsnetze veraltet sind und enorm viel Wasser einfach versickert.
+
+John Napier, Chef der britischen Wassergruppe Kelda, dachte im <TIMEX3 tid="t5" type="DATE" value="2000-SU">Sommer</TIMEX3> schon öffentlich über eine teilweise Vergenossenschaftung seines Unternehmens nach - was ihm die Aufsichtsbehörden freilich untersagten. Von staatlicher Unterstützung für das Wassernetz will die britische Regierung nichts wissen.
+
+Premierminister John Prescott bemerkte stattdessen, dass "erstmal die Dividenden gekürzt" werden könnten.
+
+Auf der Insel geht der Trend längst schon zu so genannten Multi-Utilities, die Gas, Strom, Wasser und manchmal sogar Telefondienste aus einer Hand anbieten. In Großbritannien gehen deshalb viele davon aus, dass RWE die britische Thames Water als Basis nutzt, um zum Beispiel auch größer in den Strommarkt zu expandieren. Zugleich könnte Thames Water ein gutes Sprungbrett in die restliche Welt sein, denn vor allem in Entwicklungsländern verspricht das Geschäft mit dem Wasser noch glänzende Profite. Thames ist bereits in Asien und den Vereinigten Staaten gut vertreten. Einige Expansionspläne waren aber in der vergangenen Zeit am knappen Geld gescheitert.
+</TEXT>
+</TimeML>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>44801_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2010-06-11" temporalFunction="false" functionInDocument="CREATION_TIME">2010-06-11</TIMEX3></DCT>
+<TEXT>
+Dass die Beschäftigungszahl und gleichzeitig die Arbeitslosenrate steige, sei in einer Volkswirtschaft nichts Außergewöhnliches, sagt Helmuth Sinn. Jene Arbeitnehmer etwa, die zum ersten Mal in das Erwerbsleben einsteigen, oder jene, die dort länger bleiben, würden zum Anstieg der Beschäftigungszahlen beitragen. Andererseits könnten Nicht- EU-Bürger nicht laufend in verschiedenen Sektoren eingesetztwerden. „Diese tragen dann unter anderem dazu bei, dass die Arbeitslosigkeit steigt".
+
+</TEXT>
+</TimeML>
+

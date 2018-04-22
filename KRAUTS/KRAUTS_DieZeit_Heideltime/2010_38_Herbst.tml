@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2010_38_Herbst</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2010-09-16">2010-09-16</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2010-FA">Herbst</TIMEX3>
+
+DIE ZEIT DER LESER: HAIKU
+
+Kleine Spinne am
+
+Altweibersommerfaden:
+
+Wär ich leicht wie du!
+
+Renate Ohmen, Düsseldorf »Japan. Gedichtform aus drei Versen zu 5 - 7 - 5 Silben. Vom Spielerischen ausgehend, findet das H. zu metaphys. Tiefe«, heißt es im Brockhaus. ZEIT-Leser beweisen, dass Haikus auch auf Deutsch funktionieren - und auch einmal ganz aktuell sein können.
+</TEXT>
+</TimeML>
+

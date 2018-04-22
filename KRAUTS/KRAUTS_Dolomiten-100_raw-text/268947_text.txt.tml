@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>268947_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-02-01" temporalFunction="false" functionInDocument="CREATION_TIME">2013-02-01</TIMEX3></DCT>
+<TEXT>
+Kilometer umfasst das Trink- und Abwassernetz, das der Umweltbetrieb SEAB betreut. 
+</TEXT>
+</TimeML>

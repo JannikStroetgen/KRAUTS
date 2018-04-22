@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2188777_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-02-09" temporalFunction="false" functionInDocument="CREATION_TIME">2015-02-09</TIMEX3></DCT>
+<TEXT>
+Arosa  (os). Nach Rang elf am <TIMEX3 tid="t1" type="DATE" value="2015-02-06">Freitag</TIMEX3>  im Ersatzrennen für Innichen konnte Debora Pixner auch beim zweiten Skicross-Weltcuprennen in Arosa überzeugen. Diesmal schaute für die Passeirerin in der Schweiz der zwölfte Platz heraus. Im zweiten Rennen konnten  sich auch Sabine Wolfsgruber und Stefan Thanei  für die K.o.Runde qualifizieren. Wolfgruber scheiterte wie Pixner im Viertelfinale und wurde als 14. klassiert.  Bei den Herren wurde Stefan Thanei in seinem  Achtelfinale  Dritter, was ihm den 20. Platz einbrachte.  Marco Tomasi hatte  als 36. die Qualifikation knapp verpasst.  Den Sieg in Arosa sicherte sich wie schon am Tag zuvor Victor Öhlling Norberg aus Schweden, auch bei den  Damen wiederholte Fanny Smith (Schweiz) ihren Sieg vom Vortag.   
+</TEXT>
+</TimeML>
+

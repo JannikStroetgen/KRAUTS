@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>78776_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2011-04-30" temporalFunction="false" functionInDocument="CREATION_TIME">2011-04-30</TIMEX3></DCT>
+<TEXT>
+BOZEN. Am heutigen Samstag beginnt um 11 Uhr der Blumenmarkt auf dem Waltherplatz. Anlässlich der Seligsprechung von Papst Johannes Paul II., die am 1. Mai stattfindet, ist auf dem Waltherplatz eine Skulptur des Papstes zu sehen (im Bild), die bereits gestern aufgestellt wurde. Gefertigt wurde diese von einem Künstler der Gröder Holzschnitzergruppe Unika. Als Blume des Jahres ist – neben den vielen anderen Pflanzen aller Sorten und Farben – die farbenfrohe Petunienzüchtung Harlekin zu sehen. Skulptur für Papst Wojtyla Gleichzeitig wird in vielen Restaurants der Stadt spezielles Menü auf Blütenbasis geboten. Im Palais Campofranco findet hingegen wieder der Feinschmeckermarkt statt. Anlässlich der Eröffnung des Marktes regt Roland Lang von der „Süd-Tiroler Freiheit“in einer Aussendung jedoch auch an, im nächsten Jahr eine Partnerschaftmit einer nördlichen Stadt zu wählen. Es sei „kleinkariert und nationalistisch“, wenn immer nur südliche und italienische Städte als Partner zum Blumenmarkt eingeladen würden. Blumen gebe es nicht nur in Italien, sondern in der ganzen Welt
+
+</TEXT>
+</TimeML>

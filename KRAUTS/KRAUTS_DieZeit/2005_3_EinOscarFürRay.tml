@@ -1,0 +1,18 @@
+<?xml version="1.0" ?><TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>2005_3_EinOscarFürRay</DOCID>
+
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2005-01-13">13.01.2005</TIMEX3></DCT>
+
+<TITLE>Ein Oscar für Ray</TITLE>
+
+
+
+<TEXT>
+Ein Oscar für Ray
+
+Autor: Heidkamp, Konrad
+
+Manche Dinge sind zu nah, um sie sehen zu können. Wenn Ray Charles den Kopf nach hinten wirft und I Got A Woman jubiliert, wenn seine Hände wie Zitteraale seine Songs begleiten, sind die Konzertaufnahmen zu präsent, um die Musik schon jetzt - <TIMEX3 tid="t1" type="DURATION" value="P0.5Y" temporalFunction="false">ein halbes Jahr</TIMEX3> nach seinem Tod - als Fiktion nehmen zu können. Doch wenn er ins Leere lacht und die Sonnenbrille ihn mehr verbirgt, als sich die Welt vor ihm verstecken kann, dann wird Taylor Hackfords Film Ray zum großen Ereignis. Als der siebenjährige Ray Charles Robinson fast am grünen Star erblindet ist, stolpert er im Haus, fällt auf den Holzboden, weint und schreit nach seiner Mutter. Die steht am Herd, stumm, ihr laufen die Tränen übers Gesicht, und sie rührt sich keinen Zentimeter. Sie weiß, dass er lernen muss, allein aufzustehen und sich zurechtzufinden. Und da fängt er an zu hören. Durch das eine Fenster die Kinder, durch das andere ein Fuhrwerk, leere Flaschen in den Ästen des Baumes und dann einen Käfer, der auf dem Fußboden krabbelt. Hören wird zum Sehen. Er steht auf und weiß, wo seine Mutter regungslos steht. Tränen. Allein macht sich der 16-Jährige auf den Weg von Georgia nach Seattle, trägt Schuhe mit harten Sohlen, um anhand des Echos an den Hauswänden offene Türen und Nebenstraßen hörend zu sehen. Oder er umfasst die Handgelenke der Frauen, streicht ihnen den Arm hoch, um ihr Aussehen zu ahnen, sie im biblischen Sinne des Soul zu erkennen. Diese Momente machen den Film groß: wenn sichtbar wird, dass er nichts sieht, wenn ein blinder Schwarzer beginnt, die Musikwelt zu verändern, den Rhythm 'n' Blues mit dem Jazz und dem Gospel zu vereinen, den Teufel mit dem lieben Gott. Doch das steht auch in den Büchern und ist auf Platten zu hören. Jamie Foxx ist perfekt als Ray, das war zu hoffen. Aber ein Farbfilm über die Dunkelheit, ein Musikfilm über das Hören, Tränen, da Kitsch und Leben eins werden, das war nicht zu erwarten.
+</TEXT>
+</TimeML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?><TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>2003_42_60SekunudenFuer35Stunden</DOCID>
+
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2003-10-09">09.10.2003</TIMEX3></DCT>
+
+<TITLE>60 Sekunden für 35 Stunden</TITLE>
+
+
+
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="PT60S" temporalFunction="false">60 Sekunden</TIMEX3> für <TIMEX3 tid="t2" type="DURATION" value="PT35H" temporalFunction="false">35 Stunden</TIMEX3>
+
+Autor: Joffe, Josef
+
+Ist doch ganz einfach: Man verkürze die Arbeitswoche auf <TIMEX3 tid="t3" type="DURATION" value="PT35H" temporalFunction="false">35 Stunden</TIMEX3>, und schon ist mehr Arbeit für alle da. Ökonomen haben diese Arithmetik stets mit jenem milden Seufzer kommentiert, der allen Konzepten gebührt, die den Markt mit einem schieren Akt des Willens außer Kraft zu setzen trachten. Was rationiert wird, ist noch nie und nirgendwo mehr geworden - auch nicht in Frankreich, wo die <TIMEX3 tid="t4" type="DURATION" value="PT35H" temporalFunction="false">35-Stunden-Woche</TIMEX3> vor <TIMEX3 tid="t5" type="DURATION" value="P6Y" beginPoint="t5" endPoint="t0" temporalFunction="false">sechs Jahren</TIMEX3><TIMEX3 tid="t6" type="DATE" value="1997" anchorTimeID="t0" temporalFunction="true"/> eingeführt wurde.   
+
+Inzwischen murren dort selbst die Begünstigten der Rationierung wider das Rezept. <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF" temporalFunction="false">Heute</TIMEX3> wollen zwei Drittel jener, die diese Errungenschaft genießen, sie wieder loswerden, wenn sie im Austausch mehr Geld in die Lohntüte bekämen. Insgesamt votieren 54 Prozent aller Franzosen für "aussetzen" oder "abschaffen", gar zwei Drittel meinen, dass die <TIMEX3 tid="t8" type="DURATION" value="PT35H" temporalFunction="false">35-Stunden-Woche</TIMEX3> keine Heilung der Arbeitslosigkeit verheißt.
+
+Was macht der Gutwillige mit solch böswilligen Daten? Auch diese Antwort ist ganz einfach. <TIMEX3 tid="t9" type="DURATION" value="PT35H" temporalFunction="false">35 Stunden</TIMEX3> sind nicht radikal genug. Besser wären <TIMEX3 tid="t10" type="DURATION" value="PT30H" temporalFunction="false">30 Stunden</TIMEX3> bei vollem Lohnausgleich. So hätten die Leute mehr Zeit zum Konsumieren, oder? Folglich wüchse der Umsatz und gliche so die gestiegenen Lohnstückkosten wieder aus. Herr Peters, übernehmen Sie! Aber bitte nicht verraten, woher Sie diese geniale Idee haben. Das Copyright gehört der IG Metall.   
+</TEXT>
+</TimeML>

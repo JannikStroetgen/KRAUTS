@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2632246_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-07-06" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-06</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="TIME" value="2015-07-06T16:05" anchorTimeID="t0" functionInDocument="NONE">16.05 Uhr</TIMEX3>: Radsport: Tour de France, 3. Etappe, Antwerpen - Huy <TIMEX3 tid="t2" type="TIME" value="2015-07-06T14:00" anchorTimeID="t0" functionInDocument="NONE">14.00</TIMEX3> und <TIMEX3 tid="t3" type="TIME" value="2015-07-06T17:40" anchorTimeID="t0" functionInDocument="NONE">17.40 Uhr</TIMEX3>: Tennis: Wimbledon, 3. Runde <TIMEX3 tid="t4" type="TIME" value="2015-07-06T22:30" anchorTimeID="t0" functionInDocument="NONE">22.30 Uhr</TIMEX3>: sportaktuell <TIMEX3 tid="t5" type="TIME" value="2015-07-06T13:00" anchorTimeID="t0" functionInDocument="NONE">13.00</TIMEX3> und <TIMEX3 tid="t6" type="TIME" value="2015-07-06T17:45" anchorTimeID="t0" functionInDocument="NONE">17.45 Uhr</TIMEX3>: LeMond on Tour <TIMEX3 tid="t7" type="TIME" value="2015-07-06T13:15" anchorTimeID="t0" functionInDocument="NONE">13.15 Uhr</TIMEX3>: Radsport: Tour de France, 3. Etappe,  Antwerpen - Huy <TIMEX3 tid="t8" type="TIME" value="2015-07-06T19:45" anchorTimeID="t0" functionInDocument="NONE">19.45 Uhr</TIMEX3>: Fußball: U19-Europameisterschaft, Gruppe A, 1. Spieltag, Österreich - Frankreich
+
+</TEXT>
+</TimeML>

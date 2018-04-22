@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>202804_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2012-08-20" temporalFunction="false" functionInDocument="CREATION_TIME">2012-08-20</TIMEX3></DCT>
+<TEXT>
+Meran/Hafling  (vvm). Die Kinderferien der VKE-Sektion Meran wurden heuer aufs Neue als Tageskolonie in Hafling abgehalten. Zwei Wochen konnten Kinder beider Sprachgruppen zwischen sechs und elf Jahren Wanderungen unternehmen und sich bei Schatzsuchen und Geländespielen austoben.  Grillfeste waren auch geplant. Die Betreuung übernahmen zwei freiwillige Zivildiener, zwei Betreuer und eine Praktikantin. Die Ferien wurden vom Land und der Stiftung Sparkasse finanziell unterstützt. Ein Dank gilt laut einer Aussendung der Gemeinde Hafling und der Volksschuldirektion Meran 3.
+</TEXT>
+</TimeML>

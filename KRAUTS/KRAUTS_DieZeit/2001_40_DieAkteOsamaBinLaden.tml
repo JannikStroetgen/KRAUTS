@@ -1,0 +1,34 @@
+<?xml version="1.0" ?><TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>2001_40_DieAkteOsamaBinLaden</DOCID>
+
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2001-09-27">27.09.2001</TIMEX3></DCT>
+
+<TITLE>Die Akte Osama bin Laden</TITLE>
+
+
+
+<TEXT>
+BUCH IM GESPRÄCH
+
+Die Akte Osama bin Laden
+
+Autor: Hénard, Jacqueline
+
+Der rote Streifen oben rechts ist nachträglich auf den Umschlag gezeichnet worden: "Den <TIMEX3 tid="t1" type="DATE" value="2001-09-11" anchorTimeID="t0" temporalFunction="true">11. September</TIMEX3> verstehen" heißt es da. Es ist ein Buch über Osama bin Laden, das erste nach den Terroranschlägen in Amerika, zufällig rechtzeitig erschienen in einem französischen Kleinstverlag. Das Manuskript war schon seit <TIMEX3 tid="t2" type="DURATION" value="PXM" temporalFunction="false">Monaten</TIMEX3> druckfertig. Es sei aus "technischen Gründen" nicht <TIMEX3 tid="t100" type="DATE" value="PAST_REF" temporalFunction="false">früher</TIMEX3> erschienen, erzählt der Verleger.
+
+Vermutlich waren es finanztechnische Gründe. Knie-, hüft- und schulterhoch stapeln sich verstaubte Kartons und alte Briefumschläge im Verlagshaus Jean Picollec, einem kleinen Eckgeschäft im dreizehnten Arrondissement. Geldsorgen wird er so bald nicht mehr haben. Die geplante Erstauflage für das Buch über bin Laden lag bei 3000 Stück, gedruckt wurden inzwischen 26 000. An <TIMEX3 tid="t3" type="DURATION" value="P1D">dem Tag</TIMEX3>, als es in den Handel kam, fragten vierzehn ausländische Verlage bei Picollec nach Lizenzrechten. Auf seinen Autor wartete eine Rückrufliste mit 150 Namen.
+
+Roland Jacquard hat schon dreizehn Bücher veröffentlicht, drei davon bei Picollec, Lieblingsthema: Spionage und Terrorismus. Hauptberuflich ist er "Berater" von ungenannten "Mitgliedsländern des UN-Sicherheitsrats" und präsidiert nebenbei auch noch zwei wenig bekannte Einrichtungen mit beeindruckenden Namen, das Internationale Terrorismus-Observatorium und das Studienzentrum für Bedrohungen der Gegenwart. Das soll nicht heißen, dass Jacquard ein Hallodri wäre. Er ist ein Mann mit guten Kontakten zu Geheimdiensten, den französischen wie den amerikanischen. Lange Passagen in dem Buch lesen sich wie leicht umformulierte Berichte von Ortskräften des CIA: Detailreiche Aufzählungen, etwa die Namen und Geschäftsbereiche des Firmenimperiums, dass bin Laden nach seiner Flucht vor einer Ausweisung aus Saudi-Arabien im Sudan aufgebaut hatte. Dazu Kurzbeschreibungen von Personen aus bin Ladens Umkreis mit vielen Einzelinformationen über familiäre Verflechtungen. Jedes Kapitel endet mit Fußnoten. Der Anhang umfasst knapp hundert Seiten oft arabischsprachiger Dokumente im Faksimile mit französischer Übersetzung.
+
+Das Buch breitet viele Informationen über bin Ladens Aktivitäten in <TIMEX3 tid="t4" type="DURATION" value="P10Y" beginPoint="t5" endPoint="t0" temporalFunction="false">den letzten zehn Jahren</TIMEX3><TIMEX3 tid="t5" type="DATE" value="1991-09-27" anchorTimeID="t0" temporalFunction="true"/> aus: Unterstützung der fundamentalistischen Terroristen in Algerien und Frankreich, Ausbildung und Entsendung von Kämpfern nach Bosnien und zur UÇK. Ein Kapitel beschäftigt sich mit der Frage nach den Waffensystemen, über die bin Laden verfügt: nicht nur chemische Massenvernichtungswaffen, sondern auch Bauteile für Atombomben, zum Beispiel angereichertes Uran. Über bin Ladens Persönlichkeit hingegen ist wenig Aufschlussreiches zu erfahren, weniger als in dem doppelseitigen Artikel von Robert Fisk, den Le Monde <TIMEX3 tid="t6" type="DATE" value="2001-W38" anchorTimeID="t0" temporalFunction="true">vergangene Woche</TIMEX3> veröffentlicht hat.
+
+Jacquard schreibt aus einer doppelten Ferne: Er hat bin Laden, anders als Fisk, nie getroffen, und in Mittelasien kennt er sich nicht gut genug aus, um seine Rohinformationen mit ausreichend einordnenden Worten zu umrahmen. Der Autor hat sein Buch aber auch nicht für den Katastrophenfall geschrieben - er wollte aufrütteln. Das erklärt den mitunter sensationsverliebten Ton und vielleicht auch den Mangel an Analyse. Manch andere Schwächen des Buchs rühren vermutlich aus der Nähe Jacquards zu bestimmten Geheimdiensten. Es fällt nicht eine kritische Bemerkung über die strategischen Fehler besonders der Amerikaner, die in Afghanistan und Pakistan, wie sie unterdessen auf grausame Weise erfahren haben, die falschen Leute unterstützt haben - die Taliban.
+
+Roland Jacquard: Au nom d'Oussama Ben Laden
+
+Dossier secret sur le terroriste le plus recherché du monde
+
+Editions Jean Picollec, Paris <TIMEX3 tid="t7" type="DATE" value="2001" temporalFunction="false">2001</TIMEX3> 399 S., 180 Franc
+</TEXT>
+</TimeML>

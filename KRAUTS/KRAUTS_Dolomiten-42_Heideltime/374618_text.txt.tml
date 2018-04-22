@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>374618_text.txt.xml</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-05-28" temporalFunction="false" functionInDocument="CREATION_TIME">2013-05-28</TIMEX3></DCT>
+<TEXT>
+Bozen . Wer seine Meinung äußert, sollte  mit seinem Namen dazu stehen. Unter diesem Motto ruft der freiheitliche Landtagsabgeordnete Sigmar Stocker dazu auf, auf anonyme Kommentare in Internet-Foren zu verzichten.  Tatsache sei nämlich, dass für manche Internet-Nutzer in den Weiten des Internets alle Hemmschwellen fielen und  es  in anonymen Stellungnahmen zu  groben  Beleidigungen  und  Diffamierungen komme.  Das aber, so Stocker, habe mit  Meinungsfreiheit nichts mehr zu tun. Kritische Meinungen bereicherten die Gesellschaft. Während bei Leserbriefen aber immer eine namentliche Zuordnung verlangt wird, werde in den Internet-Foren die Tonlage zunehmend  rauer.  Sich hinter einem Pseudonym zu verstecken und  andere zu beleidigen, sei aber nicht nur feige, sondern könne auch einen Straftatbestand erfüllen. 
+</TEXT>
+</TimeML>
+

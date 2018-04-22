@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2639783_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-07-07" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-07</TIMEX3></DCT>
+<TEXT>
+Bozen.  Liedermacher, Chansonnier, Geschichtenerzähler und Verzauberer: Georg Clementi singt sich mit seinen Zeitliedern, begleitet von Sigrid Gerlach-Waltenberger am Akkordeon und Tom Reif an der Gitarre, von Erfolg zu Erfolg. Mit Melodien und Texten, die ins Herz, ins Hirn und unter die Haut gehen. Um private Befindlichkeiten, die Lieblingsthemen vieler Liedermacher, schlägt Clementi einen großen Bogen. Er zeichnet vielmehr ein poetisches Bild des Zeitgeschehens.    Termin: <TIMEX3 tid="t2" type="DATE" value="2015-07-09">9. Juli</TIMEX3> auf Schloss Runkelstein  um 20.30 Uhr. Karten im Südtiroler Kulturinstitut und bei Athesia Ticket. Infos unter 0471 313800 oder www.kulturinstitut.org  
+
+</TEXT>
+</TimeML>
+

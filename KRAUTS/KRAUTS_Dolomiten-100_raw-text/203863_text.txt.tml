@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>203863_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2012-08-24" temporalFunction="false" functionInDocument="CREATION_TIME">2012-08-24</TIMEX3></DCT>
+<TEXT>
+Vals.   Auf der Fane Alm  dreht sich morgen und übermorgen  alles um die Milch.  Die Südtiroler Milchwirtschaft lädt zum Entdecken der Milch in allen Facetten ein: eine Milchspielwiese für die Kleinen, Milchgeschichten, eine Milcholympiade für alle Sportlichen, ein Milchkino, sowie kulinarische Milchspezialitäten. Das Highlight des Südtiroler Milchfestes ist:  "Herbert Pixner Projekt" morgen ab 12 Uhr. Termin: 25. und 26. August  von 10-18 Uhr. Infos: www.milchfest.it.
+
+</TEXT>
+<TIMEX3 tid="t10" type="DURATION" value="PT8H" temporalFunction="false" />
+</TimeML>

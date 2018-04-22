@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2002_9_7TageMitRudiHoogvliet</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2002-02-21">2002-02-21</TIMEX3></DCT>
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="P7D">7 Tage</TIMEX3> mit Rudi Hoogvliet
+
+DAS LEBEN GEHT WEITER VOM 21. BIS 27. FEBRUAR
+
+Autor: Wilke, Katja
+
+Wir stecken zwar noch in der Vorwahlkampfphase, stehen aber schon unter ordentlichem Zeitdruck. <TIMEX3 tid="t2" type="DATE" value="2002-W09">Nächste Woche</TIMEX3> fällt der Startschuss für unsere Kampagne: Wir präsentieren der Öffentlichkeit die grundlegende Ausrichtung, Strategie und Gestaltung. Die Partei kennt das Konzept bereits, denn seit <TIMEX3 mod="START" tid="t4" type="DATE" value="2002-02">Anfang Februar</TIMEX3> bin ich mit Reinhard Bütikofer, dem politischen Geschäftsführer der Grünen, durch die Bundesländer getourt, um die Kampagne zu präsentieren. Alle Grünen, die sie bisher gesehen haben, haben sich positiv geäußert, deswegen bin ich zuversichtlich, dass sie ein Erfolg wird.   
+
+Am DONNERSTAG setzt sich noch einmal der Wahlkampfstab zusammen. In diesem Gremium, in dem unter anderen Joschka Fischer und die beiden Vorsitzenden vertreten sind, haben wir in <TIMEX3 tid="t6" type="DURATION" value="PXW">den vergangenen Wochen</TIMEX3> die wesentlichen Entscheidungen zu den Grundlinien des Wahlkampfes getroffen. An <TIMEX3 tid="t8" type="DATE" value="2002-02-21">diesem Donnerstag</TIMEX3> begutachten wir noch einmal die Plakatentwürfe und besprechen die Präsentation auf der Pressekonferenz in <TIMEX3 tid="t7" type="DATE" value="2002-W09">der nächsten Woche</TIMEX3>. Sollte es Neuigkeiten geben, spreche ich sie anschließend mit unserer Werbeagentur Zum goldenen Hirschen durch.
+
+Am frühen Abend fliege ich nach Stuttgart, denn <TIMEX3 tid="t10" type="DATE" value="2002-02-22">morgen</TIMEX3> beginnt die Landesdelegiertenkonferenz in Ehingen. Am <TIMEX3 tid="t11" type="TIME" value="2002-02-21TEV">Abend</TIMEX3> habe ich endlich mal wieder Zeit, eine Kreismitgliederversammlung zu besuchen. Das zählt natürlich nicht direkt zu meinen Aufgaben als Wahlkampfmanager, aber ich habe lange Jahre als Vorstandsreferent beim Landesverband Baden-Württemberg gearbeitet. Ich bin zwar Niederländer, aber mein Herz hängt in Stuttgart, was natürlich auch daran liegt, dass meine Frau hier wohnt und arbeitet - im Wahlkampfbüro von Rezzo Schlauch. Nach der Versammlung mache ich mich auf den Weg zu ihr, damit wir am FREITAG zusammen im Auto zum Parteitag fahren können. Das hat schon eher wieder mit dem Wahlkampf zu tun, da dort die Listenplätze vergeben werden, und damit festgelegt wird, wer in den Bundestag einziehen kann.
+
+Abends treffe ich in einer Kneipe Bekannte und Freunde aus der Partei. Ich übernachte mit meiner Frau in einem Hotel in Ehingen.
+
+Am SAMSTAG geht es für die Baden-Württemberger Grünen um die Wurst. Die ungeraden Listenplätze sind für Frauen reserviert. Auf Platz eins kandidiert Uschi Eid, die Staatssekretärin im Entwicklungsministerium ist, und auf Platz zwei Fritz Kuhn. Mein Abendprogramm ist wie am <TIMEX3 tid="t12" type="DATE" value="2002-02-15">Freitag</TIMEX3> - das Gleiche in Grün.
+
+Nur dieses Mal wird es wohl entspannter zugehen, da der wichtigste Teil des Parteitags hinter uns liegt.
+
+Am SONNTAGmorgen werden dann die unwichtigeren Plätze besetzt. Das ist ein furchtbar langwieriges Verfahren, denn die Luft ist raus. Am <TIMEX3 tid="t13" type="TIME" value="2002-02-21TAF">Nachmittag</TIMEX3> geht es zurück nach Stuttgart, wo ich mit meiner Frau in einer Weinstube noch eine Kleinigkeit esse.
+
+Brutal früh fliege ich dann am MONTAG nach Berlin zurück. Mit Sack und Pack gehe ich um halb neun direkt in die Geschäftsstelle. <TIMEX3 tid="t14" type="DATE" value="2002-02-18">Montag</TIMEX3> ist Sitzungstag für Bundesvorstand und Parteirat. In letzter Zeit bin ich immer öfter dahin gegangen, denn ich muss inhaltlich auf dem neuesten Stand sein. Am <TIMEX3 tid="t15" type="TIME" value="2002-02-21TAF">Nachmittag</TIMEX3> setzt sich der Wahlkampfstab noch einmal zusammen, um die letzten Vorbereitungen für die Pressekonferenz zu treffen. Spät am <TIMEX3 tid="t16" type="TIME" value="2002-02-21TEV">Abend</TIMEX3> fahre ich zurück in meine Einzimmer-Hinterhofwohnung zwischen Mitte und Prenzlauer Berg. 45 Quadratmeter - alles andere wäre Quatsch für <TIMEX3 tid="t18" type="DURATION" value="P1Y">ein Jahr</TIMEX3>. Ich bin ja nur »auf Montage« in Berlin.
+
+DIENSTAG stellt das Wahlkampfteam zusammen mit Joschka Fischer dann endlich die Kampagne vor. Die Pressekonferenz wird nicht in der Geschäftsstelle gemacht, die Atmosphäre dort ist einfach nicht prickelnd genug. Das wird an einem Ort passieren, der etwas Avantgardistisches hat - so sehen wir uns schließlich auch.
+
+MITTWOCH setzen wir uns dann um <TIMEX3 tid="t20" type="TIME" value="2002-02-21T09:00">neun Uhr</TIMEX3> mit dem Bundesvorstand zusammen und werten Fernseh- und Zeitungsberichte aus. Wenn die Kampagne nicht so gut ankommt, oder irgend etwas Aktuelles passiert, müssen wir uns überlegen, wie wir reagieren. Es können immer Sachen passieren, die uns dazu zwingen, Teile der Kampagne zu revidieren. Aber im Moment sieht es glücklicherweise nicht danach aus.
+</TEXT>
+</TimeML>
+

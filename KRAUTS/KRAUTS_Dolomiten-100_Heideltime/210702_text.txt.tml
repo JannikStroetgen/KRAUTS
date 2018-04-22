@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>210702_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2012-09-18" temporalFunction="false" functionInDocument="CREATION_TIME">2012-09-18</TIMEX3></DCT>
+<TEXT>
+Bozen.  Vorhang auf für die Komödie von William Shakespeare "Viel Lärm um nichts"  im Großen Haus des Stadttheaters Bozen. Regisseurin Mona Kraushaar  inszeniert  zum ersten Mal für die Vereinigten Bühnen Bozen (VBB). Neben den  Gastschauspielern Christopher Nell  und Katja Uffelmann  steht der Südtiroler Schauspieler Günther Götsch  auf der Bühne. Termine: <TIMEX3 tid="t4" type="DATE" value="2012-09-28">28. September</TIMEX3>, Premiere, Großes Haus, <TIMEX3 tid="t6" type="TIME" value="2012-09-18T20:00">20 Uhr</TIMEX3> sowie am <TIMEX3 tid="t5" type="DATE" value="2012-09-29">29. September</TIMEX3>  und am 3., 4., 5., <TIMEX3 tid="t12" type="DATE" value="2012-10-06">6.</TIMEX3> und <TIMEX3 tid="t10" type="DATE" value="2012-10-07">7. Oktober</TIMEX3>, jeweils  <TIMEX3 tid="t13" type="TIME" value="2012-09-18T20:00">20 Uhr</TIMEX3>, Stückeinführung, Großes Haus, <TIMEX3 tid="t11" type="DATE" value="2012-09-29">29. September</TIMEX3>, 19.15 Uhr
+</TEXT>
+</TimeML>
+

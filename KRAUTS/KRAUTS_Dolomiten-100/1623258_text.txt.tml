@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1623258_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2014-10-03</TIMEX3></DCT>
+<TEXT>
+Sterzing . "Gefragt sind wir!" - zu einem Vortrag mit diesem Thema begrüßte Helga Mutschlechner Holzer vom KVW <TIMEX3 tid="t4" type="DATE" value="PAST_REF" functionInDocument="NONE">kürzlich</TIMEX3>  den Referenten Ulrich Ladurner, der Südtiroler Wurzeln hat und <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF" functionInDocument="NONE">derzeit</TIMEX3> als Journalist  bei der Wochenzeitung "Die Zeit" tätig ist, im Raiffeisensaal. In seinen Ausführungen nannte er sechs Zumutungen, die im  Menschen ein Gefühl der Sorge, der Angst und der Ohnmacht entstehen lassen können: Krieg, Migration, Internet, Euro, Neue Weltmächte und Terror."Trotz all dieser Zumutungen ist für mich die Gelassenheit eine entscheidende Lebensweise. Nicht dass ich missverstanden werde, dass mich diese Probleme nicht interessieren, weil ich sowieso nichts verändern kann, sondern dass es wichtig ist, immer genau hinzuschauen, worum es sich handelt und was passiert", so die Aussagen des Referenten. In einigen Beispielen erläuterte er seine Sichtweisen, die er aufgrund seiner journalistischen Tätigkeit in <TIMEX3 tid="t2" type="DURATION" value="PXY" functionInDocument="NONE">den vergangenen Jahren</TIMEX3> gesammelt hat. Helga Mutschlechner Holzer und Dekan Josef Knapp dankten dem Referenten für seine Ausführungen und den KVW Frauen, dem Jugenddienst Wipptal, dem Bildungsausschuss Sterzing, den katholischen Verbänden und der Raiffeisenkasse Wipptal für die Trägerschaft dieses Vortragsabends. 
+
+</TEXT>
+</TimeML>

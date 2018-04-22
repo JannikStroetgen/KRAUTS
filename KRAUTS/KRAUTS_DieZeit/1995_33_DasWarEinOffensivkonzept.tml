@@ -1,0 +1,54 @@
+<?xml version="1.0" ?><TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>1995_33_DasWarEinOffensivkonzept</DOCID>
+
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1995-08-11">11.08.1995</TIMEX3></DCT>
+
+<TITLE>Das war ein Offensivkonzept</TITLE>
+
+
+
+<TEXT>
+"DAS WAR EIN OFFENSIVKONZEPT"  
+
+Autor: Kleine-Brockhoff, Thomas    
+
+DIE ZEIT: Chaostage bei der Hannoveraner Polizei. Inzwischen hat es Rücktrittsforderungen gegen Sie, Herr Glogowski, gegeben . . .   
+
+Gerhard Glogowski: Eine, wir wollen es nicht überziehen. Dieser Herr von der Polizeigewerkschaft, einem völlig unbedeutenden Grüppchen, hat per Ferndiagnose die Ereignisse analysiert und sofort ein Urteil gefällt. Das nehme ich nicht ernst.
+
+ZEIT: Bundesinnenminister Manfred Kanther spricht von "Verantwortungsscheu der politischen Landesführung".
+
+Glogowski: Das gehört zum Ritual, eine Beschimpfung, ohne sich selber zu informieren. Wir haben eine Einsatzleitlinie gehabt, die Herr Kanther nicht kennt. Die würde ihn vom Formulieren knackiger Schlagworte abgebracht haben. Die Einsatzrichtlinie vom <TIMEX3 tid="t1" type="DATE" value="1995-07-17" anchorTimeID="t0" temporalFunction="true">17. Juli</TIMEX3> ist ein Offensivkonzept. Da steht drin: grundsätzlich keine Duldung von Rechtsverstößen, volles Ausschöpfen aller rechtlichen Möglichkeiten bei niedriger Einsatzschwelle von Anfang an.
+
+ZEIT: Und die Polizei hat das nach Ihrer Meinung umgesetzt?
+
+Glogowski: Die Frage ist, was die Polizei davon durchsetzen kann. Wir haben hier Ausländer gehabt: Engländer, Belgier, Holländer, Österreicher. Wir haben hier das halbe Gewaltpotential der Bundesrepublik gehabt. Wir haben Hamburgs Autonome von der Hafenstraße gehabt, wir haben Göttingens Autonome, wir haben Skins hier gehabt, wir haben die Hooligans hier gehabt, wir haben die Punks hier gehabt. Und wir haben eine solch brachiale Gewalt erlebt, wie ich sie bisher nicht gekannt habe. Das ist doch eine ganz neue Qualität. Daß die Polizei es da schwer hat, sich durchzusetzen, ist doch klar.
+
+ZEIT: 200 Polizisten wurden verletzt, genauso viele Punks. Sie sagen dennoch, der Einsatz sei angesichts der Umstände "vernünftig" verlaufen.
+
+Glogowski: Wir haben erst einmal die Innenstadt geschützt. Da war verkaufsoffener <TIMEX3 tid="t2" type="DATE" value="1995-08-05" anchorTimeID="t0" temporalFunction="true">Samstag</TIMEX3>, Maschseefest, Flohmarkt. Das ist völlig störungsfrei gelaufen. Das hat erhebliche Kräfte gebunden. Wir hatten die Auseinandersetzung in einigen Straßen in der Nordstadt, und zwar genau dort, wo es problematische Objekte gibt. Das Sprengel-Gelände, die Kofferfabrik, dort halten sich die Autonomen auf. Teile der Autonomen haben sich mit den Punks solidarisiert. Das ist auch neu. Auf dem Gelände der Autonomen haben sie sich verschanzt. Wir müssen darüber nachdenken, ob wir solche Räume in <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF" temporalFunction="false">Zukunft</TIMEX3> noch dulden können. Wir müssen das aber genau prüfen, weil auch Teile der Autonomen sich distanziert haben von diesen Auseinandersetzungen.
+
+ZEIT: Polizisten haben zugeschaut, wie ein Laden ausgeplündert wurde. Fällt das unter den Begriff Deeskalation, oder handelt es sich um Strafvereitelung im Amt?
+
+Glogowski: Das darf es nicht geben. Die Einsatzlinie war: keine Duldung von Rechtsverstößen. Die Polizei hat mir bis <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF" temporalFunction="false">zur Stunde</TIMEX3> noch nicht abschließend sagen können, wie das abgelaufen ist. Das muß mir schon sehr plausibel erklärt werden, wenn ich es hinnehmen soll.
+
+ZEIT: Was ist von Polizisten zu halten, die - ein bisher einmaliger Fall - Pflastersteine auf Gewalttäter zurückwerfen?
+
+Glogowski: Sehen Sie, da habe ich die Aussage eines Journalisten, der darüber <TIMEX3 tid="t5" type="DATE" value="1995-08-11" anchorTimeID="t0" temporalFunction="true">heute</TIMEX3> geschrieben hat, ein Mann, den ich kenne und schätze, weil ich weiß, daß er eine sehr abgewogene Meinung hat. Der sagt, er habe daneben gestanden. Die Polizisten hätten nicht zurückgeschmissen.
+
+ZEIT: Also alles klar, Vorfall abgehakt?
+
+Glogowski: Nein, das wird natürlich untersucht, weil es auch andere Aussagen gibt. Das muß geklärt werden.
+
+ZEIT: <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF" temporalFunction="false">Jetzt</TIMEX3> wird nach schärferen Gesetzen gerufen. Horst Eylmann, der Vorsitzende des Rechtsausschusses des Bundestages, will den Unterbringungsgewahrsam von <TIMEX3 tid="t7" type="DURATION" value="PT48H" temporalFunction="false">48 Stunden</TIMEX3> auf <TIMEX3 tid="t8" type="DURATION" value="P2W" temporalFunction="false">zwei Wochen</TIMEX3> auszudehnen. Was halten Sie davon?
+
+Glogowski: Gesetze sind ein Teil des Handwerkszeugs. Man muß analysieren: Was hat die Polizei wirklich in ihren Entscheidungen behindert? Das muß uns die Polzei erst einmal genau sagen, und dann müssen wir sehen, ob wir Konsequenzen ziehen. Ich denke pragmatisch. Wir müssen tun, was notwendig ist, damit der Staat solche Lagen beherrschen kann. Wir müssen allerdings auch zur Kenntnis nehmen, daß diese Rufe nach Gesetzesänderung unmittelbar nach solchen Ereignissen kommen, und zwar meist von Leuten, die immer alles ganz genau wissen.
+
+ZEIT: Was wollen Sie tun, damit es nicht noch einmal zu solchen Gewaltexzessen kommt?
+
+Glogowski: Wir müssen erstens deutlich machen, daß wir Gewaltexzesse nicht hinnehmen und mit den Mitteln der Polizei verhindern werden. Wir müssen im <TIMEX3 tid="t9" type="DATE" value="1996" anchorTimeID="t0" temporalFunction="true">nächsten Jahr</TIMEX3> noch stärker präsent sein. Und wir müssen zweitens das rechtliche Instrumentarium überprüfen. Drittens haben wir in der Jugendpolitik einiges aufzuarbeiten. Und das in einer Zeit, in der wir den Städten gerade die Luft zum Atmen nehmen, nämlich das Geld.
+
+Die Fragen stellte Thomas Kleine-Brockhoff
+</TEXT>
+</TimeML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TimeML xmlns:ns0="xsi" ns0:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd" xmlns:ns1="xmlns" ns1:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DOCID>2000_8_FuerPortugalurlauber</DOCID>
+<DCT><TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="2000-02-17">2000-02-17</TIMEX3></DCT>
+<TEXT>
+Für Portugal-Urlauber liegt <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">jetzt</TIMEX3> eine Übersicht von 135 Veranstaltern vor, die das Land im Programm haben.
+
+REISE
+
+Für Portugal-Urlauber liegt <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">jetzt</TIMEX3> eine Übersicht von 135 Veranstaltern vor, die das Land im Programm haben. Aufgelistet sind Spezialreisen wie Kreuzfahrten und Wandertouren sowie die preisgünstigsten Angebote.
+
+Anzufordern beim Portugiesischen Touristik- und Handelsbüro (Schäfergasse 7, 60313 Frankfurt am Main, Tel. 069/23 40 94, Fax 23 14 33).
+
+Kants politische Philosophie lautet ein Thema der Lindauer Philosophiewochen, die erstmals vom <TIMEX3 tid="t5" type="DATE" value="2000-06-05">5.</TIMEX3> bis zum <TIMEX3 tid="t4" type="DATE" value="2000-06-09">9. Juni</TIMEX3> in Lindau stattfinden. Das Seminar kostet 250 Mark. Anmeldung: Harlad Strohm, Postfach <TIMEX3 tid="t6" type="DATE" value="2142">2142</TIMEX3>, 88111 Lindau, Tel. 08382/727 67.
+
+In Legoland im dänischen Billund wird am <TIMEX3 tid="t8" type="DATE" value="1999-06-01">1. Juni</TIMEX3> ein Hotel eröffnet. Eine Übernachtung in den extra großen Zimmern kostet für eine vierköpfige Familie inklusive Eintrittskarten zirka 620 Mark. Information: Hotel Legoland, DK-7190 Billund, Tel. 0045/75 33 12 44, Fax 75 35 38 10, Internet: www.hotellegoland.com
+</TEXT>
+</TimeML>
+

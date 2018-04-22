@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>261421_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2013-01-22" temporalFunction="false" functionInDocument="CREATION_TIME">2013-01-22</TIMEX3></DCT>
+<TEXT>
+Brixen  (mpi). Bürgermeister Albert Pürgstaller will mit allen Fraktionen über die Neupositionierung der Tennisplätze sprechen, bevor er die Vorschläge der Öffentlichkeit vorstellt. Dieses Vorgehen habe sich beim Erarbeiten des Bauleitplans bewährt, sagte Bürgermeister Albert Pürgstaller gegenüber der Tageszeitung "Dolomiten". Wie berichtet sollen die Tennisplätze weichen, um das Priel-Areal besser nutzen zu können. Angestrebt wird, die Tennisplätze in die Sportzone Süd zu integrieren. Was dort saniert, weiter genutzt oder verschwinden soll, soll heuer bei einer Überprüfung im Rathaus geklärt werden.
+</TEXT>
+</TimeML>

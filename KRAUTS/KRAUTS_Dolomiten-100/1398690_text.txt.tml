@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1398690_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2014-07-10" temporalFunction="false" functionInDocument="CREATION_TIME">2014-07-10</TIMEX3></DCT>
+<TEXT>
+Bozen  (fin). Die Chancen stehen gut, dass  in Sachen Entschärfung des Mussolini-Reliefs am Gerichtsplatz endlich etwas weitergeht. Der Stadtrat hat <TIMEX3 tid="t2" type="DATE" value="2014-07-09" anchorTimeID="t0" functionInDocument="NONE">gestern</TIMEX3> das Vorhaben, das Hannah Arendt-Zitat anzubringen, gutgeheißen. Es war ein formeller Akt. Absehbar ist deshalb noch lange  nicht, wann die Arbeiten schlussendlich in Angriff genommen werden können. Bei der Abstimmung enthalten hat sich Vizebürgermeister Klaus Ladinser. Er ist nämlich nach wie vor der Meinung, dass das Relief gänzlich aus dem Stadtbild verschwinden  und in einem musealen Kontext gezeigt werden soll. "Die Abbildung eines  Diktators, der  alles   unternommen hat, um meine Volksgruppe zu vernichten, hat auf einem öffentlichen Platz nichts zu suchen", meint Ladinser.  
+</TEXT>
+</TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>3089175_text</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2015-09-25" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-25</TIMEX3></DCT>
+<TEXT>
+Bozen.  In Bozen ist  am <TIMEX3 tid="t2" type="DATE" value="2015-09-21" anchorTimeID="t0" functionInDocument="NONE">Montag</TIMEX3>  um <TIMEX3 tid="t3" type="TIME" value="2015-09-21T17:30" anchorTimeID="t2" functionInDocument="NONE">17.30 Uhr</TIMEX3> ein ökumenischer Radtag angesetzt; er führt vom Domplatz zur Stiftskirche nach Gries. Mit dabei sind Bischof Ivo Muser und Vertreter der in Südtirol lebenden christlichen Kirchen.  
+</TEXT>
+</TimeML>
